@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2090625533830910224",
+    "created_at": "2026-08-21T02:22:23.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090625533830910224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1692792823995592704",
+          "start": 3,
+          "username": "chuchubaby0828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090625533830910224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090268680315863330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuchubaby0828: 支持中国男性操中国男性，男人操男人简直双倍阳刚！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2090625533830910224",
+        "created_at": "2026-08-21T02:22:23.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090625533830910224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1692792823995592704",
+              "start": 3,
+              "username": "chuchubaby0828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090625533830910224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090268680315863330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuchubaby0828: 支持中国男性操中国男性，男人操男人简直双倍阳刚！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692792823995592704",
+        "conversation_id": "2090268680315863330",
+        "created_at": "2026-08-20T02:44:23.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090268680315863330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090268680315863330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 49511,
+          "like_count": 2556,
+          "quote_count": 12,
+          "reply_count": 115,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "支持中国男性操中国男性，男人操男人简直双倍阳刚！！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090625533830910224",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 112,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-19T06:57:29.000Z",
+        "description": "跑路了😋",
+        "id": "1692792823995592704",
+        "is_identity_verified": false,
+        "location": "England, United Kingdom",
+        "most_recent_tweet_id": "2090445014350635261",
+        "name": "天蕾全否定bot（1013已官宣）",
+        "pinned_tweet_id": "1977560096684273916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692792823995592704/1759579525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978370380843585537/Wqu0hVuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 98,
+          "like_count": 545,
+          "listed_count": 7,
+          "media_count": 488,
+          "tweet_count": 2228
+        },
+        "url": "",
+        "username": "chuchubaby0828",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2090979288455794862",
+    "created_at": "2026-08-22T01:48:05.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T02:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090979288455794862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YA_0542/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/YA_0542/status/2090977864577581477",
+          "start": 22,
+          "url": "https://t.co/l7RIOclv4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090979288455794862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090977864577581477",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个是我女友，求宝宝们去找她互fo...🥺 https://t.co/l7RIOclv4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090977854725210112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSlR8gawAAbHD8.jpg",
+        "width": 1639
+      },
+      {
+        "height": 1323,
+        "media_key": "3_2090977854720995328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSlR8facAADHN3.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2090979288455794862",
+        "created_at": "2026-08-22T01:48:05.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090979288455794862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YA_0542/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/YA_0542/status/2090977864577581477",
+              "start": 22,
+              "url": "https://t.co/l7RIOclv4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090979288455794862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090977864577581477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是我女友，求宝宝们去找她互fo...🥺 https://t.co/l7RIOclv4Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090977854725210112",
+            "3_2090977854720995328"
+          ]
+        },
+        "author_id": "1889738419020111872",
+        "conversation_id": "2090977864577581477",
+        "created_at": "2026-08-22T01:42:26.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T02:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090977864577581477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeOrTay4Vr",
+              "end": 120,
+              "expanded_url": "https://x.com/YA_0542/status/2090977864577581477/photo/1",
+              "media_key": "3_2090977854725210112",
+              "start": 97,
+              "url": "https://t.co/YeOrTay4Vr"
+            },
+            {
+              "display_url": "pic.x.com/YeOrTay4Vr",
+              "end": 120,
+              "expanded_url": "https://x.com/YA_0542/status/2090977864577581477/photo/1",
+              "media_key": "3_2090977854720995328",
+              "start": 97,
+              "url": "https://t.co/YeOrTay4Vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090977864577581477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090977854725210112"
+          },
+          {
+            "media_key": "3_2090977854720995328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我叫妙妙 叫我喵喵也可以💕\n\n07/10/15 生理性别女\nintp |双相|我抽我o我割|恋爱中\n不常营业黑茶 喜欢我请给我路评\n请和我互🤍可以的话请帮我转转～\n\n⚠️审核我是假伤口注意辨别 https://t.co/YeOrTay4Vr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090979288455794862",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 126,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-12T18:09:00.000Z",
+        "description": "这个用户很懒 什么都没有写",
+        "id": "1889738419020111872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090977864577581477",
+        "name": "Kissy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889738419020111872/1760375399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090965506694217728/q7MM1Xky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "YA_0542",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

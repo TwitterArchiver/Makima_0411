@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2091145200320311664",
+    "created_at": "2026-08-22T12:47:22.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091145200320311664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/67De_dian/stat…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/67De_dian/status/2091119209371546016",
+          "start": 68,
+          "url": "https://t.co/lbL6UW5OSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091145200320311664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091119209371546016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们磕药了之后会胡言乱语，可是我胡言乱语从不需要磕药，当我拿起手机敲击键盘的时候我的底层代码自动触发了，我表示与生俱来的天赋无可比拟。 https://t.co/lbL6UW5OSz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2091145200320311664",
+        "created_at": "2026-08-22T12:47:22.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091145200320311664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/67De_dian/stat…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/67De_dian/status/2091119209371546016",
+              "start": 68,
+              "url": "https://t.co/lbL6UW5OSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091145200320311664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091119209371546016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们磕药了之后会胡言乱语，可是我胡言乱语从不需要磕药，当我拿起手机敲击键盘的时候我的底层代码自动触发了，我表示与生俱来的天赋无可比拟。 https://t.co/lbL6UW5OSz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087636528633982976",
+        "conversation_id": "2091119209371546016",
+        "created_at": "2026-08-22T11:04:05.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091119209371546016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmeAsukaLangle…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/AmeAsukaLangley/status/2090971681191772363",
+              "start": 68,
+              "url": "https://t.co/cLsAG4ECvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091119209371546016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090971681191772363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们磕药了之后会胡言乱语，可是我胡言乱语从不需要磕药，当我拿起手机敲击键盘的时候我的底层代码自动触发了，我表示与生俱来的天赋无可比拟。 https://t.co/cLsAG4ECvb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091145200320311664",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 130,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091142937371386295",
+        "name": "绝望_6De点 2.0",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 240,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

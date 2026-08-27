@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2091203274632560840",
+    "created_at": "2026-08-22T17:38:52.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T18:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091218561641673200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2080466955077812224",
+          "start": 0,
+          "username": "chunlan1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091218561641673200",
+    "in_reply_to_user_id": "2080466955077812224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091211267671494829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunlan1024 好的好的！那我就口服喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2091203274632560840",
+        "created_at": "2026-08-22T17:38:52.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091218561641673200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2080466955077812224",
+              "start": 0,
+              "username": "chunlan1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091218561641673200",
+        "in_reply_to_user_id": "2080466955077812224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091211267671494829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunlan1024 好的好的！那我就口服喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080466955077812224",
+        "conversation_id": "2091203274632560840",
+        "created_at": "2026-08-22T17:09:53.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091211267671494829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091211267671494829",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091203274632560840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 我记得普瑞好像口服就是吸收率最高的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091218561641673200",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 132,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-24T01:37:32.000Z",
+        "description": "推特当日记发，喜欢路评。",
+        "id": "2080466955077812224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091217365799403559",
+        "name": "黄金数",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080466955077812224/1787325821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091139246962909184/UKR8RJri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 47,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "chunlan1024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

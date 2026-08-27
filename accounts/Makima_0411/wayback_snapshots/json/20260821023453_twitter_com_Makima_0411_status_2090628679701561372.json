@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2090520449876938836",
+    "created_at": "2026-08-21T02:34:53.000Z",
+    "display_text_range": [
+      8,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090628679701561372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676927258714587140",
+          "start": 0,
+          "username": "7xllhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090628679701561372",
+    "in_reply_to_user_id": "1676927258714587140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090520449876938836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xllhs 我也是，我昨晚还在测评我的一堆刀哪个更快，然后每一个都往胳膊上划一下，最后把不快的刀扔了，比较快的留下😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2090520449876938836",
+        "created_at": "2026-08-21T02:34:53.000Z",
+        "display_text_range": [
+          8,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090628679701561372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676927258714587140",
+              "start": 0,
+              "username": "7xllhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090628679701561372",
+        "in_reply_to_user_id": "1676927258714587140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090520449876938836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xllhs 我也是，我昨晚还在测评我的一堆刀哪个更快，然后每一个都往胳膊上划一下，最后把不快的刀扔了，比较快的留下😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676927258714587140",
+        "conversation_id": "2090520449876938836",
+        "created_at": "2026-08-20T19:24:49.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T20:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090520449876938836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090520449876938836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是认真好久没有自残了你们知道吗但我不知道我有啥毛病我现在闲着没事就想来两刀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090628679701561372",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 115,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-06T12:13:26.000Z",
+        "description": "互of互转🉑\n@RPrdeo 狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "RPrdeo"
+              }
+            ]
+          }
+        },
+        "id": "1676927258714587140",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2090553611365601363",
+        "name": "月読　ひな乃",
+        "pinned_tweet_id": "2072980828167221577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676927258714587140/1755895785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931451560007290881/J0VcGnxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 57,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "7xllhs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

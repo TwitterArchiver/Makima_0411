@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2091262711753822366",
+    "created_at": "2026-08-23T01:26:10.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091336161692369065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724267127031672832",
+          "start": 0,
+          "username": "aliebwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091336161692369065",
+    "in_reply_to_user_id": "1724267127031672832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091262711753822366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliebwa 妈妈，爸爸，主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2091262702866022400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWoWShaQAAYnjO.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2091262711753822366",
+        "created_at": "2026-08-23T01:26:10.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091336161692369065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724267127031672832",
+              "start": 0,
+              "username": "aliebwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091336161692369065",
+        "in_reply_to_user_id": "1724267127031672832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091262711753822366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliebwa 妈妈，爸爸，主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091262702866022400"
+          ]
+        },
+        "author_id": "1724267127031672832",
+        "conversation_id": "2091262711753822366",
+        "created_at": "2026-08-22T20:34:18.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091262711753822366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uq9vH4nrXm",
+              "end": 41,
+              "expanded_url": "https://x.com/aliebwa/status/2091262711753822366/photo/1",
+              "media_key": "3_2091262702866022400",
+              "start": 18,
+              "url": "https://t.co/uq9vH4nrXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091262711753822366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091262702866022400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1496,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想要？抽奖抽出去吧 反正也不吃了 https://t.co/uq9vH4nrXm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "YA_0542"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091336161692369065",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 141,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "🚪66 努力活着努力活下去",
+        "id": "1724267127031672832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091307322018775216",
+        "name": "idi",
+        "pinned_tweet_id": "2091158859784310855",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724267127031672832/1699933762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 1142,
+          "like_count": 1212,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1773
+        },
+        "url": "",
+        "username": "aliebwa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

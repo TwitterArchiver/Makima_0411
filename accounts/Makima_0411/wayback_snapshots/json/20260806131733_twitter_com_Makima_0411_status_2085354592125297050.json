@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2085354592125297050",
+    "created_at": "2026-08-06T13:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085354592125297050"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085354592125297050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操了之前好不容易搞到3t曲马多，吃完就睡着了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2085354592125297050",
+        "created_at": "2026-08-06T13:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085354592125297050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085354592125297050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操了之前好不容易搞到3t曲马多，吃完就睡着了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "",
+        "id": "2085036823252987904",
+        "name": "鋸女一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085347358645362688/1IR-AHAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false
+      }
+    ]
+  }
+}

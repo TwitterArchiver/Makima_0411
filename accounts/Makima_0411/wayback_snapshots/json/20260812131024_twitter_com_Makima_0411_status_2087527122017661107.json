@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086818189200216064",
+        "3_2086818189208584192"
+      ],
+      "media_source_tweet_id": [
+        "2086818195705585912",
+        "2086818195705585912"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "conversation_id": "2087527122017661107",
+    "created_at": "2026-08-12T13:10:24.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087527122017661107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1324815043117023233",
+          "start": 3,
+          "username": "ujiminphoria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wZ96p6L693",
+          "end": 119,
+          "expanded_url": "https://x.com/ujiminphoria/status/2086818195705585912/photo/1",
+          "media_key": "3_2086818189200216064",
+          "start": 96,
+          "url": "https://t.co/wZ96p6L693"
+        },
+        {
+          "display_url": "pic.x.com/wZ96p6L693",
+          "end": 119,
+          "expanded_url": "https://x.com/ujiminphoria/status/2086818195705585912/photo/1",
+          "media_key": "3_2086818189208584192",
+          "start": 96,
+          "url": "https://t.co/wZ96p6L693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087527122017661107",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086818189200216064"
+      },
+      {
+        "media_key": "3_2086818189208584192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1948
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086818195705585912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ujiminphoria: KARINA WENT LIVE BAREFACED AND SHE LITERALLY LOOKS LIKE HER PREDEBUT ERA OMG😭 https://t.co/wZ96p6L693"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1651,
+        "media_key": "3_2086818189200216064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXeFi4aUAAwiRg.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1651,
+        "media_key": "3_2086818189208584192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXeFi6aAAAhClC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086818189200216064",
+            "3_2086818189208584192"
+          ]
+        },
+        "author_id": "1324815043117023233",
+        "conversation_id": "2086818195705585912",
+        "created_at": "2026-08-10T14:13:23.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086818195705585912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZ96p6L693",
+              "end": 101,
+              "expanded_url": "https://x.com/ujiminphoria/status/2086818195705585912/photo/1",
+              "media_key": "3_2086818189200216064",
+              "start": 78,
+              "url": "https://t.co/wZ96p6L693"
+            },
+            {
+              "display_url": "pic.x.com/wZ96p6L693",
+              "end": 101,
+              "expanded_url": "https://x.com/ujiminphoria/status/2086818195705585912/photo/1",
+              "media_key": "3_2086818189208584192",
+              "start": 78,
+              "url": "https://t.co/wZ96p6L693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086818195705585912",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086818189200216064"
+          },
+          {
+            "media_key": "3_2086818189208584192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1098,
+          "impression_count": 227859,
+          "like_count": 17164,
+          "quote_count": 73,
+          "reply_count": 21,
+          "retweet_count": 1948
+        },
+        "reply_settings": "everyone",
+        "text": "KARINA WENT LIVE BAREFACED AND SHE LITERALLY LOOKS LIKE HER PREDEBUT ERA OMG😭 https://t.co/wZ96p6L693"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086818189200216064",
+            "3_2086818189208584192"
+          ],
+          "media_source_tweet_id": [
+            "2086818195705585912",
+            "2086818195705585912"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "conversation_id": "2087527122017661107",
+        "created_at": "2026-08-12T13:10:24.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087527122017661107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1324815043117023233",
+              "start": 3,
+              "username": "ujiminphoria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZ96p6L693",
+              "end": 119,
+              "expanded_url": "https://x.com/ujiminphoria/status/2086818195705585912/photo/1",
+              "media_key": "3_2086818189200216064",
+              "start": 96,
+              "url": "https://t.co/wZ96p6L693"
+            },
+            {
+              "display_url": "pic.x.com/wZ96p6L693",
+              "end": 119,
+              "expanded_url": "https://x.com/ujiminphoria/status/2086818195705585912/photo/1",
+              "media_key": "3_2086818189208584192",
+              "start": 96,
+              "url": "https://t.co/wZ96p6L693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087527122017661107",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086818189200216064"
+          },
+          {
+            "media_key": "3_2086818189208584192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1948
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086818195705585912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ujiminphoria: KARINA WENT LIVE BAREFACED AND SHE LITERALLY LOOKS LIKE HER PREDEBUT ERA OMG😭 https://t.co/wZ96p6L693"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "",
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087527122017661107",
+        "name": "鋸女一",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1786020529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085347358645362688/1IR-AHAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-06T20:45:05.000Z",
+        "description": "all for Karina",
+        "id": "1324815043117023233",
+        "is_identity_verified": false,
+        "location": "she/her  free palestine",
+        "most_recent_tweet_id": "2087498492705173668",
+        "name": "Karina♡",
+        "pinned_tweet_id": "1860264601432322119",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324815043117023233/1771492767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024412663766536192/B2GonZxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210111,
+          "following_count": 47,
+          "like_count": 33056,
+          "listed_count": 1251,
+          "media_count": 12198,
+          "tweet_count": 29222
+        },
+        "url": "",
+        "username": "ujiminphoria",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2091203274632560840",
+    "created_at": "2026-08-23T01:09:05.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091331860823708136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1982087657703591936",
+          "start": 0,
+          "username": "ugaoOVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091331860823708136",
+    "in_reply_to_user_id": "1982087657703591936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091237095021170998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugaoOVO 欧坤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2091203274632560840",
+        "created_at": "2026-08-23T01:09:05.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091331860823708136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1982087657703591936",
+              "start": 0,
+              "username": "ugaoOVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091331860823708136",
+        "in_reply_to_user_id": "1982087657703591936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091237095021170998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugaoOVO 欧坤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982087657703591936",
+        "conversation_id": "2091203274632560840",
+        "created_at": "2026-08-22T18:52:31.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091237095021170998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091237095021170998",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091203274632560840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 不会，口服最好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091331860823708136",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 141,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-25T14:11:52.000Z",
+        "description": "超绝美丽的废话大王🚪52/188，同类互fo，可以和我聊天，很爱聊天，intp ，日本語が話せる、気にせずコメントしてください。",
+        "id": "1982087657703591936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091237095021170998",
+        "name": "u糕",
+        "pinned_tweet_id": "2090141630187925697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982087657703591936/1773299547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982087774955053056/njuGsRcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 30,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "ugaoOVO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

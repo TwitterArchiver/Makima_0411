@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2085421858648994075",
+    "created_at": "2026-08-07T10:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085677331126079624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1882705285816672256",
+          "start": 0,
+          "username": "tom779853915031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085677331126079624",
+    "in_reply_to_user_id": "1882705285816672256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085421858648994075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom779853915031 我也是😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2085421858648994075",
+        "created_at": "2026-08-07T10:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085677331126079624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1882705285816672256",
+              "start": 0,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085677331126079624",
+        "in_reply_to_user_id": "1882705285816672256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085421858648994075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom779853915031 我也是😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882705285816672256",
+        "conversation_id": "2085421858648994075",
+        "created_at": "2026-08-06T17:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085421858648994075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085421858648994075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早买药好了😭😭正好卡在pr ym网络禁售前后才打算od😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "",
+        "id": "2085036823252987904",
+        "name": "鋸女一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085347358645362688/1IR-AHAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T08:21:47.000Z",
+        "description": "中度抑郁 | oder | 友跨 | 非跨 | 可私 | 男 | 心理性别未知 | 重度社交恐惧（不过网上应该还好吧…？）\n艰难的活着ing…",
+        "id": "1882705285816672256",
+        "name": "苯环",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084867150938857472/fIpNJgBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 82,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "tom779853915031",
+        "verified": false
+      }
+    ]
+  }
+}

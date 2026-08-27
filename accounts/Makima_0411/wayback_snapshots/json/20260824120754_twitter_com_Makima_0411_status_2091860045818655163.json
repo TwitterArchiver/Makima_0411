@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2091495559139934252",
+    "created_at": "2026-08-24T12:07:54.000Z",
+    "display_text_range": [
+      9,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T13:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091860045818655163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072344074796113920",
+          "start": 0,
+          "username": "enwysn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091860045818655163",
+    "in_reply_to_user_id": "2072344074796113920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091495559139934252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enwysn6 没说中文就是不在乎中粉，说了中文就说她是山东人😹有些人能不能别这么傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2091495559139934252",
+        "created_at": "2026-08-24T12:07:54.000Z",
+        "display_text_range": [
+          9,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091860045818655163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072344074796113920",
+              "start": 0,
+              "username": "enwysn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091860045818655163",
+        "in_reply_to_user_id": "2072344074796113920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091495559139934252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enwysn6 没说中文就是不在乎中粉，说了中文就说她是山东人😹有些人能不能别这么傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072344074796113920",
+        "conversation_id": "2091495559139934252",
+        "created_at": "2026-08-23T11:59:34.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091495559139934252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091495559139934252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3934,
+          "like_count": 196,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "能不能不要这么恨张元英呢，说英文没说中文时，你们喷她说她没说中文，说了中文，你们说她咋没有说粤语"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "YA_0542"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091860045818655163",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091483534305497088/WkTRQgaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 158,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T15:39:22.000Z",
+        "description": "Only for Wonyoung",
+        "id": "2072344074796113920",
+        "is_identity_verified": false,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2091567328597299632",
+        "name": "enwy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072344074796113920/1784872240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091192780358082560/s7jDq099_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 138,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 560
+        },
+        "url": "",
+        "username": "enwysn6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

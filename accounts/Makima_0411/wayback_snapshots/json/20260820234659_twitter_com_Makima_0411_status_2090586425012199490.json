@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2090472291608260690",
+    "created_at": "2026-08-20T23:46:59.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T00:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090586425012199490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073075334845710336",
+          "start": 0,
+          "username": "Juhoon2Janlu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090586425012199490",
+    "in_reply_to_user_id": "2073075334845710336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090557526936793472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Juhoon2Janlu 严肃品鉴😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2090472291608260690",
+        "created_at": "2026-08-20T23:46:59.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T00:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090586425012199490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073075334845710336",
+              "start": 0,
+              "username": "Juhoon2Janlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090586425012199490",
+        "in_reply_to_user_id": "2073075334845710336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090557526936793472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Juhoon2Janlu 严肃品鉴😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073075334845710336",
+        "conversation_id": "2090472291608260690",
+        "created_at": "2026-08-20T21:52:09.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T22:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090557526936793472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090557526936793472",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090472291608260690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 不错不错😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈",
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090586425012199490",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 105,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T16:07:13.000Z",
+        "description": "あの日見た雪の名前を僕達はまだ知らない",
+        "id": "2073075334845710336",
+        "is_identity_verified": false,
+        "location": "金主训怀里",
+        "most_recent_tweet_id": "2090567495002558846",
+        "name": "ゆき、",
+        "pinned_tweet_id": "2090368737757081859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073075334845710336/1785870729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073076345031274496/t4IWfXo5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 18,
+          "like_count": 1867,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 784
+        },
+        "url": "",
+        "username": "Juhoon2Janlu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

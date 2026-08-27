@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2085054304717832611",
+    "created_at": "2026-08-05T17:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085054304717832611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053079331216441344",
+          "start": 3,
+          "username": "renrendesuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085054304717832611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084441610738343977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renrendesuki: 我覺得國家禁od的藥真的太傻逼了。他媽的不去關注青少年心理健康 不去解決這個社會壓力大的問題 不去解決校園霸凌的問題 不去解決原生家庭的問題 他媽來禁這個藥，，我講真的有很多人在學校被霸凌 十幾歲就被父母拋棄才選擇用od這種方式緩解痛苦。你他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2085054304717832611",
+        "created_at": "2026-08-05T17:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085054304717832611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053079331216441344",
+              "start": 3,
+              "username": "renrendesuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085054304717832611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084441610738343977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renrendesuki: 我覺得國家禁od的藥真的太傻逼了。他媽的不去關注青少年心理健康 不去解決這個社會壓力大的問題 不去解決校園霸凌的問題 不去解決原生家庭的問題 他媽來禁這個藥，，我講真的有很多人在學校被霸凌 十幾歲就被父母拋棄才選擇用od這種方式緩解痛苦。你他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053079331216441344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2084441610738343977",
+        "created_at": "2026-08-04T00:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084441610738343977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084441610738343977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8339,
+          "like_count": 224,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我覺得國家禁od的藥真的太傻逼了。他媽的不去關注青少年心理健康 不去解決這個社會壓力大的問題 不去解決校園霸凌的問題 不去解決原生家庭的問題 他媽來禁這個藥，，我講真的有很多人在學校被霸凌 十幾歲就被父母拋棄才選擇用od這種方式緩解痛苦。你他媽把藥禁了 這些人全他媽去自殺了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "",
+        "id": "2085036823252987904",
+        "name": "allmxx",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T11:48:40.000Z",
+        "description": "你好呀！！這裡是戀戀！！！希望有人能跟我互fo呀wwww！！！",
+        "id": "2053079331216441344",
+        "name": "戀戀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080278765780033536/CFpN5f8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 138,
+          "like_count": 2804,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 676
+        },
+        "url": "",
+        "username": "renrendesuki",
+        "verified": false
+      }
+    ]
+  }
+}

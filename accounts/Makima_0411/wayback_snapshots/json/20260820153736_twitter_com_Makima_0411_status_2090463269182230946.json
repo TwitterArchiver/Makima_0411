@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2090463269182230946",
+    "created_at": "2026-08-20T15:37:36.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090463269182230946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ririnkachan080…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/Ririnkachan0808/status/2090446647889481878",
+          "start": 112,
+          "url": "https://t.co/HTG5gRSbrR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090463269182230946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090446647889481878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：✔️\n有过男朋友：❌\n有过女朋友：✔️\n嗑过药：✔️\n喝过酒：✔️\n挂过科： ✔️\n去过夜店：❌\n抽过烟/用过电子烟：✔️\n吻过别人：✔️\n被留堂：✔️\n被课堂赶出去：❌\n考试作弊：❌\n偷偷溜出家门：❌\n\n😭。 https://t.co/HTG5gRSbrR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2090463269182230946",
+        "created_at": "2026-08-20T15:37:36.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090463269182230946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ririnkachan080…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Ririnkachan0808/status/2090446647889481878",
+              "start": 112,
+              "url": "https://t.co/HTG5gRSbrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090463269182230946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090446647889481878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：✔️\n有过男朋友：❌\n有过女朋友：✔️\n嗑过药：✔️\n喝过酒：✔️\n挂过科： ✔️\n去过夜店：❌\n抽过烟/用过电子烟：✔️\n吻过别人：✔️\n被留堂：✔️\n被课堂赶出去：❌\n考试作弊：❌\n偷偷溜出家门：❌\n\n😭。 https://t.co/HTG5gRSbrR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083759498066534400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2090446647889481878",
+        "created_at": "2026-08-20T14:31:34.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090446647889481878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4timesdie444/s…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/4timesdie444/status/2090277870237270421",
+              "start": 110,
+              "url": "https://t.co/4AnQU32VpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090446647889481878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090277870237270421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：✔️（❌\n有过女朋友：✔️\n嗑过药：❌\n喝过酒：❌\n挂过科： ❌\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✔️\n被课堂赶出去：❌\n考试作弊：✔️\n偷偷溜出家门：❌\n\n😭。 https://t.co/4AnQU32VpG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈",
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090463269182230946",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 103,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🩷🎀💞\n家有幼女鬼一只",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@leyochanririr…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@leyochanririri0808?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/RHAxmjevqz"
+              }
+            ]
+          }
+        },
+        "id": "2083759498066534400",
+        "is_identity_verified": false,
+        "location": "某个醉鬼的酒壶",
+        "most_recent_tweet_id": "2090462151379226698",
+        "name": "Ririnkadesuyo",
+        "pinned_tweet_id": "2089934952972648486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083759498066534400/1786194139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086393771910942720/E8Telu_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 332,
+          "like_count": 1045,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/RHAxmjevqz",
+        "username": "Ririnkachan0808",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

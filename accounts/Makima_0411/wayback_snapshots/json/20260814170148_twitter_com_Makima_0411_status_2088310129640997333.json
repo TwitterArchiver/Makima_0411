@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2087962011216805975",
+    "created_at": "2026-08-14T17:01:48.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088310129640997333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2087636528633982976",
+          "start": 0,
+          "username": "67De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088310129640997333",
+    "in_reply_to_user_id": "2087636528633982976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087962011216805975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@67De_dian 我去，我好想吃普瑞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2087961571196583936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnt_IvWwAAPW_W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2087962011216805975",
+        "created_at": "2026-08-14T17:01:48.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088310129640997333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2087636528633982976",
+              "start": 0,
+              "username": "67De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088310129640997333",
+        "in_reply_to_user_id": "2087636528633982976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087962011216805975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@67De_dian 我去，我好想吃普瑞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087961571196583936"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087962011216805975",
+        "created_at": "2026-08-13T17:58:30.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087962011216805975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pcBI9ofiRI",
+              "end": 129,
+              "expanded_url": "https://x.com/67De_dian/status/2087962011216805975/photo/1",
+              "media_key": "3_2087961571196583936",
+              "start": 106,
+              "url": "https://t.co/pcBI9ofiRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087962011216805975",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087961571196583936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在很崩溃，我只有吃不完的普瑞，我没有别的可以吃。\n我之前的药柜都在别的地方呀。。。\n看哭了，，如果有宝宝想跟我换的话也可以说呀。。我想吃别的呜呜呜\n\n（备注：合理医疗自用， 有处方，分享治病日常，请勿误判） https://t.co/pcBI9ofiRI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "叫我小钉就好\n07女|isfp|重抑重焦|已有女友🌈\nod|🔪🩸|🚬\n喜欢请直fo，一般都会回^ω^\n不和你们互动只是因为我太内向了喵",
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088310129640997333",
+        "name": "铆钉💕🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1786722259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088290625762512897/flBJVKuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。\n前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n个人号发什么随心情\n不见证不参与争议\n查属性回fo\n药理学爱好，正在学习中…\n会尽力回答您的问题\n可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "6De_dian"
+              },
+              {
+                "end": 78,
+                "start": 63,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088292327164944799",
+        "name": "6点，梦想哭了2.0",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 100,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

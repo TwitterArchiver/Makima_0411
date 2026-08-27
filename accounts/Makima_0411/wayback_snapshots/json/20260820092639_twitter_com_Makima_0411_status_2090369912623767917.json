@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2090369912623767917",
+    "created_at": "2026-08-20T09:26:39.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090369912623767917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asamedias/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/asamedias/status/2087187653309415593",
+          "start": 6,
+          "url": "https://t.co/HkC3YyteOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090369912623767917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087187653309415593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我被她操了 https://t.co/HkC3YyteOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3966,
+        "height": 2160,
+        "media_key": "13_2087187583902060546",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087187583902060546/img/ve1um65e9pbNl47G.jpg",
+        "public_metrics": {
+          "view_count": 84459
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087187583902060546/vid/avc1/540x540/r-1_dhI65dcPNmsF.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087187583902060546/vid/avc1/720x720/nuD4mVvOYEtCTe_U.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087187583902060546/vid/avc1/320x320/e9Qkgwrryx_O7V9y.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087187583902060546/vid/avc1/1080x1080/iQmX-KDe75uaE0ku.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087187583902060546/vid/avc1/2160x2160/0b2zKHq7o7w6-0Nx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087187583902060546/pl/p7gWMF35TOOZanfF.m3u8"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2090369912623767917",
+        "created_at": "2026-08-20T09:26:39.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090369912623767917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asamedias/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/asamedias/status/2087187653309415593",
+              "start": 6,
+              "url": "https://t.co/HkC3YyteOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090369912623767917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087187653309415593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被她操了 https://t.co/HkC3YyteOY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087187583902060546"
+          ]
+        },
+        "author_id": "1931053948196057088",
+        "conversation_id": "2087187653309415593",
+        "created_at": "2026-08-11T14:41:29.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087187653309415593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lr2sapmedw",
+              "end": 23,
+              "expanded_url": "https://x.com/asamedias/status/2087187653309415593/video/1",
+              "media_key": "13_2087187583902060546",
+              "start": 0,
+              "url": "https://t.co/lr2sapmedw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087187653309415593",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087187583902060546"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3215,
+          "impression_count": 275293,
+          "like_count": 26970,
+          "quote_count": 177,
+          "reply_count": 22,
+          "retweet_count": 3161
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lr2sapmedw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈",
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090369912623767917",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 69,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-06T18:22:05.000Z",
+        "description": "for asa ᯓ★",
+        "id": "1931053948196057088",
+        "is_identity_verified": false,
+        "location": "fan account ۶ৎ",
+        "most_recent_tweet_id": "2089997693569397226",
+        "name": "asa.",
+        "pinned_tweet_id": "2087187653309415593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1931053948196057088/1749234714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065707947066302465/uzexJgUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14401,
+          "following_count": 31,
+          "like_count": 9025,
+          "listed_count": 37,
+          "media_count": 596,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "asamedias",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

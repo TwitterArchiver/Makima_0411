@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2090615978954834263",
+    "created_at": "2026-08-21T01:44:25.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090615978954834263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "2090608627417743360",
+          "start": 18,
+          "username": "XiuGuShe_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090615978954834263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天差点坠机了，这个是我的第二人格@XiuGuShe_2  宝宝们转一下吧，和我的2.0也互fo一下\n顺便说等我这个号100fo之后我再抽：\n8.31一个\n4.11一个\n3.20一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2090615978954834263",
+        "created_at": "2026-08-21T01:44:25.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090615978954834263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "2090608627417743360",
+              "start": 18,
+              "username": "XiuGuShe_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090615978954834263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天差点坠机了，这个是我的第二人格@XiuGuShe_2  宝宝们转一下吧，和我的2.0也互fo一下\n顺便说等我这个号100fo之后我再抽：\n8.31一个\n4.11一个\n3.20一个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈",
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090615978954834263",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 111,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T01:18:04.000Z",
+        "description": "防坠机",
+        "id": "2090608627417743360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090614108601438211",
+        "name": "銹骨蛇2.0",
+        "pinned_tweet_id": "2090614108601438211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090608627417743360/1787275430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090610797965910016/W6aipfTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "XiuGuShe_2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

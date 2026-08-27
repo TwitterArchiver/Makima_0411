@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2087196628734111806",
+    "created_at": "2026-08-11T15:17:09.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087196628734111806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727273302857822208",
+          "start": 3,
+          "username": "sisi7758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087196628734111806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086686730309324956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sisi7758: 推特应该出一个福不黑排行榜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2087196628734111806",
+        "created_at": "2026-08-11T15:17:09.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087196628734111806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727273302857822208",
+              "start": 3,
+              "username": "sisi7758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087196628734111806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086686730309324956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sisi7758: 推特应该出一个福不黑排行榜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727273302857822208",
+        "conversation_id": "2086686730309324956",
+        "created_at": "2026-08-10T05:30:59.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086686730309324956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086686730309324956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 112254,
+          "like_count": 1632,
+          "quote_count": 7,
+          "reply_count": 356,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "推特应该出一个福不黑排行榜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "",
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087196628734111806",
+        "name": "鋸女一",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1786020529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085347358645362688/1IR-AHAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 23,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-22T10:30:33.000Z",
+        "description": "喜欢女生 小小思@sisidawang123 盗图替我挡灾 推广自辨 谢谢你的喜欢^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sisidawang123"
+              }
+            ]
+          }
+        },
+        "id": "1727273302857822208",
+        "is_identity_verified": false,
+        "location": "加联系方式需要过🚪(｡ì _ í｡) 188/520",
+        "most_recent_tweet_id": "2087126152800591888",
+        "name": "sisi",
+        "pinned_tweet_id": "2086465230142607783",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833178858688032768/L96o5aM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13874,
+          "following_count": 9,
+          "like_count": 2668,
+          "listed_count": 33,
+          "media_count": 177,
+          "tweet_count": 1726
+        },
+        "url": "",
+        "username": "sisi7758",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

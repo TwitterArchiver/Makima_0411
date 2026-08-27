@@ -1,0 +1,892 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090191615428075522",
+        "3_2090191615423868928",
+        "3_2090191615436496896"
+      ],
+      "media_source_tweet_id": [
+        "2090191621723726076",
+        "2090191621723726076",
+        "2090191621723726076"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1462809879609950219",
+          "name": "Digital artwork"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1462809879609954313",
+          "name": "Digital goods & currency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "id": "1462809879609950219",
+          "name": "Digital artwork"
+        }
+      }
+    ],
+    "conversation_id": "2090366738923999667",
+    "created_at": "2026-08-20T09:14:02.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090366738923999667"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 40,
+          "tag": "chainsawman"
+        },
+        {
+          "end": 60,
+          "start": 53,
+          "tag": "makima"
+        },
+        {
+          "end": 74,
+          "start": 61,
+          "tag": "makimafanart"
+        },
+        {
+          "end": 85,
+          "start": 75,
+          "tag": "csmfanart"
+        },
+        {
+          "end": 97,
+          "start": 86,
+          "tag": "digitalart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979740722078068736",
+          "start": 3,
+          "username": "villustart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLcfpNwAlg",
+          "end": 121,
+          "expanded_url": "https://x.com/artristeando2/status/2090191621723726076/photo/1",
+          "media_key": "3_2090191615428075522",
+          "start": 98,
+          "url": "https://t.co/JLcfpNwAlg"
+        },
+        {
+          "display_url": "pic.x.com/JLcfpNwAlg",
+          "end": 121,
+          "expanded_url": "https://x.com/artristeando2/status/2090191621723726076/photo/1",
+          "media_key": "3_2090191615423868928",
+          "start": 98,
+          "url": "https://t.co/JLcfpNwAlg"
+        },
+        {
+          "display_url": "pic.x.com/JLcfpNwAlg",
+          "end": 121,
+          "expanded_url": "https://x.com/artristeando2/status/2090191621723726076/photo/1",
+          "media_key": "3_2090191615436496896",
+          "start": 98,
+          "url": "https://t.co/JLcfpNwAlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090366738923999667",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2090191615428075522"
+      },
+      {
+        "media_key": "3_2090191615423868928"
+      },
+      {
+        "media_key": "3_2090191615436496896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 937
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090191621723726076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @villustart: CONTROL DEVIL \n\nMakima\n\n#chainsawman #makima #makimafanart #csmfanart #digitalart https://t.co/JLcfpNwAlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2544,
+        "media_key": "3_2090191615428075522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHaMy4XIAIQjH6.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2544,
+        "media_key": "3_2090191615423868928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHaMy3W8AALXHE.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2544,
+        "media_key": "3_2090191615436496896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHaMy6XoAAV7EC.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090191615428075522",
+            "3_2090191615423868928",
+            "3_2090191615436496896"
+          ],
+          "media_source_tweet_id": [
+            "2090191621723726076",
+            "2090191621723726076",
+            "2090191621723726076"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609954313",
+              "name": "Digital goods & currency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          }
+        ],
+        "conversation_id": "2090366738923999667",
+        "created_at": "2026-08-20T09:14:02.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090366738923999667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 40,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "makima"
+            },
+            {
+              "end": 74,
+              "start": 61,
+              "tag": "makimafanart"
+            },
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "csmfanart"
+            },
+            {
+              "end": 97,
+              "start": 86,
+              "tag": "digitalart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979740722078068736",
+              "start": 3,
+              "username": "villustart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLcfpNwAlg",
+              "end": 121,
+              "expanded_url": "https://x.com/artristeando2/status/2090191621723726076/photo/1",
+              "media_key": "3_2090191615428075522",
+              "start": 98,
+              "url": "https://t.co/JLcfpNwAlg"
+            },
+            {
+              "display_url": "pic.x.com/JLcfpNwAlg",
+              "end": 121,
+              "expanded_url": "https://x.com/artristeando2/status/2090191621723726076/photo/1",
+              "media_key": "3_2090191615423868928",
+              "start": 98,
+              "url": "https://t.co/JLcfpNwAlg"
+            },
+            {
+              "display_url": "pic.x.com/JLcfpNwAlg",
+              "end": 121,
+              "expanded_url": "https://x.com/artristeando2/status/2090191621723726076/photo/1",
+              "media_key": "3_2090191615436496896",
+              "start": 98,
+              "url": "https://t.co/JLcfpNwAlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090366738923999667",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090191615428075522"
+          },
+          {
+            "media_key": "3_2090191615423868928"
+          },
+          {
+            "media_key": "3_2090191615436496896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 937
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090191621723726076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @villustart: CONTROL DEVIL \n\nMakima\n\n#chainsawman #makima #makimafanart #csmfanart #digitalart https://t.co/JLcfpNwAlg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090191615428075522",
+            "3_2090191615423868928",
+            "3_2090191615436496896"
+          ]
+        },
+        "author_id": "1979740722078068736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609954313",
+              "name": "Digital goods & currency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809879609950219",
+              "name": "Digital artwork"
+            }
+          }
+        ],
+        "conversation_id": "2090191621723726076",
+        "created_at": "2026-08-19T21:38:11.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090191621723726076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "chainsawman"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "makima"
+            },
+            {
+              "end": 58,
+              "start": 45,
+              "tag": "makimafanart"
+            },
+            {
+              "end": 69,
+              "start": 59,
+              "tag": "csmfanart"
+            },
+            {
+              "end": 81,
+              "start": 70,
+              "tag": "digitalart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLcfpNwAlg",
+              "end": 105,
+              "expanded_url": "https://x.com/artristeando2/status/2090191621723726076/photo/1",
+              "media_key": "3_2090191615428075522",
+              "start": 82,
+              "url": "https://t.co/JLcfpNwAlg"
+            },
+            {
+              "display_url": "pic.x.com/JLcfpNwAlg",
+              "end": 105,
+              "expanded_url": "https://x.com/artristeando2/status/2090191621723726076/photo/1",
+              "media_key": "3_2090191615423868928",
+              "start": 82,
+              "url": "https://t.co/JLcfpNwAlg"
+            },
+            {
+              "display_url": "pic.x.com/JLcfpNwAlg",
+              "end": 105,
+              "expanded_url": "https://x.com/artristeando2/status/2090191621723726076/photo/1",
+              "media_key": "3_2090191615436496896",
+              "start": 82,
+              "url": "https://t.co/JLcfpNwAlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090191621723726076",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090191615428075522"
+          },
+          {
+            "media_key": "3_2090191615423868928"
+          },
+          {
+            "media_key": "3_2090191615436496896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 844,
+          "impression_count": 45084,
+          "like_count": 6617,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 937
+        },
+        "reply_settings": "everyone",
+        "text": "CONTROL DEVIL \n\nMakima\n\n#chainsawman #makima #makimafanart #csmfanart #digitalart https://t.co/JLcfpNwAlg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好|已有女友💕🏳️‍🌈",
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090366738923999667",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 69,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-19T02:45:55.000Z",
+        "description": "Digital illustrator and concept artist\nOpen Commissions!!! (5 slots)",
+        "id": "1979740722078068736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090322097318805700",
+        "name": "V_ILLUST",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979740722078068736/1785116529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081555658470572032/WmX9q9DI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 23,
+          "like_count": 651,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "villustart",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
