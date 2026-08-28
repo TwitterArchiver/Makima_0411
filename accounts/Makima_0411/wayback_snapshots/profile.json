@@ -1,7 +1,7 @@
 {
   "name": "銹骨蛇",
   "username": "@Makima_0411",
-  "bio": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+  "bio": "精神病|oder|自伤\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,13 +10,13 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 49,
-        "start": 41,
+        "end": 35,
+        "start": 27,
         "username": "YA_0542"
       },
       {
-        "end": 68,
-        "start": 57,
+        "end": 54,
+        "start": 43,
         "username": "XiuGuShe_2"
       }
     ]
