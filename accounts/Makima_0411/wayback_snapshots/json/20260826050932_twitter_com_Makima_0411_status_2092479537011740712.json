@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2091974843696877638",
+    "created_at": "2026-08-26T05:09:32.000Z",
+    "display_text_range": [
+      14,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092479537011740712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038792815405142016",
+          "start": 0,
+          "username": "GoodbyApathy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092479537011740712",
+    "in_reply_to_user_id": "2038792815405142016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092283483754553426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoodbyApathy 不吃的话也没好到哪去，还是吃药开心一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 271,
+        "media_key": "3_2092283407095238656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlIrGFbEAA2gqL.jpg",
+        "width": 271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2091974843696877638",
+        "created_at": "2026-08-26T05:09:32.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092479537011740712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038792815405142016",
+              "start": 0,
+              "username": "GoodbyApathy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092479537011740712",
+        "in_reply_to_user_id": "2038792815405142016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092283483754553426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoodbyApathy 不吃的话也没好到哪去，还是吃药开心一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092283407095238656"
+          ]
+        },
+        "author_id": "2038792815405142016",
+        "conversation_id": "2091974843696877638",
+        "created_at": "2026-08-25T16:10:29.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092283483754553426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyogyEiz1M",
+              "end": 51,
+              "expanded_url": "https://x.com/GoodbyApathy/status/2092283483754553426/photo/1",
+              "media_key": "3_2092283407095238656",
+              "start": 28,
+              "url": "https://t.co/xyogyEiz1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092283483754553426",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092283407095238656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091974843696877638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 就是吃药才会吃穷的啊。。（） https://t.co/xyogyEiz1M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|oder|自伤\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "YA_0542"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092479537011740712",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 167,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-31T01:38:02.000Z",
+        "description": "⚠️：🔞🩸☠️💩🗣️🕷️\n由春天将我的心分开，像是昼夜，像枚橙子那样，有哪位先知会从中走来？他不必告诉我幸福在哪里，但它是谁的、到底是什么，会是什么呢？",
+        "id": "2038792815405142016",
+        "is_identity_verified": false,
+        "location": "辽阔的虚无",
+        "most_recent_tweet_id": "2092287858761781559",
+        "name": "好不容易等到放晴，阳光努力地拨开云雾，又时不时被掩盖，你却早已习惯这漫长的雨季，抬手遮挡洒下的温暖。",
+        "pinned_tweet_id": "2042382365490888873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038792815405142016/1775893453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038794320804024320/BDW_iUzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 528,
+          "like_count": 14775,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 2022
+        },
+        "url": "",
+        "username": "GoodbyApathy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

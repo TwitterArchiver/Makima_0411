@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092298033887330304"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092216328224702786",
+    "created_at": "2026-08-25T17:08:22.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092298047342690575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442726671841312769",
+          "start": 0,
+          "username": "eziral778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lqD1uuyU8d",
+          "end": 37,
+          "expanded_url": "https://x.com/Makima_0411/status/2092298047342690575/photo/1",
+          "media_key": "3_2092298033887330304",
+          "start": 14,
+          "url": "https://t.co/lqD1uuyU8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092298047342690575",
+    "in_reply_to_user_id": "1442726671841312769",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092298033887330304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092295059828052271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eziral778 赏！ https://t.co/lqD1uuyU8d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_2092298033887330304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlV-fIaQAA0MJa.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092298033887330304"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092216328224702786",
+        "created_at": "2026-08-25T17:08:22.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092298047342690575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442726671841312769",
+              "start": 0,
+              "username": "eziral778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqD1uuyU8d",
+              "end": 37,
+              "expanded_url": "https://x.com/Makima_0411/status/2092298047342690575/photo/1",
+              "media_key": "3_2092298033887330304",
+              "start": 14,
+              "url": "https://t.co/lqD1uuyU8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092298047342690575",
+        "in_reply_to_user_id": "1442726671841312769",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092298033887330304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092295059828052271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eziral778 赏！ https://t.co/lqD1uuyU8d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442726671841312769",
+        "conversation_id": "2092216328224702786",
+        "created_at": "2026-08-25T16:56:29.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092295059828052271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092295059828052271",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092216328224702786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 我要吃迪拜巧克力🍫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "YA_0542"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092298047342690575",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 166,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-28T05:43:55.000Z",
+        "description": "这里什么也没有\n会当朋友圈发，可以叫我念念，bpd\n躁ing，switch\n欢迎骚扰我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eziral778",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eziral778",
+                "start": 0,
+                "url": "https://t.co/f6ZoArAOp8"
+              }
+            ]
+          }
+        },
+        "id": "1442726671841312769",
+        "is_identity_verified": false,
+        "location": "1.1km",
+        "most_recent_tweet_id": "2092295059828052271",
+        "name": "念念",
+        "pinned_tweet_id": "2089718082524901391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442726671841312769/1786272668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084748162728939520/BQIRMsRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 729,
+          "like_count": 2513,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/f6ZoArAOp8",
+        "username": "eziral778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
