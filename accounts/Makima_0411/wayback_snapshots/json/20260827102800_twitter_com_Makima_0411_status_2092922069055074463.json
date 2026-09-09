@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092882290460541040",
+    "created_at": "2026-08-27T10:28:00.000Z",
+    "display_text_range": [
+      30,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092922069055074463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2079944185298436097",
+          "start": 0,
+          "username": "Johnsmithuxlj"
+        },
+        {
+          "end": 29,
+          "id": "2064626122831360001",
+          "start": 15,
+          "username": "RiWenWangXing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092922069055074463",
+    "in_reply_to_user_id": "2079944185298436097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092895839916085372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Johnsmithuxlj @RiWenWangXing 细胞质我爱你😍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092882290460541040",
+        "created_at": "2026-08-27T10:28:00.000Z",
+        "display_text_range": [
+          30,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092922069055074463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079944185298436097",
+              "start": 0,
+              "username": "Johnsmithuxlj"
+            },
+            {
+              "end": 29,
+              "id": "2064626122831360001",
+              "start": 15,
+              "username": "RiWenWangXing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092922069055074463",
+        "in_reply_to_user_id": "2079944185298436097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092895839916085372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Johnsmithuxlj @RiWenWangXing 细胞质我爱你😍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079944185298436097",
+        "conversation_id": "2092882290460541040",
+        "created_at": "2026-08-27T08:43:47.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092895839916085372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2064626122831360001",
+              "start": 0,
+              "username": "RiWenWangXing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092895839916085372",
+        "in_reply_to_user_id": "2064626122831360001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092882290460541040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RiWenWangXing 终于有人崇拜我了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092922069055074463",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 176,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 493
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T14:59:40.000Z",
+        "description": "喜欢二次元中国人反对共产党专政",
+        "id": "2079944185298436097",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2092898203070783852",
+        "name": "习近平（互fo）",
+        "pinned_tweet_id": "2084563792612978823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079944185298436097/1785353208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082548414995173377/uDyoj2WZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 347,
+          "like_count": 5756,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 3368
+        },
+        "url": "",
+        "username": "Johnsmithuxlj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-10T08:39:05.000Z",
+        "description": "鄙人姓菜名问，行不更名，坐不改姓😎\n致力于分享好玩有趣的各类图文和视频，如果感兴趣的话可以关注一下😜/大号@LMHxianss目前被🐴4️⃣🉑斩杀（求求你们老中右翼别再意淫我喜欢倭岛和霉国了行不。。。）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "LMHxianss"
+              }
+            ]
+          }
+        },
+        "id": "2064626122831360001",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092921255276224888",
+        "name": "红围脖菜问（重生版）",
+        "pinned_tweet_id": "2092171178064671130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064626122831360001/1781082102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091044384884346880/yrNZVyBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 175,
+          "like_count": 1588,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1076
+        },
+        "url": "",
+        "username": "RiWenWangXing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

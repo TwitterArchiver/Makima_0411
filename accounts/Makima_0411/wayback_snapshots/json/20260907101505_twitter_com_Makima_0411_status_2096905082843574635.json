@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2096398263025098836",
+    "created_at": "2026-09-07T10:15:05.000Z",
+    "display_text_range": [
+      24,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096905082843574635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1387085085346721794",
+          "start": 0,
+          "username": "zhnoluuo1235"
+        },
+        {
+          "end": 23,
+          "id": "1807972342955405313",
+          "start": 14,
+          "username": "SuXi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096905082843574635",
+    "in_reply_to_user_id": "1387085085346721794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096721081914863709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhnoluuo1235 @SuXi8964 找不到那么高的楼，天台都被锁了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2096398263025098836",
+        "created_at": "2026-09-07T10:15:05.000Z",
+        "display_text_range": [
+          24,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096905082843574635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1387085085346721794",
+              "start": 0,
+              "username": "zhnoluuo1235"
+            },
+            {
+              "end": 23,
+              "id": "1807972342955405313",
+              "start": 14,
+              "username": "SuXi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096905082843574635",
+        "in_reply_to_user_id": "1387085085346721794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096721081914863709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhnoluuo1235 @SuXi8964 找不到那么高的楼，天台都被锁了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387085085346721794",
+        "conversation_id": "2096398263025098836",
+        "created_at": "2026-09-06T22:03:55.000Z",
+        "display_text_range": [
+          10,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096721081914863709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807972342955405313",
+              "start": 0,
+              "username": "SuXi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096721081914863709",
+        "in_reply_to_user_id": "1807972342955405313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 811,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096398263025098836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuXi8964 自杀又不是只能用枪，你连跳楼的勇气都没有，我给你把枪你认为你敢自杀吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096905082843574635",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096202672298934272/LfYi3mz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 291,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 865
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-27T16:44:03.000Z",
+        "description": "",
+        "id": "1387085085346721794",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096819723120054328",
+        "name": "苏汐",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454828086768594944/TRnvtM_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 437,
+          "like_count": 7204,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 1277
+        },
+        "url": "",
+        "username": "zhnoluuo1235",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-07-02T02:59:43.000Z",
+        "description": "左派/坚持阶级斗争/对绝大多数人民主，对极少数人专政/民主但不民粹/极端进步/支持🏳️‍🌈 🏳️‍⚧️/酷儿 泛性恋\n回fo标准：非机器人，非三无账号，有非回复的帖子，不fo粉红，支黑，极端反共\nNGL：https://t.co/YcGe4jryTy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suxi1848",
+                "end": 125,
+                "expanded_url": "https://ngl.link/suxi1848",
+                "start": 102,
+                "url": "https://t.co/YcGe4jryTy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suxi1848",
+                "end": 23,
+                "expanded_url": "http://ngl.link/suxi1848",
+                "start": 0,
+                "url": "https://t.co/X063tjGYOr"
+              }
+            ]
+          }
+        },
+        "id": "1807972342955405313",
+        "is_identity_verified": false,
+        "location": "泛亚社会主义共和国",
+        "most_recent_tweet_id": "2096404003391525049",
+        "name": "溯汐汐🏳️‍🌈🏳️‍⚧️🚩⚙️",
+        "pinned_tweet_id": "2091130396276859252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807972342955405313/1787096511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090013841304281088/wW-SLdmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 388,
+          "like_count": 2900,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/X063tjGYOr",
+        "username": "SuXi8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

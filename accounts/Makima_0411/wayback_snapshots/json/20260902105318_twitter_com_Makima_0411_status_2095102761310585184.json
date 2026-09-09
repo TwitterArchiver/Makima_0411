@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2095078590299914241",
+    "created_at": "2026-09-02T10:53:18.000Z",
+    "display_text_range": [
+      15,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095102761310585184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495262246213230600",
+          "start": 0,
+          "username": "woodburninbox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095102761310585184",
+    "in_reply_to_user_id": "1495262246213230600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095083270883123683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woodburninbox 哦不，我普瑞耐药都特别高的，那算了我不吃了，感觉吃撑了也没啥效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2095078590299914241",
+        "created_at": "2026-09-02T10:53:18.000Z",
+        "display_text_range": [
+          15,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095102761310585184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495262246213230600",
+              "start": 0,
+              "username": "woodburninbox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095102761310585184",
+        "in_reply_to_user_id": "1495262246213230600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095083270883123683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woodburninbox 哦不，我普瑞耐药都特别高的，那算了我不吃了，感觉吃撑了也没啥效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495262246213230600",
+        "conversation_id": "2095078590299914241",
+        "created_at": "2026-09-02T09:35:51.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095083270883123683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095083270883123683",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095078590299914241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 6t加吧才等于1t pr（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "YA_0542"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095102761310585184",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 261,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 779
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-20T05:01:27.000Z",
+        "description": "🩸💊☠️\nwhen its gone it feels like its never been there",
+        "id": "1495262246213230600",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2095094982386565197",
+        "name": "ccandle",
+        "pinned_tweet_id": "2083936778155876520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495262246213230600/1781340277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072211132430098432/_MS0dmVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 231,
+          "like_count": 2033,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "woodburninbox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092924423238291609",
+    "created_at": "2026-08-27T20:07:47.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T21:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093067974190227531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090436285668454400",
+          "start": 0,
+          "username": "Guagua3txz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093067974190227531",
+    "in_reply_to_user_id": "2090436285668454400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092929017548570816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guagua3txz 逼逼关闭气不气😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092924423238291609",
+        "created_at": "2026-08-27T20:07:47.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093067974190227531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090436285668454400",
+              "start": 0,
+              "username": "Guagua3txz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093067974190227531",
+        "in_reply_to_user_id": "2090436285668454400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092929017548570816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guagua3txz 逼逼关闭气不气😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090436285668454400",
+        "conversation_id": "2092924423238291609",
+        "created_at": "2026-08-27T10:55:37.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092929017548570816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092929017548570816",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092924423238291609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 挂你爹来了😂😂把你刚割的当逼操了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093067974190227531",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 184,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 518
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T13:51:35.000Z",
+        "description": "你们都是乐乐",
+        "id": "2090436285668454400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093042672235581579",
+        "name": "Guagua",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090436285668454400/1787247666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093061801051144192/WIx0g8TP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Guagua3txz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

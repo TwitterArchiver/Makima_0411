@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094957703844286508",
+    "created_at": "2026-09-02T02:17:18.000Z",
+    "display_text_range": [
+      9,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T03:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094972908464677350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2093199347764887552",
+          "start": 0,
+          "username": "kk2yyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094972908464677350",
+    "in_reply_to_user_id": "2093199347764887552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094957703844286508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk2yyds 比她好看的没她骚比她骚的没她好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094957703844286508",
+        "created_at": "2026-09-02T02:17:18.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T03:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094972908464677350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2093199347764887552",
+              "start": 0,
+              "username": "kk2yyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094972908464677350",
+        "in_reply_to_user_id": "2093199347764887552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094957703844286508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk2yyds 比她好看的没她骚比她骚的没她好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093199347764887552",
+        "conversation_id": "2094957703844286508",
+        "created_at": "2026-09-02T01:16:53.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094957703844286508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094957703844286508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大量收愈美 只收真货 出联系好不好😿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "YA_0542"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094972908464677350",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 259,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 759
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T04:50:53.000Z",
+        "description": "💊｜🩸｜🔪｜🚬\n不常看黑茶但是看到会秒回\nod妹直接fo会回我喜欢交朋友",
+        "id": "2093199347764887552",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094972484378660873",
+        "name": "親愛なるあなたは火葬",
+        "pinned_tweet_id": "2093203444475764930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093199347764887552/1788314980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094970894653472768/BYLYqzoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 151,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "kk2yyds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2095871662445183265",
+    "created_at": "2026-09-05T08:37:23.000Z",
+    "display_text_range": [
+      13,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096155720265977890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074353833166393344",
+          "start": 0,
+          "username": "nyamura0114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096155720265977890",
+    "in_reply_to_user_id": "2074353833166393344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095871662445183265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyamura0114 墙内人能不能别发了，马上所有药都吃不了了就满意了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095871655310774272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYIKoWb0AAXZqK.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2095871662445183265",
+        "created_at": "2026-09-05T08:37:23.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096155720265977890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074353833166393344",
+              "start": 0,
+              "username": "nyamura0114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096155720265977890",
+        "in_reply_to_user_id": "2074353833166393344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095871662445183265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyamura0114 墙内人能不能别发了，马上所有药都吃不了了就满意了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095871655310774272"
+          ]
+        },
+        "author_id": "2074353833166393344",
+        "conversation_id": "2095871662445183265",
+        "created_at": "2026-09-04T13:48:38.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095871662445183265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCJlSeHkAl",
+              "end": 64,
+              "expanded_url": "https://x.com/nyamura0114/status/2095871662445183265/photo/1",
+              "media_key": "3_2095871655310774272",
+              "start": 41,
+              "url": "https://t.co/RCJlSeHkAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095871662445183265",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095871655310774272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很少直接挂出来骂人😂自己磕发出来还要给别人推药代这他妈真是给自己磕成智障了吧😂 https://t.co/RCJlSeHkAl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|od|自傷|抽煙\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096155720265977890",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 280,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 852
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-07T04:48:36.000Z",
+        "description": "不要逼一个老实的农村人ok？\n这里只是我的精神世界🌐",
+        "id": "2074353833166393344",
+        "is_identity_verified": false,
+        "location": "🚪88/188 ",
+        "most_recent_tweet_id": "2095879339321807090",
+        "name": "overblue",
+        "pinned_tweet_id": "2091164322466816254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074353833166393344/1783440323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074525141347008512/0g-RC_mB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 21,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "nyamura0114",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

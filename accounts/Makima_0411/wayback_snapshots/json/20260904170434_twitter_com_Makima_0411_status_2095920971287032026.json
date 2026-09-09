@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2095920971287032026",
+    "created_at": "2026-09-04T17:04:34.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T18:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095920971287032026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MT7276/status/…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/MT7276/status/2095891629798572054",
+          "start": 61,
+          "url": "https://t.co/Kd69QllfAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095920971287032026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095891629798572054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同志你好 请问od是什么意思，是指的吸食麻精药品吗，你们从哪里买的，有具体电话和地址吗，都有什么，希望你能配合提供一下🫡 https://t.co/Kd69QllfAN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2095920971287032026",
+        "created_at": "2026-09-04T17:04:34.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095920971287032026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MT7276/status/…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/MT7276/status/2095891629798572054",
+              "start": 61,
+              "url": "https://t.co/Kd69QllfAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095920971287032026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095891629798572054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同志你好 请问od是什么意思，是指的吸食麻精药品吗，你们从哪里买的，有具体电话和地址吗，都有什么，希望你能配合提供一下🫡 https://t.co/Kd69QllfAN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092517131552423936",
+        "conversation_id": "2095891629798572054",
+        "created_at": "2026-09-04T15:07:58.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095891629798572054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2095881262267605098",
+              "start": 61,
+              "url": "https://t.co/l8ybgiJytp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095891629798572054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095881262267605098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同志你好 请问od是什么意思，是指的吸食麻精药品吗，你们从哪里买的，有具体电话和地址吗，都有什么，希望你能配合提供一下🫡 https://t.co/l8ybgiJytp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|od|自傷|抽煙\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095920971287032026",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 281,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:43:46.000Z",
+        "description": "简介。    暂时懒得写了",
+        "id": "2092517131552423936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095907975693300100",
+        "name": "MT",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092519007610118145/cevOQhIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "MT7276",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095937940367323136"
+      ],
+      "media_source_tweet_id": [
+        "2095937955714290007"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "conversation_id": "2096203859790307467",
+    "created_at": "2026-09-05T11:48:40.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096203859790307467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V66TwzRjbn",
+          "end": 41,
+          "expanded_url": "https://x.com/420420420CTL/status/2095937955714290007/photo/1",
+          "media_key": "3_2095937940367323136",
+          "start": 18,
+          "url": "https://t.co/V66TwzRjbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096203859790307467",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095937940367323136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095937955714290007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: https://t.co/V66TwzRjbn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2095937940367323136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZEc7bbsAAWQ9D.jpg",
+        "width": 1624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095937940367323136"
+          ],
+          "media_source_tweet_id": [
+            "2095937955714290007"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "conversation_id": "2096203859790307467",
+        "created_at": "2026-09-05T11:48:40.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096203859790307467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V66TwzRjbn",
+              "end": 41,
+              "expanded_url": "https://x.com/420420420CTL/status/2095937955714290007/photo/1",
+              "media_key": "3_2095937940367323136",
+              "start": 18,
+              "url": "https://t.co/V66TwzRjbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096203859790307467",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095937940367323136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095937955714290007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: https://t.co/V66TwzRjbn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095937940367323136"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "conversation_id": "2095937955714290007",
+        "created_at": "2026-09-04T18:12:03.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095937955714290007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V66TwzRjbn",
+              "end": 23,
+              "expanded_url": "https://x.com/420420420CTL/status/2095937955714290007/photo/1",
+              "media_key": "3_2095937940367323136",
+              "start": 0,
+              "url": "https://t.co/V66TwzRjbn"
+            },
+            {
+              "display_url": "x.com/LemonCandy_OvO…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/LemonCandy_OvO/status/2095884054671618290",
+              "start": 24,
+              "url": "https://t.co/28sjzfr0sP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095937955714290007",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095937940367323136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5021,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095884054671618290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/V66TwzRjbn https://t.co/28sjzfr0sP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|od|自傷|抽煙\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096203859790307467",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096202672298934272/LfYi3mz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 282,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2095937955714290007",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678171777409875968/1785863310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5252,
+          "following_count": 696,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1199
+        },
+        "url": "",
+        "username": "420420420CTL",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

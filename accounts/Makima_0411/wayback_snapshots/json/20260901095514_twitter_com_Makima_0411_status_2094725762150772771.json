@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094710703588540633",
+    "created_at": "2026-09-01T09:55:14.000Z",
+    "display_text_range": [
+      12,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T10:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094725762150772771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Ajs_ririka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094725762150772771",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094725359229091986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajs_ririka 没有呀，但是我经常sns配西柚汁或者酒一起喝，也没什么事，甚至感觉药效还不明显，不知道是什么原因🥺谢谢关心喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094710703588540633",
+        "created_at": "2026-09-01T09:55:14.000Z",
+        "display_text_range": [
+          12,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094725762150772771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Ajs_ririka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094725762150772771",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094725359229091986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajs_ririka 没有呀，但是我经常sns配西柚汁或者酒一起喝，也没什么事，甚至感觉药效还不明显，不知道是什么原因🥺谢谢关心喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681716872415440896",
+        "conversation_id": "2094710703588540633",
+        "created_at": "2026-09-01T09:53:38.000Z",
+        "display_text_range": [
+          13,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094725359229091986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094725359229091986",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094724938116813127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 一定要注意安全。\n我记得这个好像非常非常危险。\n会导致呼吸抑制来着的吧。\n身边有看着你的人吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "YA_0542"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094725762150772771",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 246,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 730
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "串子谨言慎行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajs_ririka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajs_ririka",
+                "start": 0,
+                "url": "https://t.co/5V4ZiY98Z7"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "is_identity_verified": false,
+        "location": "精神世界",
+        "most_recent_tweet_id": "2094725359229091986",
+        "name": "Ririka",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681716872415440896/1763025470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094073050883137536/djNHTXP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 1292,
+          "like_count": 35562,
+          "listed_count": 2,
+          "media_count": 988,
+          "tweet_count": 21812
+        },
+        "url": "https://t.co/5V4ZiY98Z7",
+        "username": "Ajs_ririka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

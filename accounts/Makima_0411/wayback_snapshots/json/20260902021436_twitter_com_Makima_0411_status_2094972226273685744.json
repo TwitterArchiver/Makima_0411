@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094972226273685744",
+    "created_at": "2026-09-02T02:14:36.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T03:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094972226273685744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094972226273685744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 147
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094710131921686867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 盘点那些我最喜欢的几组文字\n1. 退款到账通知  \n2.收款到账通知\n3.微信红包\n4.［转账］请收款\n5.神秘数字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094972226273685744",
+        "created_at": "2026-09-02T02:14:36.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T03:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094972226273685744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094972226273685744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 147
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094710131921686867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 盘点那些我最喜欢的几组文字\n1. 退款到账通知  \n2.收款到账通知\n3.微信红包\n4.［转账］请收款\n5.神秘数字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2094710131921686867",
+        "created_at": "2026-09-01T08:53:07.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094710131921686867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094710131921686867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 41743,
+          "like_count": 1195,
+          "quote_count": 13,
+          "reply_count": 143,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "盘点那些我最喜欢的几组文字\n1. 退款到账通知  \n2.收款到账通知\n3.微信红包\n4.［转账］请收款\n5.神秘数字"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "YA_0542"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094972226273685744",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 259,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 757
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "你每次爱我的时候我开心的不行不要不要的",
+        "id": "1581937806435573760",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2094835785887621517",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581937806435573760/1776524230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29074,
+          "following_count": 0,
+          "like_count": 1795,
+          "listed_count": 28,
+          "media_count": 575,
+          "tweet_count": 3015
+        },
+        "url": "",
+        "username": "fadai202202",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

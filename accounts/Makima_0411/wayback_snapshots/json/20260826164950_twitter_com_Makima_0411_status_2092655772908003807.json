@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092655749281546240",
+        "3_2092655762820694016"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092655772908003807",
+    "created_at": "2026-08-26T16:49:50.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092655772908003807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BYS0geLPfI",
+          "end": 29,
+          "expanded_url": "https://x.com/Makima_0411/status/2092655772908003807/photo/1",
+          "media_key": "3_2092655749281546240",
+          "start": 6,
+          "url": "https://t.co/BYS0geLPfI"
+        },
+        {
+          "display_url": "pic.x.com/BYS0geLPfI",
+          "end": 29,
+          "expanded_url": "https://x.com/Makima_0411/status/2092655772908003807/photo/1",
+          "media_key": "3_2092655762820694016",
+          "start": 6,
+          "url": "https://t.co/BYS0geLPfI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092655772908003807",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092655749281546240"
+      },
+      {
+        "media_key": "3_2092655762820694016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿嘿，信信 https://t.co/BYS0geLPfI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2092655749281546240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqbUQ0bAAAhTAQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1984,
+        "media_key": "3_2092655762820694016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqbVDQaAAA2zh9.jpg",
+        "width": 2208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092655749281546240",
+            "3_2092655762820694016"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092655772908003807",
+        "created_at": "2026-08-26T16:49:50.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092655772908003807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYS0geLPfI",
+              "end": 29,
+              "expanded_url": "https://x.com/Makima_0411/status/2092655772908003807/photo/1",
+              "media_key": "3_2092655749281546240",
+              "start": 6,
+              "url": "https://t.co/BYS0geLPfI"
+            },
+            {
+              "display_url": "pic.x.com/BYS0geLPfI",
+              "end": 29,
+              "expanded_url": "https://x.com/Makima_0411/status/2092655772908003807/photo/1",
+              "media_key": "3_2092655762820694016",
+              "start": 6,
+              "url": "https://t.co/BYS0geLPfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092655772908003807",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092655749281546240"
+          },
+          {
+            "media_key": "3_2092655762820694016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿，信信 https://t.co/BYS0geLPfI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|oder|自伤\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "YA_0542"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092655772908003807",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 171,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092453557358485504"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092453564375609847",
+    "created_at": "2026-08-26T03:26:20.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092453564375609847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aEKc1gy0yv",
+          "end": 104,
+          "expanded_url": "https://x.com/Makima_0411/status/2092453564375609847/photo/1",
+          "media_key": "3_2092453557358485504",
+          "start": 81,
+          "url": "https://t.co/aEKc1gy0yv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092453564375609847",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092453557358485504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽？！谢谢宝宝呜呜呜😭\n我个人感觉挺花钱的，也可能是我比较穷吧，主要是好o的药都买不到，收的话又贵。而且o久了耐药越来越高，要吃的就越来越多🥲\n再次感谢你呀！ https://t.co/aEKc1gy0yv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2092453557358485504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnjbJNa4AAHcNT.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092453557358485504"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092453564375609847",
+        "created_at": "2026-08-26T03:26:20.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092453564375609847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aEKc1gy0yv",
+              "end": 104,
+              "expanded_url": "https://x.com/Makima_0411/status/2092453564375609847/photo/1",
+              "media_key": "3_2092453557358485504",
+              "start": 81,
+              "url": "https://t.co/aEKc1gy0yv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092453564375609847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092453557358485504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽？！谢谢宝宝呜呜呜😭\n我个人感觉挺花钱的，也可能是我比较穷吧，主要是好o的药都买不到，收的话又贵。而且o久了耐药越来越高，要吃的就越来越多🥲\n再次感谢你呀！ https://t.co/aEKc1gy0yv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "顺直公畜别关注我更别加我v\n精神病|oder|自伤\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "YA_0542"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092453564375609847",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 167,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

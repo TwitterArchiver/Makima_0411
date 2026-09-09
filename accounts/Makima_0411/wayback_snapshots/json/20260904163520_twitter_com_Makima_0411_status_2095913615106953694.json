@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2095913615106953694",
+    "created_at": "2026-09-04T16:35:20.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T17:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095913615106953694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Amadeus2259072…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Amadeus22590723/status/2095613349174395359",
+          "start": 40,
+          "url": "https://t.co/2rLomwjQso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095913615106953694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095613349174395359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "互关们好w🫶🏼🫶🏼！！让窝评价你们的：\n头像\n头图\n用户名\n泥是否也应该发这个 https://t.co/2rLomwjQso"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2095913615106953694",
+        "created_at": "2026-09-04T16:35:20.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095913615106953694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amadeus2259072…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Amadeus22590723/status/2095613349174395359",
+              "start": 40,
+              "url": "https://t.co/2rLomwjQso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095913615106953694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095613349174395359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互关们好w🫶🏼🫶🏼！！让窝评价你们的：\n头像\n头图\n用户名\n泥是否也应该发这个 https://t.co/2rLomwjQso"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712408820574793728",
+        "conversation_id": "2095613349174395359",
+        "created_at": "2026-09-03T20:42:11.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T21:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095613349174395359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quasarne/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/quasarne/status/2094414149719576716",
+              "start": 40,
+              "url": "https://t.co/TCznXEQsoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095613349174395359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094414149719576716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互关们好w🫶🏼🫶🏼！！让窝评价你们的：\n头像\n头图\n用户名\n泥是否也应该发这个 https://t.co/TCznXEQsoN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|od|自傷|抽煙\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095913615106953694",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 280,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 838
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-12T10:04:57.000Z",
+        "description": "她已息了地上的劳苦，归回天家，在主怀中安然居住。阿门。",
+        "id": "1712408820574793728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095899228459700586",
+        "name": "^ ^",
+        "pinned_tweet_id": "1883983627740164501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712408820574793728/1788468356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003492664403197955/6tRS2Rua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 181,
+          "like_count": 15779,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3779
+        },
+        "url": "",
+        "username": "Amadeus22590723",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

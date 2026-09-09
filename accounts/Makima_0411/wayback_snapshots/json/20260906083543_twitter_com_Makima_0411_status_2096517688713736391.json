@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2096439683899162977",
+    "created_at": "2026-09-06T08:35:43.000Z",
+    "display_text_range": [
+      17,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096517688713736391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1712408820574793728",
+          "start": 0,
+          "username": "Amadeus22590723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096517688713736391",
+    "in_reply_to_user_id": "1712408820574793728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096499351178858637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amadeus22590723 就是很不公平，可是没办法，谁让我和她不在一个学校呢……而且她是健全人，交的新朋友又漂亮可爱又和她志趣相投，所以我觉得和我淡了也是挺正常的🥲只是很难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2096439683899162977",
+        "created_at": "2026-09-06T08:35:43.000Z",
+        "display_text_range": [
+          17,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096517688713736391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712408820574793728",
+              "start": 0,
+              "username": "Amadeus22590723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096517688713736391",
+        "in_reply_to_user_id": "1712408820574793728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096499351178858637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amadeus22590723 就是很不公平，可是没办法，谁让我和她不在一个学校呢……而且她是健全人，交的新朋友又漂亮可爱又和她志趣相投，所以我觉得和我淡了也是挺正常的🥲只是很难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712408820574793728",
+        "conversation_id": "2096439683899162977",
+        "created_at": "2026-09-06T07:22:51.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096499351178858637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096499351178858637",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096439683899162977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 是我就闹了，不会觉得不公平吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096517688713736391",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096202672298934272/LfYi3mz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 286,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 836
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-12T10:04:57.000Z",
+        "description": "她已息了地上的劳苦，归回天家，在主怀中安然居住。阿门。",
+        "id": "1712408820574793728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096499351178858637",
+        "name": "^ ^",
+        "pinned_tweet_id": "1883983627740164501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712408820574793728/1788468356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003492664403197955/6tRS2Rua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 180,
+          "like_count": 15804,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3782
+        },
+        "url": "",
+        "username": "Amadeus22590723",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2096447102067024296",
+    "created_at": "2026-09-06T12:47:13.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096580980928917555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998063108217286656",
+          "start": 0,
+          "username": "JIAkebc5986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096580980928917555",
+    "in_reply_to_user_id": "1998063108217286656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096564344368885989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAkebc5986 反社会人格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2096447102067024296",
+        "created_at": "2026-09-06T12:47:13.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096580980928917555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998063108217286656",
+              "start": 0,
+              "username": "JIAkebc5986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096580980928917555",
+        "in_reply_to_user_id": "1998063108217286656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096564344368885989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAkebc5986 反社会人格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998063108217286656",
+        "conversation_id": "2096447102067024296",
+        "created_at": "2026-09-06T11:41:06.000Z",
+        "display_text_range": [
+          13,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096564344368885989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096564344368885989",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096447102067024296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 这人我之前也翻过他主页 真的是生活很不顺了感觉这辈子没好过 看到一点和自残有关的就要专门骂别人 很恐怖 感觉他是真有精神病"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096580980928917555",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096202672298934272/LfYi3mz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 287,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 838
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T16:12:45.000Z",
+        "description": "没骂你骂我干啥 一群生活不顺的蠢货 天天就知道骂人 我没惹任何人\n看点键政 站中间串两边（被两头骂得体无完肤 但是我不爱吵架 我什么都不懂你说不是就不是你都对 你们别他妈来惹我 ）\n在推特上完全展示不为人知的阴暗面 。其实是个很阳光明媚的的小女孩。",
+        "id": "1998063108217286656",
+        "is_identity_verified": false,
+        "location": "Tokyo",
+        "most_recent_tweet_id": "2096565929757008248",
+        "name": "kynnsfq ·_·",
+        "pinned_tweet_id": "2093196431150776537",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998063108217286656/1787257313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086832438760943616/HTnctHDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 15,
+          "like_count": 3204,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "JIAkebc5986",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

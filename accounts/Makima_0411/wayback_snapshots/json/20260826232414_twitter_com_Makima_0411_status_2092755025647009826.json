@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092629735746802020",
+    "created_at": "2026-08-26T23:24:14.000Z",
+    "display_text_range": [
+      8,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T00:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092755025647009826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085070316834041856",
+          "start": 0,
+          "username": "s11ck6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092755025647009826",
+    "in_reply_to_user_id": "2085070316834041856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092629735746802020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s11ck6 32t75mg那种绿普的话是40，150mg程普的话是75左右"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092629735746802020",
+        "created_at": "2026-08-26T23:24:14.000Z",
+        "display_text_range": [
+          8,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092755025647009826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085070316834041856",
+              "start": 0,
+              "username": "s11ck6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092755025647009826",
+        "in_reply_to_user_id": "2085070316834041856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092629735746802020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s11ck6 32t75mg那种绿普的话是40，150mg程普的话是75左右"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085070316834041856",
+        "conversation_id": "2092629735746802020",
+        "created_at": "2026-08-26T15:06:22.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092629735746802020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092629735746802020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr现在多少价？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092755025647009826",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 174,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T18:33:11.000Z",
+        "description": "请不要把你自以为是的自恋投射到我身上",
+        "id": "2085070316834041856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092754553016054194",
+        "name": "Гипербореи",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085070316834041856/1785955243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085079183106166784/XDHKFN3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 59,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "s11ck6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

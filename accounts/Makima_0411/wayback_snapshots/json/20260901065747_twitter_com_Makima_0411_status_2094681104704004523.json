@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094649589102207142",
+    "created_at": "2026-09-01T06:57:47.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T07:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094681104704004523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782889638283096064",
+          "start": 0,
+          "username": "fan_deng81217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094681104704004523",
+    "in_reply_to_user_id": "1782889638283096064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094649589102207142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_deng81217 很痛吧……抱抱你🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094649581929963520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGwsmPbIAAuTRA.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094649589102207142",
+        "created_at": "2026-09-01T06:57:47.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094681104704004523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1782889638283096064",
+              "start": 0,
+              "username": "fan_deng81217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094681104704004523",
+        "in_reply_to_user_id": "1782889638283096064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094649589102207142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_deng81217 很痛吧……抱抱你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094649581929963520"
+          ]
+        },
+        "author_id": "1782889638283096064",
+        "conversation_id": "2094649589102207142",
+        "created_at": "2026-09-01T04:52:33.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094649589102207142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhCieMT4xC",
+              "end": 131,
+              "expanded_url": "https://x.com/fan_deng81217/status/2094649589102207142/photo/1",
+              "media_key": "3_2094649581929963520",
+              "start": 108,
+              "url": "https://t.co/xhCieMT4xC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094649589102207142",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094649581929963520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個地方砍了\n你會痛到蹲下\n然後大出血\n三條毛巾都被染滿血\n我生父仍然那種態度\n整個浴室都是血\n走路血會一直滴\n每次下刀都好可怕\n仍然以為這個地方會死\n我的遺書是寫\n我恨你們\n所有人\n為什麼是我\n我想當正常人\n好想 https://t.co/xhCieMT4xC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "YA_0542"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094681104704004523",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 246,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-23T21:49:53.000Z",
+        "description": "我想跟喜歡的人一起抽煙",
+        "id": "1782889638283096064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094680069776224527",
+        "name": "yunmnnnnnnn2.0",
+        "pinned_tweet_id": "2088602052771590547",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073537714201456640/z3AYGzQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 11,
+          "like_count": 1329,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "fan_deng81217",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

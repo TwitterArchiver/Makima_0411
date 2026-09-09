@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094742872503542005",
+    "created_at": "2026-09-01T12:30:16.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T13:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094764776652210371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Ajs_ririka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094764776652210371",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094758083352555580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajs_ririka 好的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094742872503542005",
+        "created_at": "2026-09-01T12:30:16.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094764776652210371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Ajs_ririka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094764776652210371",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094758083352555580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajs_ririka 好的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681716872415440896",
+        "conversation_id": "2094742872503542005",
+        "created_at": "2026-09-01T12:03:40.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094758083352555580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094758083352555580",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094742872503542005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 加油。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "YA_0542"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094764776652210371",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 250,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "串子谨言慎行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajs_ririka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajs_ririka",
+                "start": 0,
+                "url": "https://t.co/5V4ZiY98Z7"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "is_identity_verified": false,
+        "location": "精神世界",
+        "most_recent_tweet_id": "2094762508955554074",
+        "name": "Ririka",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681716872415440896/1763025470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094073050883137536/djNHTXP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 1292,
+          "like_count": 35568,
+          "listed_count": 2,
+          "media_count": 989,
+          "tweet_count": 21823
+        },
+        "url": "https://t.co/5V4ZiY98Z7",
+        "username": "Ajs_ririka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

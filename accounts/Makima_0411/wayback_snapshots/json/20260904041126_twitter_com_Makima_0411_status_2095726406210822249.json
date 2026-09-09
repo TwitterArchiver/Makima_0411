@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2095726406210822249",
+    "created_at": "2026-09-04T04:11:26.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095726406210822249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024708440564912131",
+          "start": 3,
+          "username": "xian229224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095726406210822249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5516
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095405881429221748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xian229224: 千万别自杀，你们想象一下：你自杀过后警察来看你手机，然后看着你发的一大堆傻逼推特，然后指着你推特那一堆糖逼文案 ，疑惑的看了一眼你的尸体，你想象一下，想象一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2095726406210822249",
+        "created_at": "2026-09-04T04:11:26.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095726406210822249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024708440564912131",
+              "start": 3,
+              "username": "xian229224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095726406210822249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5516
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095405881429221748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xian229224: 千万别自杀，你们想象一下：你自杀过后警察来看你手机，然后看着你发的一大堆傻逼推特，然后指着你推特那一堆糖逼文案 ，疑惑的看了一眼你的尸体，你想象一下，想象一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024708440564912131",
+        "conversation_id": "2095405881429221748",
+        "created_at": "2026-09-03T06:57:47.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095405881429221748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095405881429221748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1684,
+          "impression_count": 648273,
+          "like_count": 25578,
+          "quote_count": 1289,
+          "reply_count": 459,
+          "retweet_count": 5508
+        },
+        "reply_settings": "everyone",
+        "text": "千万别自杀，你们想象一下：你自杀过后警察来看你手机，然后看着你发的一大堆傻逼推特，然后指着你推特那一堆糖逼文案 ，疑惑的看了一眼你的尸体，你想象一下，想象一下"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|od|自傷|抽煙\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095726406210822249",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 273,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-20T04:51:40.000Z",
+        "description": "网蛆而已\n@Chuchu_229",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Chuchu_229"
+              }
+            ]
+          }
+        },
+        "id": "2024708440564912131",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095704715740987414",
+        "name": "藓",
+        "pinned_tweet_id": "2094025376515428734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024708440564912131/1775994100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090975828813508608/ciN5Oxin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 65,
+          "like_count": 12619,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 983
+        },
+        "url": "",
+        "username": "xian229224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

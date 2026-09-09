@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092811472137261088",
+    "created_at": "2026-08-27T13:19:35.000Z",
+    "display_text_range": [
+      24,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092965248936693979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090436285668454400",
+          "start": 0,
+          "username": "Guagua3txz"
+        },
+        {
+          "end": 23,
+          "id": "2078028550704332800",
+          "start": 12,
+          "username": "Wodeyanlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092965248936693979",
+    "in_reply_to_user_id": "2090436285668454400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092932131903201521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guagua3txz @Wodeyanlei 土逼春雨亩大滚回你的抖音小红书去，都在推特了想发啥发啥，看不惯可以屏蔽，留下一张糖图恶心谁呢，以为自己老清醒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092811472137261088",
+        "created_at": "2026-08-27T13:19:35.000Z",
+        "display_text_range": [
+          24,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092965248936693979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090436285668454400",
+              "start": 0,
+              "username": "Guagua3txz"
+            },
+            {
+              "end": 23,
+              "id": "2078028550704332800",
+              "start": 12,
+              "username": "Wodeyanlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092965248936693979",
+        "in_reply_to_user_id": "2090436285668454400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092932131903201521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guagua3txz @Wodeyanlei 土逼春雨亩大滚回你的抖音小红书去，都在推特了想发啥发啥，看不惯可以屏蔽，留下一张糖图恶心谁呢，以为自己老清醒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090436285668454400",
+        "conversation_id": "2092811472137261088",
+        "created_at": "2026-08-27T11:07:59.000Z",
+        "display_text_range": [
+          25,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092932131903201521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            },
+            {
+              "end": 24,
+              "id": "2078028550704332800",
+              "start": 13,
+              "username": "Wodeyanlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092932131903201521",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092924144547672090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 @Wodeyanlei 说的就是你这种臭婊子 割这么多还能拿去当逼卖钱呢😂😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092965248936693979",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 178,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T13:51:35.000Z",
+        "description": "你们都是乐乐",
+        "id": "2090436285668454400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092932131903201521",
+        "name": "Guagua",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090436285668454400/1787247666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090494220712771584/PuaPj3n1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Guagua3txz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T08:07:37.000Z",
+        "description": "我是高中生呀。什么圈子都沾一点。绿🚪25没有福利我也不会主动聊天。你们推特给我发消息我都会回的呀。我不约",
+        "id": "2078028550704332800",
+        "is_identity_verified": false,
+        "location": "匿名https://ngl.link/death24435",
+        "most_recent_tweet_id": "2092961229354729601",
+        "name": "我的眼泪你负责吗",
+        "pinned_tweet_id": "2092448527305867584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078028550704332800/1784276561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092824415239364608/NO3V9Tsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 7,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "Wodeyanlei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

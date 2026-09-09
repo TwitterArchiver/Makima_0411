@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094271885131554922",
+    "created_at": "2026-08-31T23:37:20.000Z",
+    "display_text_range": [
+      10,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T00:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094570263505744342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2093606818060832768",
+          "start": 0,
+          "username": "yujie258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094570263505744342",
+    "in_reply_to_user_id": "2093606818060832768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094508042369032605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujie258 我觉得比云药效果好哎🤔我吃新康泰克六颗可以晕一下午，但是云药吃18颗也只是头疼烧胃，不知道是不是买到假药了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094271885131554922",
+        "created_at": "2026-08-31T23:37:20.000Z",
+        "display_text_range": [
+          10,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T00:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094570263505744342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2093606818060832768",
+              "start": 0,
+              "username": "yujie258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094570263505744342",
+        "in_reply_to_user_id": "2093606818060832768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094508042369032605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujie258 我觉得比云药效果好哎🤔我吃新康泰克六颗可以晕一下午，但是云药吃18颗也只是头疼烧胃，不知道是不是买到假药了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093606818060832768",
+        "conversation_id": "2094271885131554922",
+        "created_at": "2026-08-31T19:30:06.000Z",
+        "display_text_range": [
+          13,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094508042369032605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094508042369032605",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094271885131554922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 这玩意哪都能买，药店28一盒，一盒就6t，而且不如云药要带劲，超大剂量服用还是要吃止吐药"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "YA_0542"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094570263505744342",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 243,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T07:50:28.000Z",
+        "description": "精神分裂 躁狂 合法普瑞处方",
+        "id": "2093606818060832768",
+        "is_identity_verified": false,
+        "location": "图书馆之梦",
+        "most_recent_tweet_id": "2094513786229231951",
+        "name": "yujie💊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093606818060832768/1787991114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094092154159468544/vUtmoOV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 36,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "yujie258",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

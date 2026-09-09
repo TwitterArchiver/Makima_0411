@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092824731175284972",
+    "created_at": "2026-08-27T04:01:13.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092824731175284972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2089573464646819840",
+          "start": 3,
+          "username": "rgnytzjl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092824731175284972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091822389705445547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rgnytzjl7: 不要轻易相信网蛆的惨文化，他们背地可能是高材生，九分女，富二代，关系户，发达国家地区户口绿卡持有者或入籍者，沪上精英，港澳高考生，外语精通者，社交达人，健身狂魔或者知名网红博主，而我才是惨文化本身。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092824731175284972",
+        "created_at": "2026-08-27T04:01:13.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092824731175284972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2089573464646819840",
+              "start": 3,
+              "username": "rgnytzjl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092824731175284972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091822389705445547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rgnytzjl7: 不要轻易相信网蛆的惨文化，他们背地可能是高材生，九分女，富二代，关系户，发达国家地区户口绿卡持有者或入籍者，沪上精英，港澳高考生，外语精通者，社交达人，健身狂魔或者知名网红博主，而我才是惨文化本身。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089573464646819840",
+        "conversation_id": "2091822389705445547",
+        "created_at": "2026-08-24T09:38:16.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091822389705445547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091822389705445547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6379,
+          "like_count": 214,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "不要轻易相信网蛆的惨文化，他们背地可能是高材生，九分女，富二代，关系户，发达国家地区户口绿卡持有者或入籍者，沪上精英，港澳高考生，外语精通者，社交达人，健身狂魔或者知名网红博主，而我才是惨文化本身。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092824731175284972",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 174,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T04:43:53.000Z",
+        "description": "叫我黑川就好\n当废话条，想发啥发啥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.com/7ASQ5A",
+                "end": 23,
+                "expanded_url": "https://qntwx.com/7ASQ5A",
+                "start": 0,
+                "url": "https://t.co/em5npyuA07"
+              }
+            ]
+          }
+        },
+        "id": "2089573464646819840",
+        "is_identity_verified": false,
+        "location": "🚪52/88/188",
+        "most_recent_tweet_id": "2092791220556968334",
+        "name": "像极你",
+        "pinned_tweet_id": "2091592516961493224",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089573464646819840/1787253771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092609788127657984/HOnOgHzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 0,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/em5npyuA07",
+        "username": "rgnytzjl7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

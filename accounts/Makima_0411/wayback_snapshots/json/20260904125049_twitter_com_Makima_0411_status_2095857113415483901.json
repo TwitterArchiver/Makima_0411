@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2095680447183499602",
+    "created_at": "2026-09-04T12:50:49.000Z",
+    "display_text_range": [
+      25,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095857113415483901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832032524236918784",
+          "start": 0,
+          "username": "Ice_snow001"
+        },
+        {
+          "end": 24,
+          "id": "2842549538",
+          "start": 13,
+          "username": "Reflectier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095857113415483901",
+    "in_reply_to_user_id": "1832032524236918784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095687900142903475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ice_snow001 @Reflectier 倒也不必什么都拐同性恋身上，同性恋也有好人，异性恋也有坏人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2095680447183499602",
+        "created_at": "2026-09-04T12:50:49.000Z",
+        "display_text_range": [
+          25,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095857113415483901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832032524236918784",
+              "start": 0,
+              "username": "Ice_snow001"
+            },
+            {
+              "end": 24,
+              "id": "2842549538",
+              "start": 13,
+              "username": "Reflectier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095857113415483901",
+        "in_reply_to_user_id": "1832032524236918784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095687900142903475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ice_snow001 @Reflectier 倒也不必什么都拐同性恋身上，同性恋也有好人，异性恋也有坏人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832032524236918784",
+        "conversation_id": "2095680447183499602",
+        "created_at": "2026-09-04T01:38:26.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095687900142903475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2842549538",
+              "start": 0,
+              "username": "Reflectier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095687900142903475",
+        "in_reply_to_user_id": "2842549538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3056,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095680447183499602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reflectier 如果他是gay，是不是一切都说得通了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|od|自傷|抽煙\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095857113415483901",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 280,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-06T12:26:22.000Z",
+        "description": "在隆冬，我终于知道，我身上有一个不可战胜的夏天",
+        "id": "1832032524236918784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095837693972459860",
+        "name": "雪王爱炒股",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832032524236918784/1748189049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059288112141115392/e0Qgu38V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 1149,
+          "like_count": 540,
+          "listed_count": 21,
+          "media_count": 63,
+          "tweet_count": 6341
+        },
+        "url": "",
+        "username": "Ice_snow001",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち\n无孩爱猫男。日常向，但混杂键政内容，但在努力不键政中，谨慎关注\n粉红和男拳师会直接拉黑，所以欢迎一击脱离",
+        "id": "2842549538",
+        "is_identity_verified": false,
+        "location": "Victoria, Australia",
+        "most_recent_tweet_id": "2095830457934127384",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842549538/1726035866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008429721395359750/rSe6FYnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 923,
+          "like_count": 48035,
+          "listed_count": 12,
+          "media_count": 1593,
+          "tweet_count": 26402
+        },
+        "url": "",
+        "username": "Reflectier",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

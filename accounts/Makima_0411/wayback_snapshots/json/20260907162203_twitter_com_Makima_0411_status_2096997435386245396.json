@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2096619172734406893",
+    "created_at": "2026-09-07T16:22:03.000Z",
+    "display_text_range": [
+      34,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T17:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096997435386245396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083897475715551232",
+          "start": 0,
+          "username": "c8bd0q"
+        },
+        {
+          "end": 20,
+          "id": "2095558512848023552",
+          "start": 8,
+          "username": "yumeng_0721"
+        },
+        {
+          "end": 33,
+          "id": "2081009888818278400",
+          "start": 21,
+          "username": "JiGuang_Lab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096997435386245396",
+    "in_reply_to_user_id": "2083897475715551232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096887831545430417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c8bd0q @yumeng_0721 @JiGuang_Lab 我也想知道🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2096619172734406893",
+        "created_at": "2026-09-07T16:22:03.000Z",
+        "display_text_range": [
+          34,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096997435386245396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083897475715551232",
+              "start": 0,
+              "username": "c8bd0q"
+            },
+            {
+              "end": 20,
+              "id": "2095558512848023552",
+              "start": 8,
+              "username": "yumeng_0721"
+            },
+            {
+              "end": 33,
+              "id": "2081009888818278400",
+              "start": 21,
+              "username": "JiGuang_Lab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096997435386245396",
+        "in_reply_to_user_id": "2083897475715551232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096887831545430417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c8bd0q @yumeng_0721 @JiGuang_Lab 我也想知道🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083897475715551232",
+        "conversation_id": "2096619172734406893",
+        "created_at": "2026-09-07T09:06:31.000Z",
+        "display_text_range": [
+          26,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096887831545430417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2095558512848023552",
+              "start": 0,
+              "username": "yumeng_0721"
+            },
+            {
+              "end": 25,
+              "id": "2081009888818278400",
+              "start": 13,
+              "username": "JiGuang_Lab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096887831545430417",
+        "in_reply_to_user_id": "2095558512848023552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096619172734406893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeng_0721 @JiGuang_Lab 这人有什么瓜吗，他以前不是药圈的吗？现在怎么天天发一些没营养的月经贴"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096997435386245396",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096202672298934272/LfYi3mz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 291,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 879
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T12:51:07.000Z",
+        "description": "支那人与白皮猪",
+        "id": "2083897475715551232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096904797257642296",
+        "name": "维尼小熊爱od 8964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083897475715551232/1786024325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083898877867065344/SksaDgLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 52,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1130
+        },
+        "url": "",
+        "username": "c8bd0q",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T17:08:05.000Z",
+        "description": "玩乐、性爱与嗑药。提问箱https://t.co/Lp01040s9g 孤岛频道https://t.co/rXjyEV4O09",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 35,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 12,
+                "url": "https://t.co/Lp01040s9g"
+              },
+              {
+                "display_url": "t.me/Guisland",
+                "end": 63,
+                "expanded_url": "http://t.me/Guisland",
+                "start": 40,
+                "url": "https://t.co/rXjyEV4O09"
+              }
+            ]
+          }
+        },
+        "id": "2095558512848023552",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096846099156025722",
+        "name": "Meng",
+        "pinned_tweet_id": "2095833561677082644",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095558512848023552/1788456727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095559876382760960/ULqsJiLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "yumeng_0721",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "天黑不怕，我们有化学极乐\n我们的宗旨是收容、保护与减害。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp527hL"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096984499288736139",
+        "name": "极光实验室2026",
+        "pinned_tweet_id": "2096984499288736139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096985865641922560/k1ZrcnH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 1130,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/TdRUp527hL",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

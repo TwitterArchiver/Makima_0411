@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092799429191651773",
+    "created_at": "2026-08-27T05:33:10.000Z",
+    "display_text_range": [
+      14,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092847872387739813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066519557616111616",
+          "start": 0,
+          "username": "toothpastezo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092847872387739813",
+    "in_reply_to_user_id": "2066519557616111616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092840424738275573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toothpastezo 因为我看网上吃左边的更多，所以我就有点疑惑🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092799429191651773",
+        "created_at": "2026-08-27T05:33:10.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092847872387739813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066519557616111616",
+              "start": 0,
+              "username": "toothpastezo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092847872387739813",
+        "in_reply_to_user_id": "2066519557616111616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092840424738275573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toothpastezo 因为我看网上吃左边的更多，所以我就有点疑惑🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066519557616111616",
+        "conversation_id": "2092799429191651773",
+        "created_at": "2026-08-27T05:03:35.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092840424738275573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092840424738275573",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092799429191651773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 都是晚安 只不过左边复方 右边单方"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092847872387739813",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 174,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T13:57:37.000Z",
+        "description": "🚪88 188 288私信只回zfb口令\n双相2型 强迫症 焦虑症 cptsd\n#shtwt/メヘンラ/互fo互转欢迎🥳/害怕被凶\n过门再聊天、不要浪费彼此时间",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2066519557616111616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092840424738275573",
+        "name": "toothpaste",
+        "pinned_tweet_id": "2074172875196752232",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066521498995822592/cJfnLEsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 25,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "toothpastezo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

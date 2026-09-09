@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2095121410104721511",
+    "created_at": "2026-09-02T12:27:48.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095126546453561739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1533650309456596993",
+          "start": 0,
+          "username": "nb420_weed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095126546453561739",
+    "in_reply_to_user_id": "1533650309456596993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095126202658996506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nb420_weed 我搞不到😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2095121410104721511",
+        "created_at": "2026-09-02T12:27:48.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095126546453561739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1533650309456596993",
+              "start": 0,
+              "username": "nb420_weed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095126546453561739",
+        "in_reply_to_user_id": "1533650309456596993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095126202658996506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nb420_weed 我搞不到😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533650309456596993",
+        "conversation_id": "2095121410104721511",
+        "created_at": "2026-09-02T12:26:26.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095126202658996506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095126202658996506",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095121410104721511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 大麻也可以呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "YA_0542"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095126546453561739",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 261,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 787
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-06T03:21:53.000Z",
+        "description": "🌿 🍃 大賞\n\nhttps://t.co/CqJaXgqs7i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/greenskychill",
+                "end": 31,
+                "expanded_url": "https://t.me/greenskychill",
+                "start": 8,
+                "url": "https://t.co/CqJaXgqs7i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Greensky420",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Greensky420",
+                "start": 0,
+                "url": "https://t.co/wFewFNiXb7"
+              }
+            ]
+          }
+        },
+        "id": "1533650309456596993",
+        "is_identity_verified": false,
+        "location": "nb420",
+        "most_recent_tweet_id": "2095126202658996506",
+        "name": "Greensky（✈️nb420）燃料机长",
+        "pinned_tweet_id": "2085475554506203164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1533650309456596993/1779876966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048103414727667712/I3v2tKNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 385,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/wFewFNiXb7",
+        "username": "nb420_weed",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

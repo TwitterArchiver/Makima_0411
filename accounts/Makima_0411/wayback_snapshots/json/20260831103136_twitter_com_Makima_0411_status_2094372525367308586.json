@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094321159118676216",
+    "created_at": "2026-08-31T10:31:36.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094372525367308586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762399735644921856",
+          "start": 0,
+          "username": "Serotonin716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094372525367308586",
+    "in_reply_to_user_id": "1762399735644921856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094370990675702006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serotonin716 救命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094321159118676216",
+        "created_at": "2026-08-31T10:31:36.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094372525367308586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762399735644921856",
+              "start": 0,
+              "username": "Serotonin716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094372525367308586",
+        "in_reply_to_user_id": "1762399735644921856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094370990675702006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serotonin716 救命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762399735644921856",
+        "conversation_id": "2094321159118676216",
+        "created_at": "2026-08-31T10:25:30.000Z",
+        "display_text_range": [
+          13,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094370990675702006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094370990675702006",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094321159118676216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 我也被开过这玩意，被我高中班主任看到之后嘲笑了好久🌚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "YA_0542"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094372525367308586",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 238,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-27T08:50:30.000Z",
+        "description": "希望世界和平，希望世界毁灭",
+        "id": "1762399735644921856",
+        "is_identity_verified": false,
+        "location": "在无爱之森呐喊",
+        "most_recent_tweet_id": "2094370990675702006",
+        "name": "肌肉阵挛",
+        "pinned_tweet_id": "1935890736362500245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762399735644921856/1750512345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040636212218830848/-4Bq_qwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 378,
+          "like_count": 68992,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 3592
+        },
+        "url": "",
+        "username": "Serotonin716",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

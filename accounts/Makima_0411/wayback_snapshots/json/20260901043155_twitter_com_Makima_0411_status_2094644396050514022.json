@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094644371887210496"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094644396050514022",
+    "created_at": "2026-09-01T04:31:55.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094644396050514022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GEeBAvDZqz",
+          "end": 63,
+          "expanded_url": "https://x.com/Makima_0411/status/2094644396050514022/photo/1",
+          "media_key": "3_2094644371887210496",
+          "start": 40,
+          "url": "https://t.co/GEeBAvDZqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094644396050514022",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094644371887210496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以前准备走的时候，现在看也就这样吧，只是觉得很豪横\n（医用剂量 无不良引导） https://t.co/GEeBAvDZqz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2094644371887210496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGr9VUbwAATPNy.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094644371887210496"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094644396050514022",
+        "created_at": "2026-09-01T04:31:55.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094644396050514022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEeBAvDZqz",
+              "end": 63,
+              "expanded_url": "https://x.com/Makima_0411/status/2094644396050514022/photo/1",
+              "media_key": "3_2094644371887210496",
+              "start": 40,
+              "url": "https://t.co/GEeBAvDZqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094644396050514022",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094644371887210496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前准备走的时候，现在看也就这样吧，只是觉得很豪横\n（医用剂量 无不良引导） https://t.co/GEeBAvDZqz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "YA_0542"
+              },
+              {
+                "end": 43,
+                "start": 35,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094644396050514022",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 246,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

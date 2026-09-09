@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2095871662445183265",
+    "created_at": "2026-09-06T03:18:29.000Z",
+    "display_text_range": [
+      23,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T04:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096437854348165440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037071293544333312",
+          "start": 0,
+          "username": "kkkcgtt3"
+        },
+        {
+          "end": 22,
+          "id": "2074353833166393344",
+          "start": 10,
+          "username": "nyamura0114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096437854348165440",
+    "in_reply_to_user_id": "2037071293544333312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096185034596307349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkcgtt3 @nyamura0114 没救了，打包送去警察局吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2095871662445183265",
+        "created_at": "2026-09-06T03:18:29.000Z",
+        "display_text_range": [
+          23,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096437854348165440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037071293544333312",
+              "start": 0,
+              "username": "kkkcgtt3"
+            },
+            {
+              "end": 22,
+              "id": "2074353833166393344",
+              "start": 10,
+              "username": "nyamura0114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096437854348165440",
+        "in_reply_to_user_id": "2037071293544333312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096185034596307349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkcgtt3 @nyamura0114 没救了，打包送去警察局吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037071293544333312",
+        "conversation_id": "2095871662445183265",
+        "created_at": "2026-09-05T10:33:52.000Z",
+        "display_text_range": [
+          13,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096185034596307349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074353833166393344",
+              "start": 0,
+              "username": "nyamura0114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096185034596307349",
+        "in_reply_to_user_id": "2074353833166393344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2141,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095871662445183265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyamura0114 你也就骂我这条有流量吧 你知道我为什么嗑药吗 我打什么嗑药的标签了？我发出来好玩 还能被你骂 我被我前男友折磨得要死了 我才磕的 你很了解我？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|od|自傷|抽煙\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096437854348165440",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096202672298934272/LfYi3mz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 283,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 826
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T07:38:32.000Z",
+        "description": "🚪88",
+        "id": "2037071293544333312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096194567586607116",
+        "name": "kkkc",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037071293544333312/1774511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037072031968280576/tUzsBf_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 3,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "kkkcgtt3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-07T04:48:36.000Z",
+        "description": "不要逼一个老实的农村人ok？\n这里只是我的精神世界🌐",
+        "id": "2074353833166393344",
+        "is_identity_verified": false,
+        "location": "🚪88/188 ",
+        "most_recent_tweet_id": "2095879339321807090",
+        "name": "overblue",
+        "pinned_tweet_id": "2091164322466816254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074353833166393344/1783440323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074525141347008512/0g-RC_mB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 21,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "nyamura0114",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

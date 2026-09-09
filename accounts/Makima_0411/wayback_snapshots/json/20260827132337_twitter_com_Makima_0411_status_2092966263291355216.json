@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092880518073233629",
+    "created_at": "2026-08-27T13:23:37.000Z",
+    "display_text_range": [
+      12,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092966263291355216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090436285668454400",
+          "start": 0,
+          "username": "Guagua3txz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092966263291355216",
+    "in_reply_to_user_id": "2090436285668454400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092880518073233629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guagua3txz 心理这么脆弱吗，看个割腕图就被吓成这样，我推荐你去瑞士安乐死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 699,
+        "media_key": "3_2092880504122953728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtnut2W0AAvSdJ.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092880518073233629",
+        "created_at": "2026-08-27T13:23:37.000Z",
+        "display_text_range": [
+          12,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092966263291355216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090436285668454400",
+              "start": 0,
+              "username": "Guagua3txz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092966263291355216",
+        "in_reply_to_user_id": "2090436285668454400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092880518073233629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guagua3txz 心理这么脆弱吗，看个割腕图就被吓成这样，我推荐你去瑞士安乐死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092880504122953728"
+          ]
+        },
+        "author_id": "2090436285668454400",
+        "conversation_id": "2092880518073233629",
+        "created_at": "2026-08-27T07:42:54.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092880518073233629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIrRlPUakw",
+              "end": 103,
+              "expanded_url": "https://x.com/Guagua3txz/status/2092880518073233629/photo/1",
+              "media_key": "3_2092880504122953728",
+              "start": 80,
+              "url": "https://t.co/WIrRlPUakw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092880518073233629",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092880504122953728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这臭逼割腕的能不能不要发网上啊 刷着刷着片突然刷到一堆血图 他妈的恶心死我了  我靠 你们赶紧去死吧 要死赶紧死好吧 不要发到网上祸害别人 真的恶心啊你们 https://t.co/WIrRlPUakw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092966263291355216",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 178,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T13:51:35.000Z",
+        "description": "你们都是乐乐",
+        "id": "2090436285668454400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092932131903201521",
+        "name": "Guagua",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090436285668454400/1787247666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090494220712771584/PuaPj3n1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Guagua3txz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

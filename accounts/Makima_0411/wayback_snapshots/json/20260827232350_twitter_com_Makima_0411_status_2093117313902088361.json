@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2093109205125193830",
+    "created_at": "2026-08-27T23:23:50.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T00:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093117313902088361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090032448050524161",
+          "start": 0,
+          "username": "Yuki1161taff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093117313902088361",
+    "in_reply_to_user_id": "2090032448050524161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093109205125193830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161taff 听"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093109205125193830].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093109205125193830",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093109205125193830"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2093109205125193830",
+        "created_at": "2026-08-27T23:23:50.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T00:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093117313902088361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090032448050524161",
+              "start": 0,
+              "username": "Yuki1161taff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093117313902088361",
+        "in_reply_to_user_id": "2090032448050524161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093109205125193830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161taff 听"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093117313902088361",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 185,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人 早已宽恕之罪 姐姐@Cecey33\n💊報告🩸等一些負面會些轉發到@yuki11300026\n互fo微查成分可私信fo¹/基本無雷²/不fo詭異號²\n岐的成分複雜做好被雷準備/秩序中立¹/🫳🏻摸摸路人²\n共號/路評/互動²/解離²/抑制²/💊²/🩸²/🐱²/🎵²/☺️²\n\n对不起，我可能有时候很坏-岐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Cecey33"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "yuki11300026"
+              }
+            ]
+          }
+        },
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093116983197753778",
+        "name": "岐哥。5。#心宿二",
+        "pinned_tweet_id": "2092753743066632641",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787803233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092451553412079616/ujbHdi_I_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 305,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

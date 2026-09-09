@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092811472137261088",
+    "created_at": "2026-08-27T10:36:15.000Z",
+    "display_text_range": [
+      24,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092924144547672090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090436285668454400",
+          "start": 0,
+          "username": "Guagua3txz"
+        },
+        {
+          "end": 23,
+          "id": "2078028550704332800",
+          "start": 12,
+          "username": "Wodeyanlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092924144547672090",
+    "in_reply_to_user_id": "2090436285668454400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092878680628383972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guagua3txz @Wodeyanlei 割个腕把你全家克死了，臭婊子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 699,
+        "media_key": "3_2092878665046519808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtmDqwXcAAZM5t.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092811472137261088",
+        "created_at": "2026-08-27T10:36:15.000Z",
+        "display_text_range": [
+          24,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092924144547672090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090436285668454400",
+              "start": 0,
+              "username": "Guagua3txz"
+            },
+            {
+              "end": 23,
+              "id": "2078028550704332800",
+              "start": 12,
+              "username": "Wodeyanlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092924144547672090",
+        "in_reply_to_user_id": "2090436285668454400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092878680628383972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guagua3txz @Wodeyanlei 割个腕把你全家克死了，臭婊子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092878665046519808"
+          ]
+        },
+        "author_id": "2090436285668454400",
+        "conversation_id": "2092811472137261088",
+        "created_at": "2026-08-27T07:35:35.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092878680628383972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2078028550704332800",
+              "start": 0,
+              "username": "Wodeyanlei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wJOSyzzDH",
+              "end": 51,
+              "expanded_url": "https://x.com/Guagua3txz/status/2092878680628383972/photo/1",
+              "media_key": "3_2092878665046519808",
+              "start": 28,
+              "url": "https://t.co/9wJOSyzzDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092878680628383972",
+        "in_reply_to_user_id": "2078028550704332800",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092878665046519808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 986,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092811472137261088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wodeyanlei 要死赶紧死 不要发到网上吓别人 https://t.co/9wJOSyzzDH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092924144547672090",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 176,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T13:51:35.000Z",
+        "description": "你们都是乐乐",
+        "id": "2090436285668454400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092886240248951212",
+        "name": "Guagua",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090436285668454400/1787247666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090494220712771584/PuaPj3n1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Guagua3txz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T08:07:37.000Z",
+        "description": "我是高中生呀。什么圈子都沾一点。绿🚪25没有福利我也不会主动聊天。你们推特给我发消息我都会回的呀。我不约",
+        "id": "2078028550704332800",
+        "is_identity_verified": false,
+        "location": "匿名https://ngl.link/death24435",
+        "most_recent_tweet_id": "2092905258536386853",
+        "name": "我的眼泪你负责吗",
+        "pinned_tweet_id": "2092448527305867584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078028550704332800/1784276561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092824415239364608/NO3V9Tsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 6,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "Wodeyanlei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

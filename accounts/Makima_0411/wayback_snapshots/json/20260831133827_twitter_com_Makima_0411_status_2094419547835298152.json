@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094402291784937607",
+    "created_at": "2026-08-31T13:38:27.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T14:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094419547835298152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061434565323886592",
+          "start": 0,
+          "username": "Ooopoowooi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094419547835298152",
+    "in_reply_to_user_id": "2061434565323886592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094402291784937607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ooopoowooi 卧槽好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2094402280196034560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDPxvfaUAAC2mL.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094402279944396800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDPxujaoAAM6m1.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094402280250646528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDPxvsboAAodn9.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1941,
+        "media_key": "3_2094402279940235264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDPxuibIAAdgB8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094402291784937607",
+        "created_at": "2026-08-31T13:38:27.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094419547835298152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061434565323886592",
+              "start": 0,
+              "username": "Ooopoowooi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094419547835298152",
+        "in_reply_to_user_id": "2061434565323886592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094402291784937607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ooopoowooi 卧槽好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094402280196034560",
+            "3_2094402279944396800",
+            "3_2094402280250646528",
+            "3_2094402279940235264"
+          ]
+        },
+        "author_id": "2061434565323886592",
+        "conversation_id": "2094402291784937607",
+        "created_at": "2026-08-31T12:29:53.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094402291784937607"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zapZRNcwX",
+              "end": 47,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2094402291784937607/photo/1",
+              "media_key": "3_2094402280196034560",
+              "start": 24,
+              "url": "https://t.co/8zapZRNcwX"
+            },
+            {
+              "display_url": "pic.x.com/8zapZRNcwX",
+              "end": 47,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2094402291784937607/photo/1",
+              "media_key": "3_2094402279944396800",
+              "start": 24,
+              "url": "https://t.co/8zapZRNcwX"
+            },
+            {
+              "display_url": "pic.x.com/8zapZRNcwX",
+              "end": 47,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2094402291784937607/photo/1",
+              "media_key": "3_2094402280250646528",
+              "start": 24,
+              "url": "https://t.co/8zapZRNcwX"
+            },
+            {
+              "display_url": "pic.x.com/8zapZRNcwX",
+              "end": 47,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2094402291784937607/photo/1",
+              "media_key": "3_2094402279940235264",
+              "start": 24,
+              "url": "https://t.co/8zapZRNcwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094402291784937607",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094402280196034560"
+          },
+          {
+            "media_key": "3_2094402279944396800"
+          },
+          {
+            "media_key": "3_2094402280250646528"
+          },
+          {
+            "media_key": "3_2094402279940235264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是特别敢在墙内露脸 #女同性恋 几个小时后删 https://t.co/8zapZRNcwX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "YA_0542"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094419547835298152",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 241,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T13:13:04.000Z",
+        "description": "药物会带领我们逃离这个扭曲的世界 欢迎聊天 互fo 药理提问 分享 研究pcp化学成分 不定时抽取一些好玩的 做一些药丸的慈善 需要请私信 合法不列管策划药下个月出 只卖两位数",
+        "id": "2061434565323886592",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2094416156480430305",
+        "name": "東九",
+        "pinned_tweet_id": "2072129971821412551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061434565323886592/1784355576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093325373534871552/B3C0OG7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 108,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "Ooopoowooi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

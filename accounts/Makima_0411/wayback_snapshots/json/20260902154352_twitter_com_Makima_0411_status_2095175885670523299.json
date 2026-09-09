@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2095114576526455228",
+    "created_at": "2026-09-02T15:43:52.000Z",
+    "display_text_range": [
+      12,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095175885670523299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "200113501",
+          "start": 0,
+          "username": "leaf3loveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095175885670523299",
+    "in_reply_to_user_id": "200113501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095166494623793566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaf3loveu 我感觉都💩，之前美金刚+烷胺吃完恶心了几天，差点紫砂。苯海索我磕完一直幻听，特别恐怖，而且喉咙胶黏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2095114576526455228",
+        "created_at": "2026-09-02T15:43:52.000Z",
+        "display_text_range": [
+          12,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095175885670523299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "200113501",
+              "start": 0,
+              "username": "leaf3loveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095175885670523299",
+        "in_reply_to_user_id": "200113501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095166494623793566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaf3loveu 我感觉都💩，之前美金刚+烷胺吃完恶心了几天，差点紫砂。苯海索我磕完一直幻听，特别恐怖，而且喉咙胶黏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "200113501",
+        "conversation_id": "2095114576526455228",
+        "created_at": "2026-09-02T15:06:33.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095166494623793566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095166494623793566",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095114576526455228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 尝完能买到的几个谵妄剂，金刚烷胺体验最好...."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "YA_0542"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095175885670523299",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 264,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-08T13:44:33.000Z",
+        "description": "",
+        "id": "200113501",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095167283119403247",
+        "name": "叶子大帝四世",
+        "pinned_tweet_id": "2093952083607404589",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093951095982940160/QfuHu2Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 49,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "leaf3loveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

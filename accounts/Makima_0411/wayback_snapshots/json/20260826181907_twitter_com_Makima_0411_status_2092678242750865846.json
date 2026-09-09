@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Novelty",
+          "id": "845326060757512192",
+          "name": "Fashion Novelty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Fashion Magazines and Publishers",
+          "id": "845337112400478208",
+          "name": "Fashion magazines and publishers"
+        }
+      }
+    ],
+    "conversation_id": "2092678242750865846",
+    "created_at": "2026-08-26T18:19:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092678242750865846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1247143663563505666",
+          "start": 3,
+          "username": "ChinaKarinaBar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092678242750865846",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092607868721869020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChinaKarinaBar: 너의 소원은 이루어졌을까? \n우리가 영원히 함께 있길 바래.\n\nThe Korean magazine that sells the most in China - Karina ELLE KOREA September issue…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092607093253791745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpvEG_a4AEdo57.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Novelty",
+              "id": "845326060757512192",
+              "name": "Fashion Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion Magazines and Publishers",
+              "id": "845337112400478208",
+              "name": "Fashion magazines and publishers"
+            }
+          }
+        ],
+        "conversation_id": "2092678242750865846",
+        "created_at": "2026-08-26T18:19:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092678242750865846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1247143663563505666",
+              "start": 3,
+              "username": "ChinaKarinaBar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092678242750865846",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092607868721869020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChinaKarinaBar: 너의 소원은 이루어졌을까? \n우리가 영원히 함께 있길 바래.\n\nThe Korean magazine that sells the most in China - Karina ELLE KOREA September issue…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092607093253791745"
+          ]
+        },
+        "author_id": "1247143663563505666",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Novelty",
+              "id": "845326060757512192",
+              "name": "Fashion Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion Magazines and Publishers",
+              "id": "845337112400478208",
+              "name": "Fashion magazines and publishers"
+            }
+          }
+        ],
+        "conversation_id": "2092607868721869020",
+        "created_at": "2026-08-26T13:39:29.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:36:28.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092607108323975295",
+          "2092607868721869020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 121,
+              "tag": "KARINA"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "카리나"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "カリナ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aI49UYegI2",
+              "end": 162,
+              "expanded_url": "https://x.com/ChinaKarinaBar/status/2092607868721869020/photo/1",
+              "media_key": "3_2092607093253791745",
+              "start": 139,
+              "url": "https://t.co/aI49UYegI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092607868721869020",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2092607093253791745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 16836,
+          "like_count": 1021,
+          "quote_count": 33,
+          "reply_count": 29,
+          "retweet_count": 453
+        },
+        "reply_settings": "everyone",
+        "text": "너의 소원은 이루어졌을까? \n우리가 영원히 함께 있길 바래.\n\nThe Korean magazine that sells the most in China - Karina ELLE KOREA September issue\n\n#KARINA #카리나 #カリナ https://t.co/aI49UYegI2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092678242750865846",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 171,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-06T12:46:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5025719938",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/5025719938",
+                "start": 0,
+                "url": "https://t.co/CdFPWXje0j"
+              }
+            ]
+          }
+        },
+        "id": "1247143663563505666",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092607868721869020",
+        "name": "ChinaKarinaBar",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247143663563505666/1775703636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042075122954334209/Uei8qAT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45675,
+          "following_count": 63,
+          "like_count": 476,
+          "listed_count": 761,
+          "media_count": 488,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/CdFPWXje0j",
+        "username": "ChinaKarinaBar",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

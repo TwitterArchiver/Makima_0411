@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2095140487535734879",
+    "created_at": "2026-09-02T14:29:22.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095157139161645541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083759498066534400",
+          "start": 0,
+          "username": "Ririnkachan0808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095157139161645541",
+    "in_reply_to_user_id": "2083759498066534400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095140487535734879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririnkachan0808 抖音完全略猫蛆聚集地"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095140468015452160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNvJ7abUAAZUru.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095140468007067648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNvJ7YbYAAi0P5.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095140468007051264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNvJ7YbIAAI7C7.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2095140487535734879",
+        "created_at": "2026-09-02T14:29:22.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095157139161645541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083759498066534400",
+              "start": 0,
+              "username": "Ririnkachan0808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095157139161645541",
+        "in_reply_to_user_id": "2083759498066534400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095140487535734879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririnkachan0808 抖音完全略猫蛆聚集地"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095140468015452160",
+            "3_2095140468007067648",
+            "3_2095140468007051264"
+          ]
+        },
+        "author_id": "2083759498066534400",
+        "conversation_id": "2095140487535734879",
+        "created_at": "2026-09-02T13:23:12.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095140487535734879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gp8mvQKJ33",
+              "end": 37,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2095140487535734879/photo/1",
+              "media_key": "3_2095140468015452160",
+              "start": 14,
+              "url": "https://t.co/gp8mvQKJ33"
+            },
+            {
+              "display_url": "pic.x.com/gp8mvQKJ33",
+              "end": 37,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2095140487535734879/photo/1",
+              "media_key": "3_2095140468007067648",
+              "start": 14,
+              "url": "https://t.co/gp8mvQKJ33"
+            },
+            {
+              "display_url": "pic.x.com/gp8mvQKJ33",
+              "end": 37,
+              "expanded_url": "https://x.com/Ririnkachan0808/status/2095140487535734879/photo/1",
+              "media_key": "3_2095140468007051264",
+              "start": 14,
+              "url": "https://t.co/gp8mvQKJ33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095140487535734879",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095140468015452160"
+          },
+          {
+            "media_key": "3_2095140468007067648"
+          },
+          {
+            "media_key": "3_2095140468007051264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 84,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我又惹到墙内老鼠男了😭😭 https://t.co/gp8mvQKJ33"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "YA_0542"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095157139161645541",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 265,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 798
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T04:07:21.000Z",
+        "description": "🩷🎀💞\n家有幼女鬼一只",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@leyochanririr…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@leyochanririri0808?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/RHAxmjevqz"
+              }
+            ]
+          }
+        },
+        "id": "2083759498066534400",
+        "is_identity_verified": false,
+        "location": "某个醉鬼的酒壶",
+        "most_recent_tweet_id": "2095142286191677892",
+        "name": "Ririnkadesuyo",
+        "pinned_tweet_id": "2089934952972648486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083759498066534400/1786194139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086393771910942720/E8Telu_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 372,
+          "like_count": 1477,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/RHAxmjevqz",
+        "username": "Ririnkachan0808",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

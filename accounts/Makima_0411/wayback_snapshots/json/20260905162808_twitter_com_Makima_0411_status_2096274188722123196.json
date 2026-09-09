@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2096159560532967641",
+    "created_at": "2026-09-05T16:28:08.000Z",
+    "display_text_range": [
+      8,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096274188722123196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2090560193453289473",
+          "start": 0,
+          "username": "ui9nxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096274188722123196",
+    "in_reply_to_user_id": "2090560193453289473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096258497101062186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ui9nxr 对，没他们在那乱发的话，pr玉米说不定还不会死得这么快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2096159560532967641",
+        "created_at": "2026-09-05T16:28:08.000Z",
+        "display_text_range": [
+          8,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096274188722123196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2090560193453289473",
+              "start": 0,
+              "username": "ui9nxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096274188722123196",
+        "in_reply_to_user_id": "2090560193453289473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096258497101062186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ui9nxr 对，没他们在那乱发的话，pr玉米说不定还不会死得这么快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090560193453289473",
+        "conversation_id": "2096159560532967641",
+        "created_at": "2026-09-05T15:25:46.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096258497101062186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096258497101062186",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096159560532967641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 💊都被管制跟他们关系超级大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|od|自傷|抽煙\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096274188722123196",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096202672298934272/LfYi3mz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 282,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 869
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T22:03:43.000Z",
+        "description": "每天活着都很懵逼",
+        "id": "2090560193453289473",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096265480730558725",
+        "name": "y3qap",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090560193453289473/1787531434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092282717329100800/_YTybm8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 29,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "ui9nxr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

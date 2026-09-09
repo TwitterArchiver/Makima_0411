@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2096150154957271115",
+    "created_at": "2026-09-05T10:53:30.000Z",
+    "display_text_range": [
+      21,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096189975226359908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Ajs_ririka"
+        },
+        {
+          "end": 20,
+          "id": "2093199347764887552",
+          "start": 12,
+          "username": "kk2yyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096189975226359908",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096189829432381671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajs_ririka @kk2yyds 谢谢喵🥹🫶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2096150154957271115",
+        "created_at": "2026-09-05T10:53:30.000Z",
+        "display_text_range": [
+          21,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096189975226359908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Ajs_ririka"
+            },
+            {
+              "end": 20,
+              "id": "2093199347764887552",
+              "start": 12,
+              "username": "kk2yyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096189975226359908",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096189829432381671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajs_ririka @kk2yyds 谢谢喵🥹🫶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681716872415440896",
+        "conversation_id": "2096150154957271115",
+        "created_at": "2026-09-05T10:52:55.000Z",
+        "display_text_range": [
+          22,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096189829432381671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2093199347764887552",
+              "start": 0,
+              "username": "kk2yyds"
+            },
+            {
+              "end": 21,
+              "id": "2085036823252987904",
+              "start": 9,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096189829432381671",
+        "in_reply_to_user_id": "2093199347764887552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096176400369881398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk2yyds @Makima_0411 id取得都很有特色好吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|od|自傷|抽煙\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096189975226359908",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 280,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 863
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "串子谨言慎行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajs_ririka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajs_ririka",
+                "start": 0,
+                "url": "https://t.co/5V4ZiY98Z7"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "is_identity_verified": false,
+        "location": "精神世界",
+        "most_recent_tweet_id": "2096189829432381671",
+        "name": "Ririka",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681716872415440896/1763025470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094073050883137536/djNHTXP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1300,
+          "like_count": 36035,
+          "listed_count": 2,
+          "media_count": 997,
+          "tweet_count": 22065
+        },
+        "url": "https://t.co/5V4ZiY98Z7",
+        "username": "Ajs_ririka",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T04:50:53.000Z",
+        "description": "💊｜🩸｜🔪｜🚬\n不常看黑茶但是看到会秒回\n大号已炸@YA_0542 三号坤防炸@pr80yyds \nod妹直接fo会回我喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "YA_0542"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              }
+            ]
+          }
+        },
+        "id": "2093199347764887552",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096176400369881398",
+        "name": "親愛なるあなたは火葬",
+        "pinned_tweet_id": "2093203444475764930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093199347764887552/1788314980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095467971695239168/fWXUQRxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 177,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "kk2yyds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2094985194533212288",
+    "created_at": "2026-09-02T03:17:49.000Z",
+    "display_text_range": [
+      9,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T04:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094988137584054290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2093199347764887552",
+          "start": 0,
+          "username": "kk2yyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094988137584054290",
+    "in_reply_to_user_id": "2093199347764887552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094987872634110187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk2yyds 我把晶哥冻起来一起寄给你吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2094985194533212288",
+        "created_at": "2026-09-02T03:17:49.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094988137584054290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2093199347764887552",
+              "start": 0,
+              "username": "kk2yyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094988137584054290",
+        "in_reply_to_user_id": "2093199347764887552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094987872634110187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk2yyds 我把晶哥冻起来一起寄给你吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093199347764887552",
+        "conversation_id": "2094985194533212288",
+        "created_at": "2026-09-02T03:16:46.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094987872634110187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094987872634110187",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094985194533212288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 全部寄给我好吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 @kk2yyds @pr80yyds\n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "YA_0542"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094988137584054290",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 260,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 765
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T04:50:53.000Z",
+        "description": "💊｜🩸｜🔪｜🚬\n不常看黑茶但是看到会秒回\nod妹直接fo会回我喜欢交朋友",
+        "id": "2093199347764887552",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094987872634110187",
+        "name": "親愛なるあなたは火葬",
+        "pinned_tweet_id": "2093203444475764930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093199347764887552/1788314980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094970894653472768/BYLYqzoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 154,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "kk2yyds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

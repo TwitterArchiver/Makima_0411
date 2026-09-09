@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2096439683899162977",
+    "created_at": "2026-09-06T16:21:33.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096634921762889835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924185917646110720",
+          "start": 0,
+          "username": "I_loveuforever4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096634921762889835",
+    "in_reply_to_user_id": "1924185917646110720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096633293756367065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I_loveuforever4 谢谢你的安慰呀……🥹🫶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2096439683899162977",
+        "created_at": "2026-09-06T16:21:33.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096634921762889835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924185917646110720",
+              "start": 0,
+              "username": "I_loveuforever4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096634921762889835",
+        "in_reply_to_user_id": "1924185917646110720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096633293756367065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_loveuforever4 谢谢你的安慰呀……🥹🫶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924185917646110720",
+        "conversation_id": "2096439683899162977",
+        "created_at": "2026-09-06T16:15:05.000Z",
+        "display_text_range": [
+          13,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096633293756367065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096633293756367065",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096439683899162977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 搓搓…这种得不到回报的付出听你的描述就好力竭..😞"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096634921762889835",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096202672298934272/LfYi3mz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 288,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 846
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-18T19:30:58.000Z",
+        "description": "enby｜ace ｜08｜友一切｜自娱自乐｜大思考｜伪人学习中｜o友互fo ｜心理疾病🈶\n\n有时候没看到消息可以私信戳我",
+        "id": "1924185917646110720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096634327782322279",
+        "name": "Nullzt",
+        "pinned_tweet_id": "1976718216820146185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924185917646110720/1782510239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088311903244435456/WtyPy9Y3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 39,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "I_loveuforever4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

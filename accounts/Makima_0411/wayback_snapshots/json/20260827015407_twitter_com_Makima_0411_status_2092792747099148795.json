@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2092792747099148795",
+    "created_at": "2026-08-27T01:54:07.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T02:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092792747099148795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2089573464646819840",
+          "start": 3,
+          "username": "rgnytzjl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092792747099148795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092611181475475816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rgnytzjl7: 马斯克你不会设计软件就别设计，正常人账号天天被冻结，人机号天天活蹦乱跳的，没活干就去跟特朗普约吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2092792747099148795",
+        "created_at": "2026-08-27T01:54:07.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092792747099148795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2089573464646819840",
+              "start": 3,
+              "username": "rgnytzjl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092792747099148795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092611181475475816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rgnytzjl7: 马斯克你不会设计软件就别设计，正常人账号天天被冻结，人机号天天活蹦乱跳的，没活干就去跟特朗普约吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089573464646819840",
+        "conversation_id": "2092611181475475816",
+        "created_at": "2026-08-26T13:52:39.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092611181475475816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092611181475475816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 59931,
+          "like_count": 1856,
+          "quote_count": 3,
+          "reply_count": 243,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克你不会设计软件就别设计，正常人账号天天被冻结，人机号天天活蹦乱跳的，没活干就去跟特朗普约吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "我是銹骨蛇 叫我小蛇就好~\n精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@YA_0542 \n2.0防坠机@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "YA_0542"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092792747099148795",
+        "name": "不会为不存在的天命去压低脊梁",
+        "pinned_tweet_id": "2090254926874399006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1787190989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092186165172711424/MQLCcegV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 174,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T04:43:53.000Z",
+        "description": "叫我黑川就好\n当废话条，想发啥发啥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.com/7ASQ5A",
+                "end": 23,
+                "expanded_url": "https://qntwx.com/7ASQ5A",
+                "start": 0,
+                "url": "https://t.co/em5npyuA07"
+              }
+            ]
+          }
+        },
+        "id": "2089573464646819840",
+        "is_identity_verified": false,
+        "location": "🚪52/88/188",
+        "most_recent_tweet_id": "2092791220556968334",
+        "name": "像极你",
+        "pinned_tweet_id": "2091592516961493224",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089573464646819840/1787253771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092609788127657984/HOnOgHzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 0,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/em5npyuA07",
+        "username": "rgnytzjl7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

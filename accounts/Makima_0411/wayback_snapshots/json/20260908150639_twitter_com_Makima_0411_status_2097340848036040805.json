@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2097340848036040805",
+    "created_at": "2026-09-08T15:06:39.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T16:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097340848036040805"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097340848036040805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么一直有人取关我？我不明白，我已经两三次破300fo了，刚准备发粉福的时候就掉fo🥲\n我他妈的真气笑了，有的人不会找我双取吗？看不惯我的话请动动小手私信和我说一声，咱直接互取互屏不就行了😹\n咱也不知道咱这是惹到谁了，我从来不参与药圈的各种纷争，就每天发个糖逼推文顺便和推友互动而已…🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2097340848036040805",
+        "created_at": "2026-09-08T15:06:39.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097340848036040805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097340848036040805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么一直有人取关我？我不明白，我已经两三次破300fo了，刚准备发粉福的时候就掉fo🥲\n我他妈的真气笑了，有的人不会找我双取吗？看不惯我的话请动动小手私信和我说一声，咱直接互取互屏不就行了😹\n咱也不知道咱这是惹到谁了，我从来不参与药圈的各种纷争，就每天发个糖逼推文顺便和推友互动而已…🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097340848036040805",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2094072847979397603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1788865001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097279221290946560/Q6UOEVmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 304,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 915
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
