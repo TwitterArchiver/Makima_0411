@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101675382319857665",
+        "3_2101675401353592832"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101675422941671809",
+    "created_at": "2026-09-20T14:10:42.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T15:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101675422941671809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/co0jsUlqG8",
+          "end": 40,
+          "expanded_url": "https://x.com/Makima_0411/status/2101675422941671809/photo/1",
+          "media_key": "3_2101675382319857665",
+          "start": 17,
+          "url": "https://t.co/co0jsUlqG8"
+        },
+        {
+          "display_url": "pic.x.com/co0jsUlqG8",
+          "end": 40,
+          "expanded_url": "https://x.com/Makima_0411/status/2101675422941671809/photo/1",
+          "media_key": "3_2101675401353592832",
+          "start": 17,
+          "url": "https://t.co/co0jsUlqG8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101675422941671809",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101675382319857665"
+      },
+      {
+        "media_key": "3_2101675401353592832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日打野大成功～\n还做了新美甲捏 https://t.co/co0jsUlqG8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2101675382319857665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqmoARbwAE6OhP.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2101675401353592832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqmpHLbgAApWHd.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101675382319857665",
+            "3_2101675401353592832"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101675422941671809",
+        "created_at": "2026-09-20T14:10:42.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101675422941671809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/co0jsUlqG8",
+              "end": 40,
+              "expanded_url": "https://x.com/Makima_0411/status/2101675422941671809/photo/1",
+              "media_key": "3_2101675382319857665",
+              "start": 17,
+              "url": "https://t.co/co0jsUlqG8"
+            },
+            {
+              "display_url": "pic.x.com/co0jsUlqG8",
+              "end": 40,
+              "expanded_url": "https://x.com/Makima_0411/status/2101675422941671809/photo/1",
+              "media_key": "3_2101675401353592832",
+              "start": 17,
+              "url": "https://t.co/co0jsUlqG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101675422941671809",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101675382319857665"
+          },
+          {
+            "media_key": "3_2101675401353592832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日打野大成功～\n还做了新美甲捏 https://t.co/co0jsUlqG8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101675422941671809",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 370,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1191
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2099789371746439500",
+    "created_at": "2026-09-15T15:16:04.000Z",
+    "display_text_range": [
+      17,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099879933585883638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927934266673090560",
+          "start": 0,
+          "username": "paperstone15564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099879933585883638",
+    "in_reply_to_user_id": "1927934266673090560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099876027673784450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paperstone15564 我花呗京东的额度全用完了，现在每天都有电话打过来催我还钱……🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2099789371746439500",
+        "created_at": "2026-09-15T15:16:04.000Z",
+        "display_text_range": [
+          17,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099879933585883638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927934266673090560",
+              "start": 0,
+              "username": "paperstone15564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099879933585883638",
+        "in_reply_to_user_id": "1927934266673090560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099876027673784450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paperstone15564 我花呗京东的额度全用完了，现在每天都有电话打过来催我还钱……🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927934266673090560",
+        "conversation_id": "2099789371746439500",
+        "created_at": "2026-09-15T15:00:33.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099876027673784450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099876027673784450",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099789371746439500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 我也是，花呗额度都快被我用完了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099879933585883638",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789030745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 344,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-29T03:46:26.000Z",
+        "description": "06 | 自诊中抑 | od初尝试？|oder |同频互fo |过于抽象请自行离开 |不见证  | 本科在读 |可以叫我石头/stone | 有点呆傻\n提问箱https://t.co/WIWyyeVimf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/paperstone15564",
+                "end": 102,
+                "expanded_url": "https://ngl.link/paperstone15564",
+                "start": 79,
+                "url": "https://t.co/WIWyyeVimf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/stoneholder",
+                "end": 23,
+                "expanded_url": "http://t.me/stoneholder",
+                "start": 0,
+                "url": "https://t.co/AwRSLvFMZv"
+              }
+            ]
+          }
+        },
+        "id": "1927934266673090560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099878043217224108",
+        "name": "烛断的石头",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927934266673090560/1787074065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089762662762819584/JMtls2gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/AwRSLvFMZv",
+        "username": "paperstone15564",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

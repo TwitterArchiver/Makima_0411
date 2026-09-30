@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2099312220924719393",
+    "created_at": "2026-09-14T01:40:11.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T02:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099312220924719393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/K7unmn/status/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/K7unmn/status/2099309036047147170",
+          "start": 19,
+          "url": "https://t.co/Q87TJFy3oN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099312220924719393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099309036047147170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宁到底是逼格小狗还是Uuu还是诚哥？ https://t.co/Q87TJFy3oN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2099312220924719393",
+        "created_at": "2026-09-14T01:40:11.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T02:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099312220924719393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/K7unmn/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/K7unmn/status/2099309036047147170",
+              "start": 19,
+              "url": "https://t.co/Q87TJFy3oN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099312220924719393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099309036047147170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宁到底是逼格小狗还是Uuu还是诚哥？ https://t.co/Q87TJFy3oN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085693594003025920",
+        "conversation_id": "2099309036047147170",
+        "created_at": "2026-09-14T01:27:32.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T02:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099309036047147170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/demonnn77/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/demonnn77/status/2099308510643376220",
+              "start": 7,
+              "url": "https://t.co/ExSoFTn6fA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099309036047147170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099308510643376220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是我大号 https://t.co/ExSoFTn6fA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099312220924719393",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789030745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 335,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1028
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T11:45:05.000Z",
+        "description": "三清贱",
+        "id": "2085693594003025920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099312086140821699",
+        "name": "三清剑",
+        "pinned_tweet_id": "2098788594886615540",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099307079647514624/9EdF1hmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 23,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "K7unmn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

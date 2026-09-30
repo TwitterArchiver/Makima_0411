@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2098805001791713584",
+    "created_at": "2026-09-13T14:45:59.000Z",
+    "display_text_range": [
+      13,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099147587572138307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1863611332680904705",
+          "start": 0,
+          "username": "misaccccccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099147587572138307",
+    "in_reply_to_user_id": "1863611332680904705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098805001791713584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaccccccc 我敢让别人祝我完全柳智敏，小尼玛敢不敢让别人祝她们完全宁艺卓？😹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098804988676108289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB0BGrbcAEoZ3m.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2098805001791713584",
+        "created_at": "2026-09-13T14:45:59.000Z",
+        "display_text_range": [
+          13,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099147587572138307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1863611332680904705",
+              "start": 0,
+              "username": "misaccccccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099147587572138307",
+        "in_reply_to_user_id": "1863611332680904705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098805001791713584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaccccccc 我敢让别人祝我完全柳智敏，小尼玛敢不敢让别人祝她们完全宁艺卓？😹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098804988676108289"
+          ]
+        },
+        "author_id": "1863611332680904705",
+        "conversation_id": "2098805001791713584",
+        "created_at": "2026-09-12T16:04:40.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098805001791713584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfTvZWngdy",
+              "end": 76,
+              "expanded_url": "https://x.com/misaccccccc/status/2098805001791713584/photo/1",
+              "media_key": "3_2098804988676108289",
+              "start": 53,
+              "url": "https://t.co/RfTvZWngdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098805001791713584",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098804988676108289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 159464,
+          "like_count": 247,
+          "quote_count": 2,
+          "reply_count": 254,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小尼玛这群丑逼穷逼赔钱货啥时候能消停一下？一身拼多多货配上一出生就被扁平足老母踩脸上的大饼脸吓到人家了！ https://t.co/RfTvZWngdy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099147587572138307",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789030745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 335,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1018
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-02T15:49:13.000Z",
+        "description": "女孩子一枚",
+        "id": "1863611332680904705",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099137726662492235",
+        "name": "玻璃窗",
+        "pinned_tweet_id": "2036595273309339827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863611332680904705/1771947315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026318919397429248/8lR2Zidd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4538,
+          "following_count": 75,
+          "like_count": 8417,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 1157
+        },
+        "url": "",
+        "username": "misaccccccc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

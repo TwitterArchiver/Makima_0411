@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2099516111880642963",
+    "created_at": "2026-09-15T15:58:43.000Z",
+    "display_text_range": [
+      11,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099890666671407327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840013744489017345",
+          "start": 0,
+          "username": "xnttkxTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099890666671407327",
+    "in_reply_to_user_id": "1840013744489017345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099880685477728294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnttkxTvT 我吃完真的超级烧胃头皮发麻很疼，其他就没什么感觉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2099880670378254337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRGWBSa4AEaUfz.jpg",
+        "width": 902
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099880670793469953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRGWC1akAEeAeE.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2099516111880642963",
+        "created_at": "2026-09-15T15:58:43.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099890666671407327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840013744489017345",
+              "start": 0,
+              "username": "xnttkxTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099890666671407327",
+        "in_reply_to_user_id": "1840013744489017345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099880685477728294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnttkxTvT 我吃完真的超级烧胃头皮发麻很疼，其他就没什么感觉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099880670378254337",
+            "3_2099880670793469953"
+          ]
+        },
+        "author_id": "1840013744489017345",
+        "conversation_id": "2099516111880642963",
+        "created_at": "2026-09-15T15:19:03.000Z",
+        "display_text_range": [
+          13,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099880685477728294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7FG0v1NOY",
+              "end": 104,
+              "expanded_url": "https://x.com/xnttkxTvT/status/2099880685477728294/photo/1",
+              "media_key": "3_2099880670378254337",
+              "start": 81,
+              "url": "https://t.co/e7FG0v1NOY"
+            },
+            {
+              "display_url": "pic.x.com/e7FG0v1NOY",
+              "end": 104,
+              "expanded_url": "https://x.com/xnttkxTvT/status/2099880685477728294/photo/1",
+              "media_key": "3_2099880670793469953",
+              "start": 81,
+              "url": "https://t.co/e7FG0v1NOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099880685477728294",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099880670378254337"
+          },
+          {
+            "media_key": "3_2099880670793469953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099516111880642963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 我在他这儿买了好几次 感觉就是效果怪怪的有一次吃了八片都没有效果直接睡着了 还有有一次是吃了12片 头皮有点痒没了 平常吃八片都能上头 https://t.co/e7FG0v1NOY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099890666671407327",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789030745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 344,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1096
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-28T13:00:50.000Z",
+        "description": "同好找我互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/n%E2%80%86n%E2…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/n%E2%80%86n%E2%80%86n%E2%80%86n23979",
+                "start": 0,
+                "url": "https://t.co/HyTCiTrJxo"
+              }
+            ]
+          }
+        },
+        "id": "1840013744489017345",
+        "is_identity_verified": false,
+        "location": "🚪88 只回口令",
+        "most_recent_tweet_id": "2099883068274393417",
+        "name": "12",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840013744489017345/1787306227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092312898764951552/Uw0n_3Rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 85,
+          "like_count": 4069,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/HyTCiTrJxo",
+        "username": "xnttkxTvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

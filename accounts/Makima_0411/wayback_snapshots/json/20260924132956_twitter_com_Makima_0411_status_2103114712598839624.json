@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2102709818268192950",
+    "created_at": "2026-09-24T13:29:56.000Z",
+    "display_text_range": [
+      41,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103114712598839624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059074758881505281",
+          "start": 0,
+          "username": "Josenyl0s"
+        },
+        {
+          "end": 26,
+          "id": "2082156175030996992",
+          "start": 11,
+          "username": "Yangyuyuchitwo"
+        },
+        {
+          "end": 40,
+          "id": "2096845409763377152",
+          "start": 27,
+          "username": "Xingqierdpri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103114712598839624",
+    "in_reply_to_user_id": "2059074758881505281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102930232051470415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Josenyl0s @Yangyuyuchitwo @Xingqierdpri 下次手滑割你脖子上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2102709818268192950",
+        "created_at": "2026-09-24T13:29:56.000Z",
+        "display_text_range": [
+          41,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103114712598839624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059074758881505281",
+              "start": 0,
+              "username": "Josenyl0s"
+            },
+            {
+              "end": 26,
+              "id": "2082156175030996992",
+              "start": 11,
+              "username": "Yangyuyuchitwo"
+            },
+            {
+              "end": 40,
+              "id": "2096845409763377152",
+              "start": 27,
+              "username": "Xingqierdpri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103114712598839624",
+        "in_reply_to_user_id": "2059074758881505281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102930232051470415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Josenyl0s @Yangyuyuchitwo @Xingqierdpri 下次手滑割你脖子上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059074758881505281",
+        "conversation_id": "2102709818268192950",
+        "created_at": "2026-09-24T01:16:52.000Z",
+        "display_text_range": [
+          30,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102930232051470415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082156175030996992",
+              "start": 0,
+              "username": "Yangyuyuchitwo"
+            },
+            {
+              "end": 29,
+              "id": "2096845409763377152",
+              "start": 16,
+              "username": "Xingqierdpri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102930232051470415",
+        "in_reply_to_user_id": "2082156175030996992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102854074341478754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangyuyuchitwo @Xingqierdpri 建议直接割大动脉哈🤣🤣🤣割个手臂纯废物"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103114712598839624",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 383,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1276
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T00:51:19.000Z",
+        "description": "",
+        "id": "2059074758881505281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102934519603159221",
+        "name": "。。。",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098261918410846208/UFDXPdn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 78,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "Josenyl0s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T17:30:32.000Z",
+        "description": "随缘发日常和思绪\n在没人认识我的地方我就能够表现的更真实吗？\n暂时只是转发我来自其他地方的消息",
+        "id": "2082156175030996992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102854074341478754",
+        "name": "洋芋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082156175030996992/1788975281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094766758376910848/IwM0hb3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Yangyuyuchitwo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:18:47.000Z",
+        "description": "半休学状态/放养/人穷事多\n希望遇到我的天使们一起走出炼狱迎接天堂洗礼",
+        "id": "2096845409763377152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103114289813049634",
+        "name": "血清（4.0）",
+        "pinned_tweet_id": "2102674264281485347",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096845409763377152/1788762046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096845690005803008/WCHw0GaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 104,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "Xingqierdpri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

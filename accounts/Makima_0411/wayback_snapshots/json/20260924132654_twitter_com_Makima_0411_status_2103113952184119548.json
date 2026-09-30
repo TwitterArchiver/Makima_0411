@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2102709818268192950",
+    "created_at": "2026-09-24T13:26:54.000Z",
+    "display_text_range": [
+      31,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103113952184119548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1769242342337179648",
+          "start": 0,
+          "username": "dd2075298746534"
+        },
+        {
+          "end": 30,
+          "id": "2096845409763377152",
+          "start": 17,
+          "username": "Xingqierdpri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103113952184119548",
+    "in_reply_to_user_id": "1769242342337179648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103109665907503229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd2075298746534 @Xingqierdpri 我妈死了你全家也没活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2102709818268192950",
+        "created_at": "2026-09-24T13:26:54.000Z",
+        "display_text_range": [
+          31,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103113952184119548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1769242342337179648",
+              "start": 0,
+              "username": "dd2075298746534"
+            },
+            {
+              "end": 30,
+              "id": "2096845409763377152",
+              "start": 17,
+              "username": "Xingqierdpri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103113952184119548",
+        "in_reply_to_user_id": "1769242342337179648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103109665907503229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd2075298746534 @Xingqierdpri 我妈死了你全家也没活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769242342337179648",
+        "conversation_id": "2102709818268192950",
+        "created_at": "2026-09-24T13:09:52.000Z",
+        "display_text_range": [
+          27,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103109665907503229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            },
+            {
+              "end": 26,
+              "id": "2096845409763377152",
+              "start": 13,
+              "username": "Xingqierdpri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103109665907503229",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102822515236392967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 @Xingqierdpri 快去给你妈杀了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103113952184119548",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 383,
+          "like_count": 1387,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1274
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-17T06:00:50.000Z",
+        "description": "",
+        "id": "1769242342337179648",
+        "is_identity_verified": false,
+        "location": "5.3km",
+        "most_recent_tweet_id": "2103112787224576497",
+        "name": "滴滴",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963472706369982465/ZEymFNsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 57,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "dd2075298746534",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:18:47.000Z",
+        "description": "半休学状态/放养/人穷事多\n希望遇到我的天使们一起走出炼狱迎接天堂洗礼",
+        "id": "2096845409763377152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103113516840542599",
+        "name": "血清（4.0）",
+        "pinned_tweet_id": "2102674264281485347",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096845409763377152/1788762046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096845690005803008/WCHw0GaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 104,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "Xingqierdpri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

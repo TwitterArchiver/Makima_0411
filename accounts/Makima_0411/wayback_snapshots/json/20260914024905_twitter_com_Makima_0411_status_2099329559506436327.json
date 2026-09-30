@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2099329559506436327",
+    "created_at": "2026-09-14T02:49:05.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T03:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099329559506436327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024708440564912131",
+          "start": 3,
+          "username": "xian229224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099329559506436327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099125934641258759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xian229224: 消肿逼之呼吸 ，一之型，cult重金属\n消肿逼之呼吸，二之型，emoscene\n消肿逼之呼吸，三之型， o血裸穿 \n消肿逼之呼吸，四之型，tcc屠城\n消肿逼之呼吸，五之型，柜子恨国\n消肿逼之复制，复之型，复制复制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2099329559506436327",
+        "created_at": "2026-09-14T02:49:05.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T03:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099329559506436327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024708440564912131",
+              "start": 3,
+              "username": "xian229224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099329559506436327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099125934641258759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xian229224: 消肿逼之呼吸 ，一之型，cult重金属\n消肿逼之呼吸，二之型，emoscene\n消肿逼之呼吸，三之型， o血裸穿 \n消肿逼之呼吸，四之型，tcc屠城\n消肿逼之呼吸，五之型，柜子恨国\n消肿逼之复制，复之型，复制复制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024708440564912131",
+        "conversation_id": "2099125934641258759",
+        "created_at": "2026-09-13T13:19:57.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099125934641258759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099125934641258759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4340,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "消肿逼之呼吸 ，一之型，cult重金属\n消肿逼之呼吸，二之型，emoscene\n消肿逼之呼吸，三之型， o血裸穿 \n消肿逼之呼吸，四之型，tcc屠城\n消肿逼之呼吸，五之型，柜子恨国\n消肿逼之复制，复之型，复制复制"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099329559506436327",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789030745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 335,
+          "like_count": 853,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1031
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-20T04:51:40.000Z",
+        "description": "网蛆而已\n@Chuchu_229",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Chuchu_229"
+              }
+            ]
+          }
+        },
+        "id": "2024708440564912131",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099311420957720595",
+        "name": "藓",
+        "pinned_tweet_id": "2094025376515428734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024708440564912131/1775994100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090975828813508608/ciN5Oxin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 51,
+          "like_count": 15605,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1314
+        },
+        "url": "",
+        "username": "xian229224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

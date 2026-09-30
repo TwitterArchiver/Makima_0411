@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2102139111377457411",
+    "created_at": "2026-09-22T02:02:44.000Z",
+    "display_text_range": [
+      13,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T03:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102216999439052939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2094487231356710912",
+          "start": 0,
+          "username": "Nito0427ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102216999439052939",
+    "in_reply_to_user_id": "2094487231356710912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102204077505683692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nito0427ovo sns把我气死了，我之前也觉得它是神药来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2102139111377457411",
+        "created_at": "2026-09-22T02:02:44.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T03:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102216999439052939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2094487231356710912",
+              "start": 0,
+              "username": "Nito0427ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102216999439052939",
+        "in_reply_to_user_id": "2094487231356710912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102204077505683692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nito0427ovo sns把我气死了，我之前也觉得它是神药来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094487231356710912",
+        "conversation_id": "2102139111377457411",
+        "created_at": "2026-09-22T01:11:23.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102204077505683692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102204077505683692",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102139111377457411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 我现在sns一生黑之前我还最爱sns呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102216999439052939",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 374,
+          "like_count": 1251,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1199
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T18:12:59.000Z",
+        "description": "我这样死板的山，竟也会为你哗然",
+        "id": "2094487231356710912",
+        "is_identity_verified": false,
+        "location": "为了为了我的你",
+        "most_recent_tweet_id": "2102216773810745699",
+        "name": "Ttttw",
+        "pinned_tweet_id": "2096494610264866827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094487231356710912/1788202828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100033249611489280/5tt9hnla_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 66,
+          "like_count": 2389,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 989
+        },
+        "url": "",
+        "username": "Nito0427ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

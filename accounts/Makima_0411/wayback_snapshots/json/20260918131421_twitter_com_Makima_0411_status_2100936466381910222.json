@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2099516111880642963",
+    "created_at": "2026-09-18T13:14:21.000Z",
+    "display_text_range": [
+      11,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100936466381910222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1101189825976303616",
+          "start": 0,
+          "username": "Ym4Fourth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100936466381910222",
+    "in_reply_to_user_id": "1101189825976303616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100023739572482318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ym4Fourth 那可能是我体质问题吧，反正我吃新康泰克6t特别晕，他家的我18t都没感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100023732895113216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTIdWsaYAAG0mB.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2099516111880642963",
+        "created_at": "2026-09-18T13:14:21.000Z",
+        "display_text_range": [
+          11,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100936466381910222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1101189825976303616",
+              "start": 0,
+              "username": "Ym4Fourth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100936466381910222",
+        "in_reply_to_user_id": "1101189825976303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100023739572482318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ym4Fourth 那可能是我体质问题吧，反正我吃新康泰克6t特别晕，他家的我18t都没感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100023732895113216"
+          ]
+        },
+        "author_id": "1101189825976303616",
+        "conversation_id": "2099516111880642963",
+        "created_at": "2026-09-16T00:47:30.000Z",
+        "display_text_range": [
+          13,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100023739572482318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AulQuxYMZz",
+              "end": 84,
+              "expanded_url": "https://x.com/Ym4Fourth/status/2100023739572482318/photo/1",
+              "media_key": "3_2100023732895113216",
+              "start": 61,
+              "url": "https://t.co/AulQuxYMZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100023739572482318",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100023732895113216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099516111880642963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 我买过，感觉没太大问题，药效感觉和之前药店买的一模一样，除了没包装盒，其他的都感觉不出来是假的 https://t.co/AulQuxYMZz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100936466381910222",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 365,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1171
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-28T18:38:08.000Z",
+        "description": "吃糖2年了喵～体重48/165，今年19岁了喵",
+        "id": "1101189825976303616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100140133349794142",
+        "name": "雨梦🍥",
+        "pinned_tweet_id": "1887229891927810247",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1101189825976303616/1784964422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080667354883854336/3k4DVtu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7516,
+          "following_count": 144,
+          "like_count": 994,
+          "listed_count": 20,
+          "media_count": 170,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "Ym4Fourth",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

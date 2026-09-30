@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2100841471033151967",
+    "created_at": "2026-09-18T14:32:09.000Z",
+    "display_text_range": [
+      58,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100956043278991386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1949070160179970048",
+          "start": 0,
+          "username": "ChenJiaShuo1431"
+        },
+        {
+          "end": 32,
+          "id": "2083001616936923136",
+          "start": 17,
+          "username": "JustinBieb8tr5"
+        },
+        {
+          "end": 46,
+          "id": "2047687133708599296",
+          "start": 33,
+          "username": "themaniachan"
+        },
+        {
+          "end": 57,
+          "id": "1525447235789434880",
+          "start": 47,
+          "username": "cnm540888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100956043278991386",
+    "in_reply_to_user_id": "1949070160179970048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100951695136047575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenJiaShuo1431 @JustinBieb8tr5 @themaniachan @cnm540888 你负分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2100841471033151967",
+        "created_at": "2026-09-18T14:32:09.000Z",
+        "display_text_range": [
+          58,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100956043278991386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1949070160179970048",
+              "start": 0,
+              "username": "ChenJiaShuo1431"
+            },
+            {
+              "end": 32,
+              "id": "2083001616936923136",
+              "start": 17,
+              "username": "JustinBieb8tr5"
+            },
+            {
+              "end": 46,
+              "id": "2047687133708599296",
+              "start": 33,
+              "username": "themaniachan"
+            },
+            {
+              "end": 57,
+              "id": "1525447235789434880",
+              "start": 47,
+              "username": "cnm540888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100956043278991386",
+        "in_reply_to_user_id": "1949070160179970048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100951695136047575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenJiaShuo1431 @JustinBieb8tr5 @themaniachan @cnm540888 你负分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949070160179970048",
+        "conversation_id": "2100841471033151967",
+        "created_at": "2026-09-18T14:14:52.000Z",
+        "display_text_range": [
+          54,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100951695136047575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            },
+            {
+              "end": 28,
+              "id": "2083001616936923136",
+              "start": 13,
+              "username": "JustinBieb8tr5"
+            },
+            {
+              "end": 42,
+              "id": "2047687133708599296",
+              "start": 29,
+              "username": "themaniachan"
+            },
+            {
+              "end": 53,
+              "id": "1525447235789434880",
+              "start": 43,
+              "username": "cnm540888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100951695136047575",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100932269624197194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 @JustinBieb8tr5 @themaniachan @cnm540888 你一分"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100956043278991386",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 365,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-26T11:32:08.000Z",
+        "description": "No",
+        "id": "1949070160179970048",
+        "is_identity_verified": false,
+        "location": "湖北黄石",
+        "most_recent_tweet_id": "2100955344344097053",
+        "name": "Pig god",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949070160179970048/1779032304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056036479110115328/mJmYCDif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 475,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "ChenJiaShuo1431",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T01:28:56.000Z",
+        "description": "",
+        "id": "2083001616936923136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100925658562273723",
+        "name": "Justin Bieber",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083002090247385088/bn9DlLPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "JustinBieb8tr5",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "is_identity_verified": false,
+        "location": "Nowhere to go",
+        "most_recent_tweet_id": "2100948883446870463",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2095837897027207466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047687133708599296/1784398185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100942875668467712/PV1qJ_5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 337,
+          "like_count": 2617,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2110
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-14T12:05:52.000Z",
+        "description": "是的 孩子们 我复活了",
+        "id": "1525447235789434880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100953117454163994",
+        "name": "神户 布莱恩特",
+        "pinned_tweet_id": "1999335669525799173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1525447235789434880/1712067635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051850319651610624/5-KOpVWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 8,
+          "like_count": 4324,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1362
+        },
+        "url": "",
+        "username": "cnm540888",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

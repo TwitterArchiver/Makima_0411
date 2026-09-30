@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2099568808377618455",
+    "created_at": "2026-09-15T07:55:16.000Z",
+    "display_text_range": [
+      26,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T08:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099769003262509062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1972897074875183105",
+          "start": 0,
+          "username": "JPMorganolwl"
+        },
+        {
+          "end": 25,
+          "id": "1758072108918419456",
+          "start": 14,
+          "username": "JohnnyBi_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099769003262509062",
+    "in_reply_to_user_id": "1972897074875183105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099629030777712908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JPMorganolwl @JohnnyBi_X 莱纳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2099629011769217025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSNhdj6b0AEZEtp.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2099568808377618455",
+        "created_at": "2026-09-15T07:55:16.000Z",
+        "display_text_range": [
+          26,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099769003262509062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1972897074875183105",
+              "start": 0,
+              "username": "JPMorganolwl"
+            },
+            {
+              "end": 25,
+              "id": "1758072108918419456",
+              "start": 14,
+              "username": "JohnnyBi_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099769003262509062",
+        "in_reply_to_user_id": "1972897074875183105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099629030777712908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JPMorganolwl @JohnnyBi_X 莱纳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099629011769217025"
+          ]
+        },
+        "author_id": "1972897074875183105",
+        "conversation_id": "2099568808377618455",
+        "created_at": "2026-09-14T22:39:04.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T23:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099629030777712908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1758072108918419456",
+              "start": 0,
+              "username": "JohnnyBi_X"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7DpWPE0eK",
+              "end": 52,
+              "expanded_url": "https://x.com/JPMorganolwl/status/2099629030777712908/photo/1",
+              "media_key": "3_2099629011769217025",
+              "start": 29,
+              "url": "https://t.co/U7DpWPE0eK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099629030777712908",
+        "in_reply_to_user_id": "1758072108918419456",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099629011769217025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5195,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099568808377618455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnnyBi_X 什么样的人可以避开这种突然袭击？ https://t.co/U7DpWPE0eK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099769003262509062",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789030745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 341,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1064
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-30T05:33:22.000Z",
+        "description": "",
+        "id": "1972897074875183105",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099692475032261020",
+        "name": "JPM",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972897074875183105/1786957029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089275081398870016/JgyxLfxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "JPMorganolwl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T10:14:12.000Z",
+        "description": "大西洋边隐居的中年油腻大叔，伊比利亚半岛最不务正业的程序员。",
+        "id": "1758072108918419456",
+        "is_identity_verified": true,
+        "location": "Oporto, Portugal",
+        "most_recent_tweet_id": "2099606714920087816",
+        "name": "Johnny Bi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758072108918419456/1736746231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817814026602377216/40t3pUkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31863,
+          "following_count": 127,
+          "like_count": 14826,
+          "listed_count": 161,
+          "media_count": 952,
+          "tweet_count": 20748
+        },
+        "url": "",
+        "username": "JohnnyBi_X",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

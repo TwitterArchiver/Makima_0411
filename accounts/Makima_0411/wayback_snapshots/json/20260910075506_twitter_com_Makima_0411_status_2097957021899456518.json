@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2097957021899456518",
+    "created_at": "2026-09-10T07:55:06.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097957021899456518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Amy526969/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Amy526969/status/2097735452870517207",
+          "start": 13,
+          "url": "https://t.co/080BPJINqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097957021899456518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097735452870517207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽不要搞得我没有王者打 https://t.co/080BPJINqf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_2097735436055527424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRynQ8rWwAAxROI.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2097957021899456518",
+        "created_at": "2026-09-10T07:55:06.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097957021899456518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amy526969/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Amy526969/status/2097735452870517207",
+              "start": 13,
+              "url": "https://t.co/080BPJINqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097957021899456518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097735452870517207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽不要搞得我没有王者打 https://t.co/080BPJINqf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097735436055527424"
+          ]
+        },
+        "author_id": "1832664562086060032",
+        "conversation_id": "2097735452870517207",
+        "created_at": "2026-09-09T17:14:40.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097735452870517207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwqnGPtUJN",
+              "end": 40,
+              "expanded_url": "https://x.com/Amy526969/status/2097735452870517207/photo/1",
+              "media_key": "3_2097735436055527424",
+              "start": 17,
+              "url": "https://t.co/lwqnGPtUJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097735452870517207",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097735436055527424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 183316,
+          "like_count": 1256,
+          "quote_count": 5,
+          "reply_count": 468,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我特么肚肚笑炸了 皮肤下架倒计时 https://t.co/lwqnGPtUJN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097957021899456518",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1788865001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097550031062769664/TS6jhNxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 320,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 913
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T06:17:50.000Z",
+        "description": "宝贝们可以叫我艾米｜防走丢小号： @mili07190 ｜提问箱 https://t.co/mQpJze4fzI｜我来这里想骂谁就骂谁\n📪锁评推广非本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "mili07190"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amy81021",
+                "end": 56,
+                "expanded_url": "https://ngl.link/amy81021",
+                "start": 33,
+                "url": "https://t.co/mQpJze4fzI"
+              }
+            ]
+          }
+        },
+        "id": "1832664562086060032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097951964675953132",
+        "name": "amy",
+        "pinned_tweet_id": "2096850593335640171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832664562086060032/1726908072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931712353025822720/lfj_LOPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 195,
+          "like_count": 23998,
+          "listed_count": 3,
+          "media_count": 604,
+          "tweet_count": 9227
+        },
+        "url": "",
+        "username": "Amy526969",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

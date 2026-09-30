@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2102356745075257832",
+    "created_at": "2026-09-22T11:18:02.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T12:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102356745075257832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "4888777ovo02756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102356745075257832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101727075384344660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4888777ovo02756: 你以为你骂我去死很牛逼吗，我让我自己去死的次数是你的十倍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2102356745075257832",
+        "created_at": "2026-09-22T11:18:02.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T12:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102356745075257832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "4888777ovo02756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102356745075257832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101727075384344660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4888777ovo02756: 你以为你骂我去死很牛逼吗，我让我自己去死的次数是你的十倍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2101727075384344660",
+        "created_at": "2026-09-20T17:35:57.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101727075384344660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101727075384344660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 74471,
+          "like_count": 4183,
+          "quote_count": 29,
+          "reply_count": 137,
+          "retweet_count": 692
+        },
+        "reply_settings": "everyone",
+        "text": "你以为你骂我去死很牛逼吗，我让我自己去死的次数是你的十倍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102356745075257832",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 377,
+          "like_count": 1296,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1210
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "小众活法不喜勿喷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "is_identity_verified": false,
+        "location": "提问箱",
+        "most_recent_tweet_id": "2102349835215208539",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829229897195368455/1781789855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101690834324475904/yNvQBkVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4907,
+          "following_count": 60,
+          "like_count": 2701,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 6189
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "4888777ovo02756",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

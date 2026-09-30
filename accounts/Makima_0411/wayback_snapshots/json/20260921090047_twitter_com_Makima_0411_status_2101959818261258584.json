@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2101675422941671809",
+    "created_at": "2026-09-21T09:00:47.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101959818261258584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2096078893912621056",
+          "start": 0,
+          "username": "RomeMyerstaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101959818261258584",
+    "in_reply_to_user_id": "2096078893912621056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101750335522161046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RomeMyerstaki 米米嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2101675422941671809",
+        "created_at": "2026-09-21T09:00:47.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101959818261258584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2096078893912621056",
+              "start": 0,
+              "username": "RomeMyerstaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101959818261258584",
+        "in_reply_to_user_id": "2096078893912621056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101750335522161046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RomeMyerstaki 米米嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096078893912621056",
+        "conversation_id": "2101675422941671809",
+        "created_at": "2026-09-20T19:08:23.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T20:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101750335522161046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101750335522161046",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101675422941671809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 指甲米米捏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101959818261258584",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 370,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1194
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T03:32:46.000Z",
+        "description": "可以叫我纯度，09的幕刃目前在工作，我💊/🚬，➕v🚪",
+        "id": "2096078893912621056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101801356382396520",
+        "name": "纯度",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096078893912621056/1789788620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099309889692807169/Cq79Gj5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "RomeMyerstaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

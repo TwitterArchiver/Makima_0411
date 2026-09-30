@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2097460231739777421",
+    "created_at": "2026-09-09T03:06:22.000Z",
+    "display_text_range": [
+      8,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097521970128810468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2059473208299118592",
+          "start": 0,
+          "username": "oxolyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097521970128810468",
+    "in_reply_to_user_id": "2059473208299118592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097460231739777421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxolyy 有的健全逼嘴上说着什么晚安一路走好，下一秒就免111我有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2097460231739777421",
+        "created_at": "2026-09-09T03:06:22.000Z",
+        "display_text_range": [
+          8,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097521970128810468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2059473208299118592",
+              "start": 0,
+              "username": "oxolyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097521970128810468",
+        "in_reply_to_user_id": "2059473208299118592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097460231739777421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxolyy 有的健全逼嘴上说着什么晚安一路走好，下一秒就免111我有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059473208299118592",
+        "conversation_id": "2097460231739777421",
+        "created_at": "2026-09-08T23:01:02.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T00:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097460231739777421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097460231739777421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1122,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在小县城跳楼跳江的后果就是被一些傻逼拍到抖音上嘲笑 我最近在同城看到好多人死了 我真不想等我哪天死了被上抖音111免免免"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097521970128810468",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1788865001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097279221290946560/Q6UOEVmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 305,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:16:15.000Z",
+        "description": "前两世@o3olyy @lyyouo｜18 ↑｜💊🈹｜双相情感障碍｜adhd｜认知障碍｜6次自杀未遂｜泛性恋｜bart｜绳缚｜我是精日｜同类宝宝互fo私一下我♡求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "o3olyy"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "username": "lyyouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/5AkhgojXIX"
+              }
+            ]
+          }
+        },
+        "id": "2059473208299118592",
+        "is_identity_verified": false,
+        "location": "看看你后面｜🚪52坐标10",
+        "most_recent_tweet_id": "2097518718595297639",
+        "name": "真理3.0（已老实",
+        "pinned_tweet_id": "2059479860507254803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059473208299118592/1779852084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059474038859411456/uQOOaqCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 235,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 259
+        },
+        "url": "https://t.co/5AkhgojXIX",
+        "username": "oxolyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

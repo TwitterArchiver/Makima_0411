@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2097343267134447863",
+    "created_at": "2026-09-25T07:58:38.000Z",
+    "display_text_range": [
+      47,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103393727310102679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993739034292887552",
+          "start": 0,
+          "username": "renqishashouxxk"
+        },
+        {
+          "end": 25,
+          "id": "1889738419020111872",
+          "start": 17,
+          "username": "YA_0542"
+        },
+        {
+          "end": 34,
+          "id": "2093199347764887552",
+          "start": 26,
+          "username": "kk2yyds"
+        },
+        {
+          "end": 46,
+          "id": "2090608627417743360",
+          "start": 35,
+          "username": "XiuGuShe_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103393727310102679",
+    "in_reply_to_user_id": "1993739034292887552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103203738383261881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renqishashouxxk @YA_0542 @kk2yyds @XiuGuShe_2 贱畜国蝻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2097343267134447863",
+        "created_at": "2026-09-25T07:58:38.000Z",
+        "display_text_range": [
+          47,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103393727310102679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993739034292887552",
+              "start": 0,
+              "username": "renqishashouxxk"
+            },
+            {
+              "end": 25,
+              "id": "1889738419020111872",
+              "start": 17,
+              "username": "YA_0542"
+            },
+            {
+              "end": 34,
+              "id": "2093199347764887552",
+              "start": 26,
+              "username": "kk2yyds"
+            },
+            {
+              "end": 46,
+              "id": "2090608627417743360",
+              "start": 35,
+              "username": "XiuGuShe_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103393727310102679",
+        "in_reply_to_user_id": "1993739034292887552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103203738383261881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renqishashouxxk @YA_0542 @kk2yyds @XiuGuShe_2 贱畜国蝻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993739034292887552",
+        "conversation_id": "2097343267134447863",
+        "created_at": "2026-09-24T19:23:41.000Z",
+        "display_text_range": [
+          43,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103203738383261881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            },
+            {
+              "end": 21,
+              "id": "1889738419020111872",
+              "start": 13,
+              "username": "YA_0542"
+            },
+            {
+              "end": 30,
+              "id": "2093199347764887552",
+              "start": 22,
+              "username": "kk2yyds"
+            },
+            {
+              "end": 42,
+              "id": "2090608627417743360",
+              "start": 31,
+              "username": "XiuGuShe_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103203738383261881",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097343267134447863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 @YA_0542 @kk2yyds @XiuGuShe_2 母猪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103393727310102679",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 384,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1279
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-26T17:50:11.000Z",
+        "description": "",
+        "id": "1993739034292887552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103203738383261881",
+        "name": "张浮生",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993739073375338496/X121MCNG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 34,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "renqishashouxxk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-12T18:09:00.000Z",
+        "description": "我号炸了\n二号机@kk2yyds\n三号机@pr80yyds",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 29,
+                "start": 20,
+                "username": "pr80yyds"
+              }
+            ]
+          }
+        },
+        "id": "1889738419020111872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094972071382221000",
+        "name": "Kissy",
+        "pinned_tweet_id": "2090977864577581477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889738419020111872/1760375399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093138587361714176/i9-iurYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 84,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "YA_0542",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T04:50:53.000Z",
+        "description": "💊｜🩸｜🔪｜🚬\n不常看黑茶但是看到会秒回\n大号已炸@YA_0542 三号坤防炸@pr80yyds \nod妹直接fo会回我喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "YA_0542"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              }
+            ]
+          }
+        },
+        "id": "2093199347764887552",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2103324676521169105",
+        "name": "親愛なるあなたは火葬",
+        "pinned_tweet_id": "2093203444475764930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093199347764887552/1789731333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100756071988248576/JLQsWvNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 174,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "kk2yyds",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T01:18:04.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\n一號機 @Makima_0411\n此號不常用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Makima_0411"
+              }
+            ]
+          }
+        },
+        "id": "2090608627417743360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101958599996227981",
+        "name": "銹骨蛇2.0",
+        "pinned_tweet_id": "2094014766193029255",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090608627417743360/1787275430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101712590976270337/NE6V2oeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 59,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "XiuGuShe_2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

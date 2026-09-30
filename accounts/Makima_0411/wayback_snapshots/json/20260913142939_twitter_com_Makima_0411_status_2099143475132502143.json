@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2099136622814224519",
+    "created_at": "2026-09-13T14:29:39.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099143475132502143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2064236987213905920",
+          "start": 0,
+          "username": "YuukiReina2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099143475132502143",
+    "in_reply_to_user_id": "2064236987213905920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099141053840548188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuukiReina2023 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2099136622814224519",
+        "created_at": "2026-09-13T14:29:39.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099143475132502143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2064236987213905920",
+              "start": 0,
+              "username": "YuukiReina2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099143475132502143",
+        "in_reply_to_user_id": "2064236987213905920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099141053840548188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuukiReina2023 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064236987213905920",
+        "conversation_id": "2099136622814224519",
+        "created_at": "2026-09-13T14:20:02.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099141053840548188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099141053840548188",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099136622814224519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099143475132502143",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789030745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 334,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-09T06:44:46.000Z",
+        "description": "A cute autistic kiddo and her gadgets: Dreams of becoming a fox-girl engineer, dabbles in electronics & coding😊\n\n哥@YangDowond 老婆@LolingVerse 姐姐@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "YangDowond"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "LolingVerse"
+              },
+              {
+                "end": 153,
+                "start": 143,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/YuukiReina2023",
+                "end": 23,
+                "expanded_url": "https://github.com/YuukiReina2023",
+                "start": 0,
+                "url": "https://t.co/2dFOiyRx87"
+              }
+            ]
+          }
+        },
+        "id": "2064236987213905920",
+        "is_identity_verified": false,
+        "location": "京都第二赤十字病院",
+        "most_recent_tweet_id": "2099141053840548188",
+        "name": "𝒴𝓊𝓊𝓀𝒾ℛℯ𝒾𝓃𝒶×𝒟𝒾𝓈ℴ𝓇𝒹ℯ𝓇",
+        "pinned_tweet_id": "2095017515764318548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064236987213905920/1787368592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086683250437537792/gnAY6x_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 225,
+          "like_count": 1795,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/2dFOiyRx87",
+        "username": "YuukiReina2023",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

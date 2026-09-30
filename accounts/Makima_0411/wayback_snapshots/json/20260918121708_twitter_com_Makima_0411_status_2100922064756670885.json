@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2100922064756670885",
+    "created_at": "2026-09-18T12:17:08.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100922064756670885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1751584887738716160",
+          "start": 3,
+          "username": "8964yekatinez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100922064756670885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100547505914298826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964yekatinez: 你再牛逼你拼多多买药不说无需补充立刻开方？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2100922064756670885",
+        "created_at": "2026-09-18T12:17:08.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100922064756670885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1751584887738716160",
+              "start": 3,
+              "username": "8964yekatinez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100922064756670885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100547505914298826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964yekatinez: 你再牛逼你拼多多买药不说无需补充立刻开方？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751584887738716160",
+        "conversation_id": "2100547505914298826",
+        "created_at": "2026-09-17T11:28:46.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100547505914298826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100547505914298826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 21071,
+          "like_count": 366,
+          "quote_count": 1,
+          "reply_count": 86,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你再牛逼你拼多多买药不说无需补充立刻开方？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100922064756670885",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 364,
+          "like_count": 1127,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T12:36:02.000Z",
+        "description": "=怜/💊🩸🚬\n\n逃生舱@emiri7_/杯子@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "emiri7_"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "yu_huacs"
+              }
+            ]
+          }
+        },
+        "id": "1751584887738716160",
+        "is_identity_verified": false,
+        "location": "宇宙",
+        "most_recent_tweet_id": "2100547505914298826",
+        "name": "emrio",
+        "pinned_tweet_id": "1884115787520303208",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751584887738716160/1738253616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094416877628084225/RBK_z4FR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 299,
+          "like_count": 1875,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1947
+        },
+        "url": "",
+        "username": "8964yekatinez",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

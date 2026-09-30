@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2099773656373317734",
+    "created_at": "2026-09-15T08:13:46.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T09:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099773656373317734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936646015031164928",
+          "start": 3,
+          "username": "TwTxxxxx5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099773656373317734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099517940483969493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TwTxxxxx5: 我们自残的人再坏也没有上街随便砍人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2099773656373317734",
+        "created_at": "2026-09-15T08:13:46.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099773656373317734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936646015031164928",
+              "start": 3,
+              "username": "TwTxxxxx5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099773656373317734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099517940483969493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TwTxxxxx5: 我们自残的人再坏也没有上街随便砍人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936646015031164928",
+        "conversation_id": "2099517940483969493",
+        "created_at": "2026-09-14T15:17:38.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099517940483969493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099517940483969493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1847,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我们自残的人再坏也没有上街随便砍人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099773656373317734",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789030745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 341,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1068
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T04:43:01.000Z",
+        "description": "你看起来很好吃\n我上网是来当皇帝的\n不会说人话的一律拉黑",
+        "id": "1936646015031164928",
+        "is_identity_verified": false,
+        "location": "kyoto",
+        "most_recent_tweet_id": "2099742471395959295",
+        "name": "小野大人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936646015031164928/1761188899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096328949131538432/2MPXblmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 283,
+          "like_count": 15468,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1074
+        },
+        "url": "",
+        "username": "TwTxxxxx5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
