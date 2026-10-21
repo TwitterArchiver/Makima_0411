@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2109587936513806351",
+    "created_at": "2026-10-13T12:55:20.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-13T13:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109991375060218329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2093606818060832768",
+          "start": 0,
+          "username": "yujie258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109991375060218329",
+    "in_reply_to_user_id": "2093606818060832768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109587936513806351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujie258 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3324,
+        "media_key": "3_2109587917501067265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUbDCK0bcAEpGqN.jpg",
+        "width": 3440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2109587936513806351",
+        "created_at": "2026-10-13T12:55:20.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T13:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109991375060218329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2093606818060832768",
+              "start": 0,
+              "username": "yujie258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109991375060218329",
+        "in_reply_to_user_id": "2093606818060832768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109587936513806351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujie258 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109587917501067265"
+          ]
+        },
+        "author_id": "2093606818060832768",
+        "conversation_id": "2109587936513806351",
+        "created_at": "2026-10-12T10:12:12.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T11:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109587936513806351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yptVgMYKf",
+              "end": 132,
+              "expanded_url": "https://x.com/yujie258/status/2109587936513806351/photo/1",
+              "media_key": "3_2109587917501067265",
+              "start": 109,
+              "url": "https://t.co/4yptVgMYKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109587936513806351",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109587917501067265"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3035,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对注射没有兴趣，这种羟考酮就够我玩了，医生很好，夸我用曲马多抗抑郁很聪明，另外我说了普瑞不够用的问题，医生答应我等医院AI判断我手里没药了会给我加量，我大概是10天去开一次药，一次4盒喜思平绿普，我很舒服，叫医生来 https://t.co/4yptVgMYKf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "此号所有发言都是玛奇玛主人指使我发的，与我无关\nles|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109991375060218329",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 440,
+          "like_count": 2271,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1597
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T07:50:28.000Z",
+        "description": "合法处方，惧怕注射",
+        "id": "2093606818060832768",
+        "is_identity_verified": false,
+        "location": "♜⃤",
+        "most_recent_tweet_id": "2109986104086835543",
+        "name": "呼唤爱的谢幕💊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093606818060832768/1787991114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107417642340696064/GKa3XNIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 61,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "yujie258",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

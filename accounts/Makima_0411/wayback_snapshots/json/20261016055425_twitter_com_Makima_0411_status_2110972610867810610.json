@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2110972610867810610",
+    "created_at": "2026-10-16T05:54:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-16T06:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110972610867810610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2108201065019789312",
+          "start": 3,
+          "username": "hujisheng05"
+        },
+        {
+          "end": 40,
+          "id": "2094681707052212224",
+          "start": 27,
+          "username": "nanahime1cpc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Jod",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/Jod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110972610867810610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110556866304696808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hujisheng05: 大家好我是菜菜警官（@nanahime1cpc)，由于我的号被小人恶意举报冻了七天，我现在暂时夺舍了槲寄生老师的号🥹🥹🥹💖💖💖\n求帮转寻回互关。。。🥹🥹💖主号解封后关注+转发抽两个8.88🧧🥹谢谢大家。。。。。 https://t.co/Jod…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2110556857794473984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUo0R6sasAASmhv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2110972610867810610",
+        "created_at": "2026-10-16T05:54:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T06:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110972610867810610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2108201065019789312",
+              "start": 3,
+              "username": "hujisheng05"
+            },
+            {
+              "end": 40,
+              "id": "2094681707052212224",
+              "start": 27,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Jod",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/Jod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110972610867810610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110556866304696808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hujisheng05: 大家好我是菜菜警官（@nanahime1cpc)，由于我的号被小人恶意举报冻了七天，我现在暂时夺舍了槲寄生老师的号🥹🥹🥹💖💖💖\n求帮转寻回互关。。。🥹🥹💖主号解封后关注+转发抽两个8.88🧧🥹谢谢大家。。。。。 https://t.co/Jod…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110556857794473984"
+          ]
+        },
+        "author_id": "2108201065019789312",
+        "conversation_id": "2110556866304696808",
+        "created_at": "2026-10-15T02:22:23.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T03:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110556866304696808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "2094681707052212224",
+              "start": 10,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JodXVMHpUm",
+              "end": 129,
+              "expanded_url": "https://x.com/hujisheng05/status/2110556866304696808/photo/1",
+              "media_key": "3_2110556857794473984",
+              "start": 106,
+              "url": "https://t.co/JodXVMHpUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110556866304696808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2110556857794473984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1993,
+          "like_count": 83,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是菜菜警官（@nanahime1cpc)，由于我的号被小人恶意举报冻了七天，我现在暂时夺舍了槲寄生老师的号🥹🥹🥹💖💖💖\n求帮转寻回互关。。。🥹🥹💖主号解封后关注+转发抽两个8.88🧧🥹谢谢大家。。。。。 https://t.co/JodXVMHpUm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "此号所有发言都是玛奇玛主人指使我发的，与我无关\nles|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110972610867810610",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 440,
+          "like_count": 2369,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1635
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-08T14:22:25.000Z",
+        "description": "我是菜菜，主号@nanahime1cpc 被封七天，暂时夺舍了槲寄生老师🥹💖寻回互关中！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "nanahime1cpc"
+              }
+            ]
+          }
+        },
+        "id": "2108201065019789312",
+        "is_identity_verified": false,
+        "location": "槲寄生",
+        "most_recent_tweet_id": "2110886933828337933",
+        "name": "菜菜警官（夺舍版）",
+        "pinned_tweet_id": "2110556866304696808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2108201065019789312/1791469474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110558073081548801/IhJP65JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 92,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "hujisheng05",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖\n\n喜欢和大家交朋友呀ww🥰不过精力时高时低希望见谅🥺🥺！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "家夫全肯定",
+        "most_recent_tweet_id": "2110415208724537427",
+        "name": "菜菜警官（戒阿普版）",
+        "pinned_tweet_id": "2109276799574385105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1791903790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110032430912729088/W4HmVm7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 515,
+          "like_count": 3347,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

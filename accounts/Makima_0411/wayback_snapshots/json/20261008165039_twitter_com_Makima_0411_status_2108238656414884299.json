@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2108235320227680459",
+    "created_at": "2026-10-08T16:50:39.000Z",
+    "display_text_range": [
+      14,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T17:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108238656414884299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956350631981236224",
+          "start": 0,
+          "username": "nerorel_1330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108238656414884299",
+    "in_reply_to_user_id": "1956350631981236224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108238350603993158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nerorel_1330 谢谢你的建议呀！我这几天只能先吃超低剂量普瑞止痛了，现在去下单你推荐的这些药过几天试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2108235320227680459",
+        "created_at": "2026-10-08T16:50:39.000Z",
+        "display_text_range": [
+          14,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108238656414884299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956350631981236224",
+              "start": 0,
+              "username": "nerorel_1330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108238656414884299",
+        "in_reply_to_user_id": "1956350631981236224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108238350603993158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nerorel_1330 谢谢你的建议呀！我这几天只能先吃超低剂量普瑞止痛了，现在去下单你推荐的这些药过几天试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956350631981236224",
+        "conversation_id": "2108235320227680459",
+        "created_at": "2026-10-08T16:49:26.000Z",
+        "display_text_range": [
+          13,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108238350603993158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108238350603993158",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108237978397212900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 那没办法了，破吧，我是因为头痛试了许多药，我提到的这几个药对头痛效果都不错呢，价格也便宜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "此号所有发言都是玛奇玛主人指使我发的，与我无关\nles|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108238656414884299",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 427,
+          "like_count": 2039,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-15T13:42:02.000Z",
+        "description": "05/顺女/LGBTQ+🌈友好/💊🚬💉/日常/键政\n主要是发些碎碎念，实际上备忘录躺着一大堆话\n传播药理知识，追求健康生活\n小号@HeJiaLeehh\nhttps://t.co/K8YxMOq4o7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "HeJiaLeehh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nerorel_1330",
+                "end": 99,
+                "expanded_url": "https://ngl.link/nerorel_1330",
+                "start": 76,
+                "url": "https://t.co/K8YxMOq4o7"
+              }
+            ]
+          }
+        },
+        "id": "1956350631981236224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108238350603993158",
+        "name": "伊藤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956350631981236224/1789645952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100601519473381377/TVnRNHdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 198,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "nerorel_1330",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

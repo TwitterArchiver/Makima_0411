@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105310945706999809"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105305748431601686",
+    "created_at": "2026-09-30T14:57:00.000Z",
+    "display_text_range": [
+      14,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105310951721583028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667085095067611136",
+          "start": 0,
+          "username": "ZombleMaster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lqgmIHbntg",
+          "end": 60,
+          "expanded_url": "https://x.com/Makima_0411/status/2105310951721583028/photo/1",
+          "media_key": "3_2105310945706999809",
+          "start": 37,
+          "url": "https://t.co/lqgmIHbntg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105310951721583028",
+    "in_reply_to_user_id": "1667085095067611136",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105310945706999809"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105310085513621957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZombleMaster 这种的嘿嘿，就是有点不耐用，三天两头充一次气 https://t.co/lqgmIHbntg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1568,
+        "media_key": "3_2105310945706999809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeRJpSbgAEfu2V.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105310945706999809"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-09-30T14:57:00.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105310951721583028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667085095067611136",
+              "start": 0,
+              "username": "ZombleMaster"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqgmIHbntg",
+              "end": 60,
+              "expanded_url": "https://x.com/Makima_0411/status/2105310951721583028/photo/1",
+              "media_key": "3_2105310945706999809",
+              "start": 37,
+              "url": "https://t.co/lqgmIHbntg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105310951721583028",
+        "in_reply_to_user_id": "1667085095067611136",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105310945706999809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105310085513621957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZombleMaster 这种的嘿嘿，就是有点不耐用，三天两头充一次气 https://t.co/lqgmIHbntg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667085095067611136",
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-09-30T14:53:33.000Z",
+        "display_text_range": [
+          13,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105310085513621957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105310085513621957",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105305748431601686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 自己孩子得了精神疾病宁可求神拜佛也不想想为什么会得，完全不内耗自己这一块。脑回路我是真get不到一点……不过y1s1这个打火机还不错，挺好看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105310951721583028",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 387,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-09T08:24:09.000Z",
+        "description": "成分复杂，想啥说啥",
+        "id": "1667085095067611136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105310085513621957",
+        "name": "MoonLight",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667085095067611136/1790532976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667085322910584833/_BtxUc2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "ZombleMaster",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

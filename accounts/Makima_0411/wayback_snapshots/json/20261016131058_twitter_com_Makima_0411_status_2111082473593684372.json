@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2110982758193660118",
+    "created_at": "2026-10-16T13:10:58.000Z",
+    "display_text_range": [
+      12,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-16T14:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2111082473593684372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2110292663664844800",
+          "start": 0,
+          "username": "lingyi1776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2111082473593684372",
+    "in_reply_to_user_id": "2110292663664844800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2111043144708182117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyi1776 我们那的老中医经常无脑开舒肝解郁胶囊，已经习惯了喵……反正我是不会吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2110982758193660118",
+        "created_at": "2026-10-16T13:10:58.000Z",
+        "display_text_range": [
+          12,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T14:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111082473593684372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2110292663664844800",
+              "start": 0,
+              "username": "lingyi1776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111082473593684372",
+        "in_reply_to_user_id": "2110292663664844800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111043144708182117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyi1776 我们那的老中医经常无脑开舒肝解郁胶囊，已经习惯了喵……反正我是不会吃的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2110292663664844800",
+        "conversation_id": "2110982758193660118",
+        "created_at": "2026-10-16T10:34:41.000Z",
+        "display_text_range": [
+          13,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T11:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111043144708182117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111043144708182117",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110982758193660118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 這個東西目前只有清華大學給他做過廣告\n宣傳是說可以比肩ssri\n但是這裡都說了是疏肝\n中醫精神病學裡面常見的抑鬱有六種症候\n這種針對的是肝郁脾虛症請問精神科的醫生，哪個知道如何判斷是否是肝郁脾虛症？\n就目前的運用辦法中醫都不會認同"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "此号所有发言都是玛奇玛主人指使我发的，与我无关\nles|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111082473593684372",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 444,
+          "like_count": 2397,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1646
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-14T08:58:27.000Z",
+        "description": "近人可讀",
+        "id": "2110292663664844800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111065874702762473",
+        "name": "泠漪",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110294547939090432/9ALycAKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 24,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "lingyi1776",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

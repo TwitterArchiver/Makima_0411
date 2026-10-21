@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2111268099542708438",
+    "created_at": "2026-10-17T09:17:15.000Z",
+    "display_text_range": [
+      14,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-17T10:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2111386043694100647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090508242518487040",
+          "start": 0,
+          "username": "Raindropmuii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2111386043694100647",
+    "in_reply_to_user_id": "2090508242518487040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2111268099542708438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raindropmuii 抑郁症都变成梗了：不笑的确诊抑郁症了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2111268099542708438",
+        "created_at": "2026-10-17T09:17:15.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-17T10:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111386043694100647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090508242518487040",
+              "start": 0,
+              "username": "Raindropmuii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111386043694100647",
+        "in_reply_to_user_id": "2090508242518487040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111268099542708438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raindropmuii 抑郁症都变成梗了：不笑的确诊抑郁症了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090508242518487040",
+        "conversation_id": "2111268099542708438",
+        "created_at": "2026-10-17T01:28:35.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-17T02:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2111268099542708438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2111268099542708438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉抑郁症应该是互联网史上最长久最爱被跟风的一种精神疾病了。我从18年看到26年，好多人都喜欢跟风说自己有抑郁症。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "此号所有发言都是玛奇玛主人指使我发的，与我无关\nles|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111386043694100647",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 448,
+          "like_count": 2439,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1658
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T18:40:04.000Z",
+        "description": "只是一个双相和重度焦虑的问题儿童。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raindropmuii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raindropmuii",
+                "start": 0,
+                "url": "https://t.co/QjTwJgM8Ho"
+              }
+            ]
+          }
+        },
+        "id": "2090508242518487040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111366845160890416",
+        "name": "Ritsuka",
+        "pinned_tweet_id": "2109968630809338029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090508242518487040/1791773858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108458595805466624/hhk-MYSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 87,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/QjTwJgM8Ho",
+        "username": "Raindropmuii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

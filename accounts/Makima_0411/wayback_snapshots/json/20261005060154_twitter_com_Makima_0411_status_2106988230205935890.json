@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2106560622582489235",
+    "created_at": "2026-10-05T06:01:54.000Z",
+    "display_text_range": [
+      17,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T07:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106988230205935890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125325219671842817",
+          "start": 0,
+          "username": "Beagleear_slapu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106988230205935890",
+    "in_reply_to_user_id": "1125325219671842817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106960274544816421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beagleear_slapu 我们这只有两家医院，其中一家没有精神科，之前一直在神经内科开的，现在压根不给开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2106560622582489235",
+        "created_at": "2026-10-05T06:01:54.000Z",
+        "display_text_range": [
+          17,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106988230205935890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125325219671842817",
+              "start": 0,
+              "username": "Beagleear_slapu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106988230205935890",
+        "in_reply_to_user_id": "1125325219671842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106960274544816421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beagleear_slapu 我们这只有两家医院，其中一家没有精神科，之前一直在神经内科开的，现在压根不给开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125325219671842817",
+        "conversation_id": "2106560622582489235",
+        "created_at": "2026-10-05T04:10:49.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106960274544816421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106960274544816421",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106560622582489235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 精神科不是随便开吗 只是限制了量"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106988230205935890",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 419,
+          "like_count": 1738,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1446
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-06T09:03:34.000Z",
+        "description": "01年/Bisexual Bipolar Bitch/Brat/有主\n020 QL/FQ互换请私 无🚪",
+        "id": "1125325219671842817",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2106987173912400217",
+        "name": "荒原犬",
+        "pinned_tweet_id": "2081521500050665743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125325219671842817/1747102128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660355160244359168/R387vl88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 1713,
+          "like_count": 12649,
+          "listed_count": 2,
+          "media_count": 1934,
+          "tweet_count": 13413
+        },
+        "url": "",
+        "username": "Beagleear_slapu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

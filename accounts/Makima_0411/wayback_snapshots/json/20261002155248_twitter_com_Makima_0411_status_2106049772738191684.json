@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106049737371918336",
+        "3_2106049752018386944",
+        "3_2106049764479680512"
+      ]
+    },
+    "author_id": "2085036823252987904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2106049772738191684",
+    "created_at": "2026-10-02T15:52:48.000Z",
+    "display_text_range": [
+      0,
+      155
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106049772738191684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 51,
+          "id": "2090608627417743360",
+          "start": 40,
+          "username": "XiuGuShe_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BuOn61FvRz",
+          "end": 179,
+          "expanded_url": "https://x.com/Makima_0411/status/2106049772738191684/photo/1",
+          "media_key": "3_2106049737371918336",
+          "start": 156,
+          "url": "https://t.co/BuOn61FvRz"
+        },
+        {
+          "display_url": "pic.x.com/BuOn61FvRz",
+          "end": 179,
+          "expanded_url": "https://x.com/Makima_0411/status/2106049772738191684/photo/1",
+          "media_key": "3_2106049752018386944",
+          "start": 156,
+          "url": "https://t.co/BuOn61FvRz"
+        },
+        {
+          "display_url": "pic.x.com/BuOn61FvRz",
+          "end": 179,
+          "expanded_url": "https://x.com/Makima_0411/status/2106049772738191684/photo/1",
+          "media_key": "3_2106049764479680512",
+          "start": 156,
+          "url": "https://t.co/BuOn61FvRz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106049772738191684",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106049737371918336"
+      },
+      {
+        "media_key": "3_2106049752018386944"
+      },
+      {
+        "media_key": "3_2106049764479680512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "叫我小蛇就好~\nles|精神病|💊|🔪🩸|🚬 戒割中\n无🚪扩列请私信喔\n\n二號機@XiuGuShe_2\n\n對所有人友好🏳️‍🌈💕\n我喜歡柳智敏 張元英 Makima 艾倫 夜神月 無慘\n可以找我一起打王者🥹🫶🏻\n直fo是喜歡你！會查成分回fo\n\n（藥物遵醫囑服用，拒絕濫用）\n（假疤痕為化妝效果，用作醫學實驗） https://t.co/BuOn61FvRz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2106049737371918336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToxE-tboAAybpP.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2106049752018386944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToxF1RbAAA3DO2.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106049764479680512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToxGjsbQAACAeI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106049737371918336",
+            "3_2106049752018386944",
+            "3_2106049764479680512"
+          ]
+        },
+        "author_id": "2085036823252987904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2106049772738191684",
+        "created_at": "2026-10-02T15:52:48.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106049772738191684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "2090608627417743360",
+              "start": 40,
+              "username": "XiuGuShe_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuOn61FvRz",
+              "end": 179,
+              "expanded_url": "https://x.com/Makima_0411/status/2106049772738191684/photo/1",
+              "media_key": "3_2106049737371918336",
+              "start": 156,
+              "url": "https://t.co/BuOn61FvRz"
+            },
+            {
+              "display_url": "pic.x.com/BuOn61FvRz",
+              "end": 179,
+              "expanded_url": "https://x.com/Makima_0411/status/2106049772738191684/photo/1",
+              "media_key": "3_2106049752018386944",
+              "start": 156,
+              "url": "https://t.co/BuOn61FvRz"
+            },
+            {
+              "display_url": "pic.x.com/BuOn61FvRz",
+              "end": 179,
+              "expanded_url": "https://x.com/Makima_0411/status/2106049772738191684/photo/1",
+              "media_key": "3_2106049764479680512",
+              "start": 156,
+              "url": "https://t.co/BuOn61FvRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106049772738191684",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106049737371918336"
+          },
+          {
+            "media_key": "3_2106049752018386944"
+          },
+          {
+            "media_key": "3_2106049764479680512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫我小蛇就好~\nles|精神病|💊|🔪🩸|🚬 戒割中\n无🚪扩列请私信喔\n\n二號機@XiuGuShe_2\n\n對所有人友好🏳️‍🌈💕\n我喜歡柳智敏 張元英 Makima 艾倫 夜神月 無慘\n可以找我一起打王者🥹🫶🏻\n直fo是喜歡你！會查成分回fo\n\n（藥物遵醫囑服用，拒絕濫用）\n（假疤痕為化妝效果，用作醫學實驗） https://t.co/BuOn61FvRz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106049772738191684",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 405,
+          "like_count": 1666,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1420
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T01:18:04.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\n一號機 @Makima_0411\n此號不常用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Makima_0411"
+              }
+            ]
+          }
+        },
+        "id": "2090608627417743360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101958599996227981",
+        "name": "銹骨蛇2.0",
+        "pinned_tweet_id": "2094014766193029255",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090608627417743360/1787275430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101712590976270337/NE6V2oeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 61,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "XiuGuShe_2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

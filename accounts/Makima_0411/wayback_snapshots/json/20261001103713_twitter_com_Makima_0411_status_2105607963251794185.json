@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2105305748431601686",
+    "created_at": "2026-10-01T10:37:13.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105607963251794185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048422571339857920",
+          "start": 0,
+          "username": "Johntpnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105607963251794185",
+    "in_reply_to_user_id": "2048422571339857920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105600838949597511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Johntpnx 汪老师请我吃包子快点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-10-01T10:37:13.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105607963251794185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048422571339857920",
+              "start": 0,
+              "username": "Johntpnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105607963251794185",
+        "in_reply_to_user_id": "2048422571339857920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105600838949597511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Johntpnx 汪老师请我吃包子快点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048422571339857920",
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-10-01T10:08:54.000Z",
+        "display_text_range": [
+          13,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105600838949597511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105600838949597511",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105305748431601686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 你就是欠肏，来4个精壮的大汉给你插成大香炉，逼都给你操翻了，你就不想这么多了，脑子里就只有大鸡吧了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105607963251794185",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 400,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T15:23:27.000Z",
+        "description": "支那猪你害人不浅｜@8964XMZ禁言30daying…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "8964XMZ"
+              }
+            ]
+          }
+        },
+        "id": "2048422571339857920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105600838949597511",
+        "name": "汪老师（Parody）",
+        "pinned_tweet_id": "2081191026946195473",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048422571339857920/1790507993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104169100524281856/Hxozqe_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 60,
+          "like_count": 788,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 859
+        },
+        "url": "",
+        "username": "Johntpnx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

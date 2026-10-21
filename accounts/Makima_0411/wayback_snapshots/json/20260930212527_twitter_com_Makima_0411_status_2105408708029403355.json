@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2105305748431601686",
+    "created_at": "2026-09-30T21:25:27.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T22:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105408708029403355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2103350576025358336",
+          "start": 0,
+          "username": "buyaozaichipr80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105408708029403355",
+    "in_reply_to_user_id": "2103350576025358336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105349145926246615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buyaozaichipr80 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-09-30T21:25:27.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T22:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105408708029403355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2103350576025358336",
+              "start": 0,
+              "username": "buyaozaichipr80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105408708029403355",
+        "in_reply_to_user_id": "2103350576025358336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105349145926246615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buyaozaichipr80 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2103350576025358336",
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-09-30T17:28:46.000Z",
+        "display_text_range": [
+          13,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105349145926246615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105349145926246615",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105305748431601686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 好恐怖啊这种家长，自己孩子得了精神疾病第一时间不是好好治疗吃药而是怀疑鬼上身去烧香拜佛贴符纸，唉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105408708029403355",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 388,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1364
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T05:08:18.000Z",
+        "description": "只是一个人在记录自己的日常\n不喜欢请划走好嘛 健全人自避",
+        "id": "2103350576025358336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105367421322412243",
+        "name": "残缺体",
+        "pinned_tweet_id": "2103357656132132948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103350576025358336/1790313011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103356155556925440/sGI4qe7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "buyaozaichipr80",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

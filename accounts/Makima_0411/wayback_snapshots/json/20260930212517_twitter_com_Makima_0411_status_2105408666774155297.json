@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2105305748431601686",
+    "created_at": "2026-09-30T21:25:17.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T22:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105408666774155297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018756101576286209",
+          "start": 0,
+          "username": "LanhuaKisin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105408666774155297",
+    "in_reply_to_user_id": "2018756101576286209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105376087786369095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanhuaKisin 我靠笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-09-30T21:25:17.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T22:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105408666774155297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018756101576286209",
+              "start": 0,
+              "username": "LanhuaKisin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105408666774155297",
+        "in_reply_to_user_id": "2018756101576286209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105376087786369095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanhuaKisin 我靠笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018756101576286209",
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-09-30T19:15:49.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T20:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105376087786369095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105376087786369095",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105305748431601686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 这种鬼画符不是本来就得烧吗（）\n也许道士真的都提前算好了（什"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105408666774155297",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 388,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T18:39:11.000Z",
+        "description": "蓝色的花 ｜ {x | x=x} ｜ 理想/真实猫猫｜高三逃学中～\n数学/TCS学习中｜Linux｜东方｜ACG｜Mochi🐈｜日常\n幻想｜交錯｜觀測｜證明｜廻り｜眩む",
+        "id": "2018756101576286209",
+        "is_identity_verified": false,
+        "location": "赏月地",
+        "most_recent_tweet_id": "2105386723727577108",
+        "name": "蓝花～𝕭𝖔𝖗𝖉𝖊𝖗 𝖔𝖋 𝖑𝖎𝖋𝖊",
+        "pinned_tweet_id": "2102476639934501277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018756101576286209/1782066431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104529344106577920/GWea78us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 98,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "LanhuaKisin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

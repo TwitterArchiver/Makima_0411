@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2105864437232234938",
+    "created_at": "2026-10-02T03:36:21.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T04:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105864437232234938"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 84,
+          "tag": "shedtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2097775808018616320",
+          "start": 3,
+          "username": "tcfzyjbs123"
+        },
+        {
+          "end": 35,
+          "id": "2092351522868977664",
+          "start": 26,
+          "username": "tcfzyjbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105864437232234938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105859074470670736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tcfzyjbs123: 可以叫我小时 前世@tcfzyjbs \n生理女心理女性向女\n负能/自残/od/ed/精神病\n寻找前世互关中\n转发拜托了!互fo大欢迎\n#shedtwt\n\n本内容均为特效化妆模拟，参照医学教学案例设计，AI辅助增强清晰度，无任何真实伤情，纯学术用…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [tcfzyjbs].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "tcfzyjbs",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "tcfzyjbs"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105858781506916354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmDZ4rbUAIEiZE.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2105858881373290496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmDfstbQAAZpHF.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2105858996951556097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmDmbRboAEPkhs.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2105864437232234938",
+        "created_at": "2026-10-02T03:36:21.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105864437232234938"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "shedtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2097775808018616320",
+              "start": 3,
+              "username": "tcfzyjbs123"
+            },
+            {
+              "end": 35,
+              "id": "2092351522868977664",
+              "start": 26,
+              "username": "tcfzyjbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105864437232234938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105859074470670736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tcfzyjbs123: 可以叫我小时 前世@tcfzyjbs \n生理女心理女性向女\n负能/自残/od/ed/精神病\n寻找前世互关中\n转发拜托了!互fo大欢迎\n#shedtwt\n\n本内容均为特效化妆模拟，参照医学教学案例设计，AI辅助增强清晰度，无任何真实伤情，纯学术用…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105858781506916354",
+            "3_2105858881373290496",
+            "3_2105858996951556097"
+          ]
+        },
+        "author_id": "2097775808018616320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105859074470670736",
+        "created_at": "2026-10-02T03:15:02.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105859074470670736"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 67,
+              "tag": "shedtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2092351522868977664",
+              "start": 9,
+              "username": "tcfzyjbs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1V89pcuaQ2",
+              "end": 178,
+              "expanded_url": "https://x.com/tcfzyjbs123/status/2105859074470670736/photo/1",
+              "media_key": "3_2105858781506916354",
+              "start": 155,
+              "url": "https://t.co/1V89pcuaQ2"
+            },
+            {
+              "display_url": "pic.x.com/1V89pcuaQ2",
+              "end": 178,
+              "expanded_url": "https://x.com/tcfzyjbs123/status/2105859074470670736/photo/1",
+              "media_key": "3_2105858881373290496",
+              "start": 155,
+              "url": "https://t.co/1V89pcuaQ2"
+            },
+            {
+              "display_url": "pic.x.com/1V89pcuaQ2",
+              "end": 178,
+              "expanded_url": "https://x.com/tcfzyjbs123/status/2105859074470670736/photo/1",
+              "media_key": "3_2105858996951556097",
+              "start": 155,
+              "url": "https://t.co/1V89pcuaQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105859074470670736",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105858781506916354"
+          },
+          {
+            "media_key": "3_2105858881373290496"
+          },
+          {
+            "media_key": "3_2105858996951556097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可以叫我小时 前世@tcfzyjbs \n生理女心理女性向女\n负能/自残/od/ed/精神病\n寻找前世互关中\n转发拜托了!互fo大欢迎\n#shedtwt\n\n本内容均为特效化妆模拟，参照医学教学案例设计，AI辅助增强清晰度，无任何真实伤情，纯学术用途。图片均为AI辅助特效化妆模拟，没有人受伤。假的，假的，假的。 https://t.co/1V89pcuaQ2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105864437232234938",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 402,
+          "like_count": 1659,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-09T19:56:22.000Z",
+        "description": "我是小时 ‖ 前世@tcfzyjbs\n生理女心理女性向女\nBPD/C-PDSD/MDD\n想和同类玩 ‖ 我会直关介意请讲🤲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "tcfzyjbs"
+              }
+            ]
+          }
+        },
+        "id": "2097775808018616320",
+        "is_identity_verified": false,
+        "location": "餐券女温暖的肌肉层",
+        "most_recent_tweet_id": "2105861300228411568",
+        "name": "天才废宅一击必杀",
+        "pinned_tweet_id": "2105859074470670736",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097775808018616320/1789406968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099551116254187520/Cp81LB5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 34,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "tcfzyjbs123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2108235320227680459",
+    "created_at": "2026-10-08T16:47:57.000Z",
+    "display_text_range": [
+      14,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T17:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108237978397212900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956350631981236224",
+          "start": 0,
+          "username": "nerorel_1330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108237978397212900",
+    "in_reply_to_user_id": "1956350631981236224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108236672664289593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nerorel_1330 这些药我都没有，手边只有布洛芬、普瑞这些，我只是想止痛🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2108235320227680459",
+        "created_at": "2026-10-08T16:47:57.000Z",
+        "display_text_range": [
+          14,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108237978397212900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956350631981236224",
+              "start": 0,
+              "username": "nerorel_1330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108237978397212900",
+        "in_reply_to_user_id": "1956350631981236224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108236672664289593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nerorel_1330 这些药我都没有，手边只有布洛芬、普瑞这些，我只是想止痛🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956350631981236224",
+        "conversation_id": "2108235320227680459",
+        "created_at": "2026-10-08T16:42:46.000Z",
+        "display_text_range": [
+          13,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108236672664289593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108236672664289593",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108235320227680459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 可乐定？尼莫地平？氟桂利嗪？破戒就留到最后吧。头痛确实很烦人呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "此号所有发言都是玛奇玛主人指使我发的，与我无关\nles|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108237978397212900",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 427,
+          "like_count": 2032,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1525
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-15T13:42:02.000Z",
+        "description": "05/顺女/LGBTQ+🌈友好/💊🚬💉/日常/键政\n主要是发些碎碎念，实际上备忘录躺着一大堆话\n传播药理知识，追求健康生活\n小号@HeJiaLeehh\nhttps://t.co/K8YxMOq4o7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "HeJiaLeehh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nerorel_1330",
+                "end": 99,
+                "expanded_url": "https://ngl.link/nerorel_1330",
+                "start": 76,
+                "url": "https://t.co/K8YxMOq4o7"
+              }
+            ]
+          }
+        },
+        "id": "1956350631981236224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108237770254926236",
+        "name": "伊藤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956350631981236224/1789645952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100601519473381377/TVnRNHdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 198,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "nerorel_1330",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

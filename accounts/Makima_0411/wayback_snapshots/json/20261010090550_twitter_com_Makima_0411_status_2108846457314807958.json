@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2108840295135883410",
+    "created_at": "2026-10-10T09:05:50.000Z",
+    "display_text_range": [
+      23,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T10:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108846457314807958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010190899989622786",
+          "start": 0,
+          "username": "dddw520123"
+        },
+        {
+          "end": 22,
+          "id": "1995586639465418752",
+          "start": 12,
+          "username": "TakiAster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108846457314807958",
+    "in_reply_to_user_id": "2010190899989622786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108846056406725079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddw520123 @TakiAster 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2108840295135883410",
+        "created_at": "2026-10-10T09:05:50.000Z",
+        "display_text_range": [
+          23,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T10:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108846457314807958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010190899989622786",
+              "start": 0,
+              "username": "dddw520123"
+            },
+            {
+              "end": 22,
+              "id": "1995586639465418752",
+              "start": 12,
+              "username": "TakiAster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108846457314807958",
+        "in_reply_to_user_id": "2010190899989622786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108846056406725079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddw520123 @TakiAster 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010190899989622786",
+        "conversation_id": "2108840295135883410",
+        "created_at": "2026-10-10T09:04:14.000Z",
+        "display_text_range": [
+          11,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T10:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108846056406725079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995586639465418752",
+              "start": 0,
+              "username": "TakiAster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108846056406725079",
+        "in_reply_to_user_id": "1995586639465418752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108840295135883410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakiAster 你们停更了我还看什么，为数不多磕的cp不能这么快就消失了！骷髅头你再骂几句奥特曼激怒围裙妈妈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "此号所有发言都是玛奇玛主人指使我发的，与我无关\nles|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108846457314807958",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 438,
+          "like_count": 2128,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1554
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T03:24:04.000Z",
+        "description": "我就是个蛋，别跟蛋计较",
+        "id": "2010190899989622786",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108846462952177777",
+        "name": "蛋蛋",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010190899989622786/1768103185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107513221108387840/uW9HlAKT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 26,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "dddw520123",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-01T20:11:55.000Z",
+        "description": "我是高冷男人",
+        "id": "1995586639465418752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108843883576852499",
+        "name": "𝑻𝒂𝒌𝒊 𝑨𝒔𝒕𝒆𝒓",
+        "pinned_tweet_id": "2108840295135883410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995586639465418752/1791286707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107435312079351808/BKscvEx8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 61,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "TakiAster",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

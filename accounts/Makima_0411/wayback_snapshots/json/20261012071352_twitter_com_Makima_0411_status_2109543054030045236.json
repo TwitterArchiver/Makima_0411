@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2106050157779591210",
+    "created_at": "2026-10-12T07:13:52.000Z",
+    "display_text_range": [
+      23,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T08:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109543054030045236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2096494030704259072",
+          "start": 0,
+          "username": "aranumono"
+        },
+        {
+          "end": 22,
+          "id": "2090608627417743360",
+          "start": 11,
+          "username": "XiuGuShe_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109543054030045236",
+    "in_reply_to_user_id": "2096494030704259072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109530301601132735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aranumono @XiuGuShe_2 你好美呀，我来啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2106050157779591210",
+        "created_at": "2026-10-12T07:13:52.000Z",
+        "display_text_range": [
+          23,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T08:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109543054030045236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2096494030704259072",
+              "start": 0,
+              "username": "aranumono"
+            },
+            {
+              "end": 22,
+              "id": "2090608627417743360",
+              "start": 11,
+              "username": "XiuGuShe_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109543054030045236",
+        "in_reply_to_user_id": "2096494030704259072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109530301601132735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aranumono @XiuGuShe_2 你好美呀，我来啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096494030704259072",
+        "conversation_id": "2106050157779591210",
+        "created_at": "2026-10-12T06:23:11.000Z",
+        "display_text_range": [
+          25,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T07:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109530301601132735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085036823252987904",
+              "start": 0,
+              "username": "Makima_0411"
+            },
+            {
+              "end": 24,
+              "id": "2090608627417743360",
+              "start": 13,
+              "username": "XiuGuShe_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109530301601132735",
+        "in_reply_to_user_id": "2085036823252987904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106050157779591210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makima_0411 @XiuGuShe_2 宝宝互fo吗你好萌呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "此号所有发言都是玛奇玛主人指使我发的，与我无关\nles|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109543054030045236",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 440,
+          "like_count": 2204,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1570
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T07:04:07.000Z",
+        "description": "Oder\n求投喂qnq 因为要买更多药才能活下去\n当然是真人 可以私联买其他照片.. ₍ᐢ‥ᐢ₎",
+        "id": "2096494030704259072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109540985265156392",
+        "name": "無邪気少女肉汁",
+        "pinned_tweet_id": "2108811837362114614",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096494030704259072/1788678371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096494892021342208/5E5RXuyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 40,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "aranumono",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T01:18:04.000Z",
+        "description": "精神病|💊|🔪🩸|🚬\n一號機 @Makima_0411\n此號不常用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "Makima_0411"
+              }
+            ]
+          }
+        },
+        "id": "2090608627417743360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106054061116305545",
+        "name": "銹骨蛇2.0",
+        "pinned_tweet_id": "2106053905671160207",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090608627417743360/1787275430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101712590976270337/NE6V2oeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 60,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "XiuGuShe_2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

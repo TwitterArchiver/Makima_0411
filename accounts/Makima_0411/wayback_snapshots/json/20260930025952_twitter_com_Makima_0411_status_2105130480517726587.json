@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2104911478570754448",
+    "created_at": "2026-09-30T02:59:52.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T03:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105130480517726587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011652236573884418",
+          "start": 0,
+          "username": "Yuro33tomato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105130480517726587",
+    "in_reply_to_user_id": "2011652236573884418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104911478570754448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuro33tomato 我就这样，什么都不懂乱嗑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2104911478570754448",
+        "created_at": "2026-09-30T02:59:52.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105130480517726587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011652236573884418",
+              "start": 0,
+              "username": "Yuro33tomato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105130480517726587",
+        "in_reply_to_user_id": "2011652236573884418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104911478570754448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuro33tomato 我就这样，什么都不懂乱嗑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011652236573884418",
+        "conversation_id": "2104911478570754448",
+        "created_at": "2026-09-29T12:29:38.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104911478570754448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104911478570754448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我磕药就是，一个学历很低的人，然后什么也不懂，就只是懵逼的磕药，我看你们天天讨论这些什么药理我都懵坤了呀，好像我磕药都没磕明白"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105130480517726587",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100733429264629760/_HuiFeen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 379,
+          "like_count": 1485,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1320
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-15T04:11:01.000Z",
+        "description": "不欢迎健全逼不欢迎家庭幸福的人不欢迎有钱人谢谢",
+        "id": "2011652236573884418",
+        "is_identity_verified": false,
+        "location": "和两千年后的你重逢",
+        "most_recent_tweet_id": "2104928925680013656",
+        "name": "天才恋狗癖",
+        "pinned_tweet_id": "2099901645283078272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011652236573884418/1783184878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074414465530138624/olu79s_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 48,
+          "like_count": 1710,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "Yuro33tomato",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

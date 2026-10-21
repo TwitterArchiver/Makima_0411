@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2105305748431601686",
+    "created_at": "2026-10-01T12:53:42.000Z",
+    "display_text_range": [
+      30,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T13:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105642311141273780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929671933723074560",
+          "start": 0,
+          "username": "guixinceres"
+        },
+        {
+          "end": 29,
+          "id": "2103350576025358336",
+          "start": 13,
+          "username": "buyaozaichipr80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105642311141273780",
+    "in_reply_to_user_id": "1929671933723074560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105634187219014009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guixinceres @buyaozaichipr80 大哥能不能搞清楚前因后果，他不这么干我会这样骂他吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-10-01T12:53:42.000Z",
+        "display_text_range": [
+          30,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105642311141273780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929671933723074560",
+              "start": 0,
+              "username": "guixinceres"
+            },
+            {
+              "end": 29,
+              "id": "2103350576025358336",
+              "start": 13,
+              "username": "buyaozaichipr80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105642311141273780",
+        "in_reply_to_user_id": "1929671933723074560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105634187219014009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guixinceres @buyaozaichipr80 大哥能不能搞清楚前因后果，他不这么干我会这样骂他吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929671933723074560",
+        "conversation_id": "2105305748431601686",
+        "created_at": "2026-10-01T12:21:25.000Z",
+        "display_text_range": [
+          30,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105634187219014009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2103350576025358336",
+              "start": 0,
+              "username": "buyaozaichipr80"
+            },
+            {
+              "end": 29,
+              "id": "2085036823252987904",
+              "start": 17,
+              "username": "Makima_0411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105634187219014009",
+        "in_reply_to_user_id": "2103350576025358336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105349145926246615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buyaozaichipr80 @Makima_0411 都能说出生物爹了还不得请高人啊😹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "les|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈|女友💕@kk2yyds @pr80yyds\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "kk2yyds"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "pr80yyds"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105642311141273780",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2097343267134447863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 400,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-02T22:50:27.000Z",
+        "description": "拥抱链上",
+        "id": "1929671933723074560",
+        "is_identity_verified": false,
+        "location": "Yau Tsim Mong District",
+        "most_recent_tweet_id": "2105634187219014009",
+        "name": "归心",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929671933723074560/1759907442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975821088702799872/nlcno9BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 119,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "guixinceres",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T05:08:18.000Z",
+        "description": "只是一个人在记录自己的日常\n不喜欢请划走好嘛 健全人自避\n正在上学中..住宿生周末/假期在线 可以找我聊天呀，等我回来了看见了都会回",
+        "id": "2103350576025358336",
+        "is_identity_verified": false,
+        "location": "🚪30纯绿好友位",
+        "most_recent_tweet_id": "2105539869321916421",
+        "name": "残缺体",
+        "pinned_tweet_id": "2103357656132132948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103350576025358336/1790313011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103356155556925440/sGI4qe7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "buyaozaichipr80",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

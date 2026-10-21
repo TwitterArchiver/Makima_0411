@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2085036823252987904",
+    "conversation_id": "2110729225548484962",
+    "created_at": "2026-10-15T13:47:17.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T14:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110729225548484962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805978078914723840",
+          "start": 3,
+          "username": "DogDie_three"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110729225548484962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110422274675491199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DogDie_three: 抖人，你们承认吧 你们就是很喜欢看这种和自伤、精神病有关的东西。那不然为什么我发别的东西都没有流量，我一发这种东西就有流量了啦，而且转发还比点赞多你们自己看就算了，还分享给朋友看。看吧，你们可喜欢看了，看完还要装作很清醒的来骂我几句。笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085036823252987904",
+        "conversation_id": "2110729225548484962",
+        "created_at": "2026-10-15T13:47:17.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T14:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110729225548484962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805978078914723840",
+              "start": 3,
+              "username": "DogDie_three"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110729225548484962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110422274675491199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DogDie_three: 抖人，你们承认吧 你们就是很喜欢看这种和自伤、精神病有关的东西。那不然为什么我发别的东西都没有流量，我一发这种东西就有流量了啦，而且转发还比点赞多你们自己看就算了，还分享给朋友看。看吧，你们可喜欢看了，看完还要装作很清醒的来骂我几句。笑死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805978078914723840",
+        "conversation_id": "2110422274675491199",
+        "created_at": "2026-10-14T17:27:34.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T18:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110422274675491199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110422274675491199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2800,
+          "like_count": 178,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "抖人，你们承认吧 你们就是很喜欢看这种和自伤、精神病有关的东西。那不然为什么我发别的东西都没有流量，我一发这种东西就有流量了啦，而且转发还比点赞多你们自己看就算了，还分享给朋友看。看吧，你们可喜欢看了，看完还要装作很清醒的来骂我几句。笑死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T16:15:47.000Z",
+        "description": "此号所有发言都是玛奇玛主人指使我发的，与我无关\nles|精神病|💊|🔪🩸|🚬\nLGBTQ友好🏳️‍🌈\n二號機@XiuGuShe_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "XiuGuShe_2"
+              }
+            ]
+          }
+        },
+        "id": "2085036823252987904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110729225548484962",
+        "name": "銹骨蛇",
+        "pinned_tweet_id": "2106050157779591210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085036823252987904/1789533919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 439,
+          "like_count": 2357,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1631
+        },
+        "url": "",
+        "username": "Makima_0411",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-26T14:55:14.000Z",
+        "description": "¥@-/：；",
+        "id": "1805978078914723840",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2110703194036928883",
+        "name": "咽下我的衣冠冢",
+        "pinned_tweet_id": "2105737700783579271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805978078914723840/1719413972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805978249018920960/rE6iae4O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 282,
+          "like_count": 3150,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 999
+        },
+        "url": "",
+        "username": "DogDie_three",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
